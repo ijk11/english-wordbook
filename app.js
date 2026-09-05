@@ -913,6 +913,15 @@ async function main() {
   nav('home');
 
   if ('serviceWorker' in navigator) {
+    // 새 서비스워커가 제어권을 넘겨받으면 한 번만 새로고침해서
+    // 이미 열려 있던 화면도 새 버전으로 갈아탄다. (첫 설치 때는 건너뜀)
+    const hadController = !!navigator.serviceWorker.controller;
+    let reloading = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (!hadController || reloading) return;
+      reloading = true;
+      location.reload();
+    });
     navigator.serviceWorker.register('sw.js').catch(() => {});
   }
 }

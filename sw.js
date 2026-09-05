@@ -1,6 +1,10 @@
 /* 오프라인용 서비스워커.
-   앱 껍데기는 캐시 우선, 단어 데이터는 네트워크 우선(있으면 최신, 없으면 캐시). */
-const CACHE = 'wordbook-v2';
+ *
+ * 앱 파일과 단어 데이터는 네트워크 우선, 실패하면 캐시로 넘어간다.
+ * (캐시 우선으로 뒀더니 새로 배포해도 폰에 설치된 앱은 옛날 화면을 계속 띄웠다.
+ *  파일이 다 합쳐 300KB 남짓이라 매번 받아도 부담이 없다.)
+ * 아이콘은 바뀔 일이 없으니 캐시 우선. */
+const CACHE = 'wordbook-v3';
 const SHELL = [
   './',
   './index.html',
@@ -28,30 +32,27 @@ self.addEventListener('activate', e => {
   );
 });
 
+const put = (request, response) => {
+  const copy = response.clone();
+  caches.open(CACHE).then(c => c.put(request, copy));
+  return response;
+};
+
 self.addEventListener('fetch', e => {
   const { request } = e;
   if (request.method !== 'GET' || new URL(request.url).origin !== location.origin) return;
 
-  const isData = request.url.includes('/data/');
-
-  if (isData) {
-    e.respondWith(
-      fetch(request)
-        .then(res => {
-          const copy = res.clone();
-          caches.open(CACHE).then(c => c.put(request, copy));
-          return res;
-        })
-        .catch(() => caches.match(request))
-    );
+  // 아이콘: 캐시에 있으면 그대로
+  if (request.url.includes('/icons/')) {
+    e.respondWith(caches.match(request).then(hit => hit || fetch(request).then(r => put(request, r))));
     return;
   }
 
+  // 나머지: 네트워크 우선, 끊기면 캐시 (문서 요청은 index.html 로 폴백)
   e.respondWith(
-    caches.match(request).then(hit => hit || fetch(request).then(res => {
-      const copy = res.clone();
-      caches.open(CACHE).then(c => c.put(request, copy));
-      return res;
-    }).catch(() => caches.match('./index.html')))
+    fetch(request)
+      .then(res => put(request, res))
+      .catch(() => caches.match(request)
+        .then(hit => hit || (request.mode === 'navigate' ? caches.match('./index.html') : undefined)))
   );
 });
