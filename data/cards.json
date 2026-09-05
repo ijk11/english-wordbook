@@ -1,0 +1,6726 @@
+{
+ "version": "202609050644",
+ "generatedAt": "2026-09-05T06:44:59+00:00",
+ "decks": [
+  {
+   "id": "toeic",
+   "name": "TOEIC 단어",
+   "short": "TOEIC",
+   "desc": "토익 LC/RC 에서 모은 필수 단어와 표현",
+   "color": "#5b8cff",
+   "count": 360
+  },
+  {
+   "id": "conversation",
+   "name": "일상 회화",
+   "short": "회화",
+   "desc": "원어민이 실제로 쓰는 구어체 표현과 관용구",
+   "color": "#f2994a",
+   "count": 122
+  },
+  {
+   "id": "opic",
+   "name": "OPIc 표현",
+   "short": "OPIc",
+   "desc": "오픽 답변에 바로 얹어 쓰는 자연스러운 표현",
+   "color": "#27ae60",
+   "count": 81
+  },
+  {
+   "id": "speaking",
+   "name": "TOEIC Speaking",
+   "short": "Speaking",
+   "desc": "사진 묘사·동작 표현 (한국어 → 영어 방향 연습용)",
+   "color": "#bb6bd9",
+   "count": 57
+  },
+  {
+   "id": "business",
+   "name": "실무 영어",
+   "short": "실무",
+   "desc": "하도급·계약·발표 등 업무 현장에서 쓰는 전문 용어",
+   "color": "#eb5757",
+   "count": 28
+  }
+ ],
+ "cards": [
+  {
+   "id": "toeic-796d3ffe06",
+   "deck": "toeic",
+   "term": "expressway",
+   "meaning": "고속도로",
+   "type": "word",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-e9ab01fbf2",
+   "deck": "toeic",
+   "term": "congested",
+   "meaning": "혼잡한",
+   "examples": [
+    "Which expressway is less congested in the morning?"
+   ],
+   "type": "word",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-df3daa4516",
+   "deck": "toeic",
+   "term": "demonstration",
+   "meaning": "시연회, 시범설명",
+   "type": "word",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-190cdf39c0",
+   "deck": "toeic",
+   "term": "a check",
+   "meaning": "수표",
+   "examples": [
+    "He will accept a check"
+   ],
+   "type": "phrase",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-254806d10b",
+   "deck": "toeic",
+   "term": "take over",
+   "meaning": "(자리를) 넘겨받다, 인계받다",
+   "examples": [
+    "He will take over for the branch manager"
+   ],
+   "type": "phrase",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-e003c122ee",
+   "deck": "toeic",
+   "term": "Set the record",
+   "meaning": "기록을 세우다",
+   "examples": [
+    "They set the record for sales",
+    "He set the record for total number of saves in baseball history"
+   ],
+   "type": "phrase",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-dcd1b31975",
+   "deck": "toeic",
+   "term": "Please be advised that",
+   "meaning": "~을 알려드립니다 (안내멘트); ~에 유의하시기 바랍니다",
+   "examples": [
+    "Please be advised that we have had to cancel your order because of a difficulty with our shipping agent"
+   ],
+   "type": "phrase",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-6af256caaf",
+   "deck": "toeic",
+   "term": "ongoing",
+   "meaning": "진행중인",
+   "examples": [
+    "ongoiong discussion"
+   ],
+   "type": "word",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-0bae214272",
+   "deck": "toeic",
+   "term": "on shedule",
+   "meaning": "예정대로",
+   "examples": [
+    "Materials did not arrive on schedule"
+   ],
+   "type": "phrase",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-909b7bdbe7",
+   "deck": "toeic",
+   "term": "cooking utensile",
+   "meaning": "조리도구",
+   "type": "phrase",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-14bde80558",
+   "deck": "toeic",
+   "term": "awards banquet",
+   "meaning": "시상식 연회",
+   "type": "phrase",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-ca70ae5501",
+   "deck": "toeic",
+   "term": "forward",
+   "meaning": "(물건, 정보를) 보내다",
+   "examples": [
+    "We will be forwarding our new cacalogue to you next week",
+    "I'll forward you the e-mail that I got from the committee"
+   ],
+   "type": "word",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-87ee78e63e",
+   "deck": "toeic",
+   "term": "grab a (quick) bite",
+   "meaning": "간단히 식사하다",
+   "examples": [
+    "Let's grab a quick bite to eat before the movie"
+   ],
+   "type": "phrase",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-c270a17e0d",
+   "deck": "toeic",
+   "term": "catch up",
+   "meaning": "서로의 근황에 대해 대화하다",
+   "examples": [
+    "I need to catch up with my old friends"
+   ],
+   "type": "phrase",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-12635b9ca2",
+   "deck": "toeic",
+   "term": "mail",
+   "meaning": "우편 (e-mail 과 구분 주의)",
+   "examples": [
+    "Should I submit my complaint by mail or e-mail?"
+   ],
+   "type": "word",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-34ec9920cb",
+   "deck": "toeic",
+   "term": "complaint",
+   "meaning": "불만사항",
+   "type": "word",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-0b945a3df5",
+   "deck": "toeic",
+   "term": "duplicate",
+   "meaning": "복사하다, 복사본 (발음주의: 두플리켓)",
+   "type": "word",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-5242105a44",
+   "deck": "toeic",
+   "term": "place an ad",
+   "meaning": "광고를 내다",
+   "examples": [
+    "We should place an ad for the new position",
+    "Do you think it is effective to place an ad in the paper?"
+   ],
+   "type": "phrase",
+   "date": "2025-04-27"
+  },
+  {
+   "id": "toeic-bc40f456bc",
+   "deck": "toeic",
+   "term": "compile a list",
+   "meaning": "목록을 정리하다",
+   "examples": [
+    "compile a list of clients",
+    "compile a list of suitable people for the job"
+   ],
+   "type": "phrase",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-cbb40fd43c",
+   "deck": "toeic",
+   "term": "refer",
+   "meaning": "참고하다 ; 언급하다",
+   "examples": [
+    "Refer to the TM for details",
+    "I promised not refer to the matter"
+   ],
+   "type": "word",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-b66fa27acb",
+   "deck": "toeic",
+   "term": "admire",
+   "meaning": "감상하다",
+   "examples": [
+    "admire the trees"
+   ],
+   "type": "word",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-5b46646f0b",
+   "deck": "toeic",
+   "term": "attend to",
+   "meaning": "보살피다, 처리하다",
+   "examples": [
+    "I have some urgent business to attend to",
+    "attend to the plants"
+   ],
+   "type": "phrase",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-92de120648",
+   "deck": "toeic",
+   "term": "back up",
+   "meaning": "차를 후진시키다",
+   "examples": [
+    "you can back up another two feet or so"
+   ],
+   "type": "phrase",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-0730e6216a",
+   "deck": "toeic",
+   "term": "be in the middle of",
+   "meaning": "한창 ~ 하는 중이다",
+   "type": "phrase",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-ae969db2e2",
+   "deck": "toeic",
+   "term": "How is (somthing) coming along?",
+   "meaning": "~는 어떻게 되가?",
+   "examples": [
+    "How is your research coming along?"
+   ],
+   "type": "sentence",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-b44c04da9f",
+   "deck": "toeic",
+   "term": "gathering",
+   "meaning": "모임",
+   "examples": [
+    "social gathering",
+    "It's just an informal gathering"
+   ],
+   "type": "word",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-0636bb635d",
+   "deck": "toeic",
+   "term": "make it",
+   "meaning": "시간 맞춰 가다, (모임 등) 참석하다 ; 성공하다, 버텨내다",
+   "examples": [
+    "I'm sorry I won't be able to make it on Saturday",
+    "Did you make it to the reception party last Wednesday?",
+    "The doctors think he's going to make it"
+   ],
+   "type": "phrase",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-72dd37717b",
+   "deck": "toeic",
+   "term": "or so",
+   "meaning": "쯤 (정도)",
+   "examples": [
+    "I've been here for five months or so"
+   ],
+   "type": "phrase",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-6e1dbeef00",
+   "deck": "toeic",
+   "term": "on sale",
+   "meaning": "판매 중인 ; 할인 중인",
+   "type": "phrase",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-eb60dbe8bf",
+   "deck": "toeic",
+   "term": "defective",
+   "meaning": "결함있는",
+   "examples": [
+    "defective product"
+   ],
+   "type": "word",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-f6649f6fab",
+   "deck": "toeic",
+   "term": "at no extra charge",
+   "meaning": "추가 비용 없이",
+   "type": "phrase",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-965cddea56",
+   "deck": "toeic",
+   "term": "That's good to hear",
+   "meaning": "그거 반가운 소식이네요",
+   "type": "phrase",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "toeic-3d92881ece",
+   "deck": "toeic",
+   "term": "fulfill",
+   "meaning": "(의무,약속,직무 등을) 다하다, 완료하다",
+   "examples": [
+    "fulfill one's duties"
+   ],
+   "notes": [
+    "fulfill a request 요청을 들어주다"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-0faedb6fd1",
+   "deck": "toeic",
+   "term": "quota",
+   "meaning": "할당량, 몫",
+   "examples": [
+    "I'm going home now - I've done my quota of work for the day"
+   ],
+   "notes": [
+    "meet a sales quota 판매 할당량을 채우다"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-be8216b448",
+   "deck": "toeic",
+   "term": "billing address",
+   "meaning": "청구서 발송지",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-9251f573b6",
+   "deck": "toeic",
+   "term": "expedite",
+   "meaning": "더 신속히 처리하다(=speed up)",
+   "examples": [
+    "expedite an order",
+    "We have developed rapid order processing to expedite deliveries to customers"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-379f511063",
+   "deck": "toeic",
+   "term": "reassurance",
+   "meaning": "안심시키기",
+   "examples": [
+    "We have been given reassurances that the water is safe to drink"
+   ],
+   "notes": [
+    "give/offer reassurance 안심 시켜주다"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-9d90cd399c",
+   "deck": "toeic",
+   "term": "sample",
+   "meaning": "맛보다(시식하다) ; 시도해보다",
+   "examples": [
+    "I sampled the delights of Greek cooking for the first time",
+    "sample various foods"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-ec2c925f5f",
+   "deck": "toeic",
+   "term": "appraise",
+   "meaning": "(업무를) 평가하다",
+   "examples": [
+    "Managers must appraise all staff"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-9b1cfd351d",
+   "deck": "toeic",
+   "term": "assume",
+   "meaning": "추정하다 ; (책임을) 맡다 ; ~척 하다",
+   "examples": [
+    "It is reasonable to assume that ~",
+    "Rebel forces have assumed control of the capital",
+    "He assumed an air of concern"
+   ],
+   "notes": [
+    "assume responsibility 업무를 맡다"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-f385bd30ed",
+   "deck": "toeic",
+   "term": "an air of",
+   "meaning": "~한 태도(느낌)",
+   "examples": [
+    "an air of superiority",
+    "an air of dignity",
+    "The room had an air of luxury"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-44bbb6841f",
+   "deck": "toeic",
+   "term": "plummet",
+   "meaning": "곤두박질치다, 급락하다",
+   "examples": [
+    "Share prices plummeted to an all-time low",
+    "Her spirits pummeted at the thought of meeting him again"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-7df25b0ceb",
+   "deck": "toeic",
+   "term": "spirits",
+   "meaning": "기분, 마음",
+   "examples": [
+    "be in high/low spirits",
+    "You must try and keep your spirits up"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-b46ea12250",
+   "deck": "toeic",
+   "term": "proceeds",
+   "meaning": "수익금",
+   "examples": [
+    "The proceeds of the concert will go to charity",
+    "donate the proceeds"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-a81119e781",
+   "deck": "toeic",
+   "term": "sunscreen",
+   "meaning": "자외선차단제",
+   "notes": [
+    "apply some sun screen 자외선 차단제를 바르다"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-092d4143f1",
+   "deck": "toeic",
+   "term": "land at the nearby airport",
+   "meaning": "가까운 공항에 착륙하다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-7cafe96866",
+   "deck": "toeic",
+   "term": "be involved in a discussion",
+   "meaning": "토론에 참여하다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-7c46506d20",
+   "deck": "toeic",
+   "term": "the edge of the stream",
+   "meaning": "개울가",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-df695ef528",
+   "deck": "toeic",
+   "term": "board up the doorway",
+   "meaning": "출입구를 판자쳐서 막다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-5e8e2b3e03",
+   "deck": "toeic",
+   "term": "parcel",
+   "meaning": "짐, 소포(꾸러미)",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-6f47815a8d",
+   "deck": "toeic",
+   "term": "consult",
+   "meaning": "상담하다 ; 참고하다",
+   "examples": [
+    "If the pain continue, consult your doctor",
+    "He consulted the manual (refer to)"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-1eee34541b",
+   "deck": "toeic",
+   "term": "staircase",
+   "meaning": "계단",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-8c49830df6",
+   "deck": "toeic",
+   "term": "dine with friends",
+   "meaning": "친구와 식사하다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-6dd0d8107d",
+   "deck": "toeic",
+   "term": "direct traffic",
+   "meaning": "(경찰관이) 교통정리하다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-0c07115e2f",
+   "deck": "toeic",
+   "term": "dish out",
+   "meaning": "음식을 담아주다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-4946c415bc",
+   "deck": "toeic",
+   "term": "dispose of",
+   "meaning": "없애다",
+   "examples": [
+    "the difficulties of disposing of nuclear waste",
+    "disposing of litter"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-55b56ad89f",
+   "deck": "toeic",
+   "term": "flyers",
+   "meaning": "전단지",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-b4eea07f5d",
+   "deck": "toeic",
+   "term": "passerby",
+   "meaning": "지나가던 사람",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-077de38e43",
+   "deck": "toeic",
+   "term": "draw the curtains",
+   "meaning": "커튼을 모두 치다(쳐서 어둡게 하다)",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-f5f87cd969",
+   "deck": "toeic",
+   "term": "draw up",
+   "meaning": "(세심한 생각, 계획) 만들다(작성하다)",
+   "examples": [
+    "draw up a contract",
+    "draw up a list"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-117dc384e1",
+   "deck": "toeic",
+   "term": "examine(see) a patient",
+   "meaning": "환자를 진찰하다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-f253bdaa9a",
+   "deck": "toeic",
+   "term": "file",
+   "meaning": "(문서) 보관하다, 정리하다 ; (소송 등) 제기하다",
+   "examples": [
+    "The forms should be filed alphabetically",
+    "Please file it in my 'Research' file.",
+    "file for divorce",
+    "file a complaint"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-d915df4e79",
+   "deck": "toeic",
+   "term": "inflate",
+   "meaning": "(공기, 가스로)부풀리다, (가격이) 오르다",
+   "examples": [
+    "inflate your life jacket by pulling sharply on the cord",
+    "The life jacket failed to inflate",
+    "The principal effect of the demand for new houses was to inflate prices"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-d542cb0e1a",
+   "deck": "toeic",
+   "term": "tablecloth",
+   "meaning": "식탁보",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-389c07ecea",
+   "deck": "toeic",
+   "term": "scenery",
+   "meaning": "풍경, 경치 (발음 : 시너리)",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-17c9f1ac5e",
+   "deck": "toeic",
+   "term": "get an injection",
+   "meaning": "주사를 맞다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-c57bf7ca7c",
+   "deck": "toeic",
+   "term": "give out notices",
+   "meaning": "공지사항을 발표하다",
+   "examples": [
+    "We gave out the notice an hour ago"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-6eb5fecb60",
+   "deck": "toeic",
+   "term": "groom",
+   "meaning": "(동물을) 손질하다",
+   "examples": [
+    "groom a horse / dog / cat"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-628de53cd8",
+   "deck": "toeic",
+   "term": "change",
+   "meaning": "거스름돈, 동전, 잔돈",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-3f4c8ad76b",
+   "deck": "toeic",
+   "term": "hold a conversation",
+   "meaning": "대화하다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-1f804c182f",
+   "deck": "toeic",
+   "term": "involve in a discussion",
+   "meaning": "토론하다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-e50351e0ca",
+   "deck": "toeic",
+   "term": "knit",
+   "meaning": "뜨개질하다",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-58309876b3",
+   "deck": "toeic",
+   "term": "make a point",
+   "meaning": "요점을 밝히다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-ac390b9bc4",
+   "deck": "toeic",
+   "term": "pottery",
+   "meaning": "도자기",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-606de96f7b",
+   "deck": "toeic",
+   "term": "make the bed",
+   "meaning": "잠자리를 정리하다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-b498b2eee4",
+   "deck": "toeic",
+   "term": "hillside",
+   "meaning": "산허리",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-a724d7481f",
+   "deck": "toeic",
+   "term": "officiate",
+   "meaning": "사회를 보다",
+   "examples": [
+    "officiate at a company function"
+   ],
+   "notes": [
+    "officiate one's wedding 주례를 보다"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-742911e601",
+   "deck": "toeic",
+   "term": "function",
+   "meaning": "행사, 의식",
+   "examples": [
+    "The hall provided a venue for weddings and other functions"
+   ],
+   "notes": [
+    "company function 회사 행사"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-f08250d55e",
+   "deck": "toeic",
+   "term": "cash register",
+   "meaning": "(가게 계산대에 있는) 현금출납기",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-5d1151f56e",
+   "deck": "toeic",
+   "term": "A piece of equipment(machinery)",
+   "meaning": "장비 하나",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-c44fb03d5a",
+   "deck": "toeic",
+   "term": "sewing machine",
+   "meaning": "재봉틀",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-151e6bb651",
+   "deck": "toeic",
+   "term": "farm machinery",
+   "meaning": "농기계",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-18db0ca383",
+   "deck": "toeic",
+   "term": "pack up",
+   "meaning": "(직장을) 그만두다",
+   "examples": [
+    "What made you pack up a good job like that?"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-edcba359dc",
+   "deck": "toeic",
+   "term": "peer into",
+   "meaning": "자세히 들여다보다",
+   "examples": [
+    "peer into a microscope",
+    "peer through a telescope"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-0775df4fce",
+   "deck": "toeic",
+   "term": "orchard",
+   "meaning": "과수원",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-b10459e738",
+   "deck": "toeic",
+   "term": "plough",
+   "meaning": "쟁기, 쟁기로 갈다",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-93a524e00e",
+   "deck": "toeic",
+   "term": "wagon",
+   "meaning": "마차",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-d5e7d996e7",
+   "deck": "toeic",
+   "term": "merchandise",
+   "meaning": "상품",
+   "examples": [
+    "a wide selection of merchandise"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-a13080d937",
+   "deck": "toeic",
+   "term": "push up the sleeves",
+   "meaning": "소매를 걷다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-b19f56e333",
+   "deck": "toeic",
+   "term": "bulletin board",
+   "meaning": "게시판",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-a6ddab165d",
+   "deck": "toeic",
+   "term": "put out the fire",
+   "meaning": "불을 끄다",
+   "examples": [
+    "It took two hours to put out the fire",
+    "Fire is put out by fire"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-98f742a311",
+   "deck": "toeic",
+   "term": "sail",
+   "meaning": "항해하다 ; 돛",
+   "examples": [
+    "As the boat moved down the river the wind began to fill the sails",
+    "a ship under sails",
+    "She moved away like a ship in full sail."
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-a7c1e5b65c",
+   "deck": "toeic",
+   "term": "rake the leaves",
+   "meaning": "나뭇잎을 갈퀴로 긁어모으다",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-b3b4264690",
+   "deck": "toeic",
+   "term": "sheet music , a sheet of music",
+   "meaning": "악보",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-1d4792f681",
+   "deck": "toeic",
+   "term": "lawn",
+   "meaning": "잔디",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-47dff77938",
+   "deck": "toeic",
+   "term": "roof tiles",
+   "meaning": "지붕 기와",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-10db7ff47e",
+   "deck": "toeic",
+   "term": "porch",
+   "meaning": "베란다",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-7d0579b87e",
+   "deck": "toeic",
+   "term": "rinse",
+   "meaning": "(비누를 쓰지 않고 물에) 씻다, 헹구다",
+   "examples": [
+    "Rinse the cooked pasta with boiling water"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-bf6868f351",
+   "deck": "toeic",
+   "term": "run out of",
+   "meaning": "다 써버리다, 소진하다",
+   "examples": [
+    "They've run out of gas",
+    "I have run out of paitience with her",
+    "We've nearly run out of paper"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-0c08c56147",
+   "deck": "toeic",
+   "term": "water's edge",
+   "meaning": "물가",
+   "examples": [
+    "We walked down to the water's edge",
+    "Sheep waddle along the water's edge"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-b462f83092",
+   "deck": "toeic",
+   "term": "waddle",
+   "meaning": "뒤뚱뒤뚱 걷다",
+   "examples": [
+    "The fat person walked with a waddle"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-200958d255",
+   "deck": "toeic",
+   "term": "salute",
+   "meaning": "경례하다 ; 경의의 표시",
+   "examples": [
+    "salute the flag",
+    "They all raised their glasses in salute"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-f22b98abe5",
+   "deck": "toeic",
+   "term": "gravel",
+   "meaning": "자갈",
+   "examples": [
+    "scatter gravel on the path",
+    "I crunched across the gravel to the front door"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-11b4879ddd",
+   "deck": "toeic",
+   "term": "crunch",
+   "meaning": "저벅저벅 소리를 내며 가다",
+   "examples": [
+    "the crunch of feet on snow",
+    "can you hear the crunch?"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-19baf43f81",
+   "deck": "toeic",
+   "term": "purse",
+   "meaning": "지갑",
+   "examples": [
+    "I took a coin out of my purse and gave it to the child"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-374e790ae1",
+   "deck": "toeic",
+   "term": "baked goods",
+   "meaning": "오븐에 구운 제품, 제과류",
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-0afd55b391",
+   "deck": "toeic",
+   "term": "refreshment",
+   "meaning": "가벼운 식사, 다과",
+   "examples": [
+    "Light refreshments will be served during the break",
+    "We had a short stop for refreshment."
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-93a3e7dccf",
+   "deck": "toeic",
+   "term": "sew",
+   "meaning": "바느질하다, 꿰매다",
+   "examples": [
+    "Can you sew a button on for me?",
+    "Surgeons were able to sew the finger back on"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-a5ce24401f",
+   "deck": "toeic",
+   "term": "garment",
+   "meaning": "의복, 옷",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-a4f3bebfc7",
+   "deck": "toeic",
+   "term": "choir",
+   "meaning": "합창단",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-968435648a",
+   "deck": "toeic",
+   "term": "sit across from (each other)",
+   "meaning": "마주보고 앉다",
+   "examples": [
+    "Two opponents sit across from each other and put their elbows on a table."
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-28f89128ab",
+   "deck": "toeic",
+   "term": "crate",
+   "meaning": "(물품 운송용 나무) 상자; 나무상자(단단한거)",
+   "examples": [
+    "a crate of bananas",
+    "a crate of apples",
+    "a crate of beer"
+   ],
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-21fe296082",
+   "deck": "toeic",
+   "term": "shallow water",
+   "meaning": "얕은 물",
+   "examples": [
+    "These fish are found in shallow waters arount the coast"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-04325687bf",
+   "deck": "toeic",
+   "term": "archway",
+   "meaning": "아치형 입구",
+   "type": "word",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "toeic-717828e60d",
+   "deck": "toeic",
+   "term": "be subject to",
+   "meaning": "(나쁜 영향을 받아) ~될 수 있는; ~될 수 있다 ; ~의 영향을 받다 ; ~에 따라야 한다",
+   "examples": [
+    "Prices are subject to change without notice",
+    "Flights are subject to delay because of the fog",
+    "Prices are subject to change",
+    "All reservations are subject to availability",
+    "The offer is subject to approval",
+    "Outdoor events are subject to weather conditions",
+    "Employees are subject to company rules",
+    "The final approval is subject to management review"
+   ],
+   "notes": [
+    "But that is subject to change 바뀔 수도 있어요"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-8cd5252cac",
+   "deck": "toeic",
+   "term": "be eligible for",
+   "meaning": "자격(권한)이 있는",
+   "examples": [
+    "You are eligible for a refund within 30 days",
+    "When are you eligible to vote in your country?"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-2ad6bbffba",
+   "deck": "toeic",
+   "term": "as a token of my appreciatio",
+   "meaning": "n 감사의 표시로",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-ce186f569c",
+   "deck": "toeic",
+   "term": "in a timely manner",
+   "meaning": "제 시간에, 제 때에",
+   "examples": [
+    "Student should finish their assignment in a timely manner"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-70d15f18ed",
+   "deck": "toeic",
+   "term": "committed to",
+   "meaning": "몰두하다, 전념하다",
+   "examples": [
+    "The government is committed to housing the refugees",
+    "We are fully committed to this policy"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-638d33718c",
+   "deck": "toeic",
+   "term": "under consideration",
+   "meaning": "검토중인",
+   "examples": [
+    "The proposals are currently under consideration",
+    "He's under consideration of taking a class"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-6619c873a1",
+   "deck": "toeic",
+   "term": "on a first come, first served basis",
+   "meaning": "선착순으로",
+   "examples": [
+    "Tickets are available on a first come, first served basis"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-23fd09a36a",
+   "deck": "toeic",
+   "term": "admit",
+   "meaning": "인정하다, 자백하다 ; 입장(가입)을 허락하다",
+   "examples": [
+    "She admits to being strict with her children",
+    "She admitted to having stolen the car.",
+    "Each ticket admits one adult",
+    "You will not be admitted to the theatre after the performance has started",
+    "The society admits all US citizens over 21"
+   ],
+   "type": "word",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-c9d4adfbe9",
+   "deck": "toeic",
+   "term": "consensus",
+   "meaning": "합의, 의견일치",
+   "examples": [
+    "There is growing consensus of opinoin on the issue",
+    "an attempt to reach a consensus"
+   ],
+   "type": "word",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-66a6967f70",
+   "deck": "toeic",
+   "term": "account for",
+   "meaning": "설명하다 ; 비율을 차지하다",
+   "examples": [
+    "How do you account for the show's success?",
+    "Imports account for 40% of total sales"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-5e9a429c2d",
+   "deck": "toeic",
+   "term": "be equipped with",
+   "meaning": "갖춰져 있는",
+   "examples": [
+    "The room is equipped with projectors and sound systems",
+    "the most well-equipped hostpial in London"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-c24a2fa5cd",
+   "deck": "toeic",
+   "term": "on order",
+   "meaning": "주문중인 (주문된 것이 아직 안옴)",
+   "examples": [
+    "The machine parts are still on order"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-3685ecd6c6",
+   "deck": "toeic",
+   "term": "at your earliest convenience",
+   "meaning": "가급적이면 빨리",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-03087d11ef",
+   "deck": "toeic",
+   "term": "run short of",
+   "meaning": "다 떨어진",
+   "examples": [
+    "We've run short of milk",
+    "He has run short of money"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-5d09746a22",
+   "deck": "toeic",
+   "term": "go into effect",
+   "meaning": "실시되다, 적용되다",
+   "examples": [
+    "If the bill is passed , it will go into effect in 2011",
+    "When will the price increase go into effect?"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-7309630fbd",
+   "deck": "toeic",
+   "term": "bill",
+   "meaning": "법안",
+   "type": "word",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-df9bfdfcaf",
+   "deck": "toeic",
+   "term": "allocate",
+   "meaning": "할당하다",
+   "examples": [
+    "I allocate tasks and projects to individuals who I feel will provide best value",
+    "The government will allocate 12 million dollars for developing the software"
+   ],
+   "type": "word",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-a27015bf78",
+   "deck": "toeic",
+   "term": "pose risk/threat",
+   "meaning": "위험을 야기하다",
+   "examples": [
+    "The chmicals pose little risk to human health",
+    "Fish oil supplements may pose a risk to some patients"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-6c7df54568",
+   "deck": "toeic",
+   "term": "step down",
+   "meaning": "사임하다",
+   "examples": [
+    "The citizens demanded the president step down"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-8f7559ae6b",
+   "deck": "toeic",
+   "term": "go over budget",
+   "meaning": "예산을 초과하다 (be over budget)",
+   "examples": [
+    "Did we go over budget?",
+    "The project went over budget by $2 million",
+    "The campaign is already over budget"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-d08ac2ddb1",
+   "deck": "toeic",
+   "term": "opt for",
+   "meaning": "선택하다",
+   "examples": [
+    "Many South Korean couples opt for a Western-style wedding"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-6052e692aa",
+   "deck": "toeic",
+   "term": "be tied up",
+   "meaning": "무척 바쁜; 일정 등으로 바쁘다",
+   "examples": [
+    "I am so tied up these days",
+    "I'm tied up with work until next Wednesday",
+    "I'm tied up with meetings all morning"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-a0db073e01",
+   "deck": "toeic",
+   "term": "back out",
+   "meaning": "손떼다, 물러서다",
+   "examples": [
+    "It's too late to back out not"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-e413ef2c9f",
+   "deck": "toeic",
+   "term": "ramp up",
+   "meaning": "늘리다",
+   "examples": [
+    "France plans to ramp up its nuclear power production"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-5a77dfcb28",
+   "deck": "toeic",
+   "term": "in light of",
+   "meaning": "~을 고려하여",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-adf690c0b4",
+   "deck": "toeic",
+   "term": "be sure to",
+   "meaning": "반드시 ~ 하십시오(지시, 권고 표현)",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-e3f1cf6e79",
+   "deck": "toeic",
+   "term": "in observance of",
+   "meaning": "~을 기념하여 (공휴일 등)",
+   "examples": [
+    "In observance of the holiday, the bank will be closed next Monday"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-9417142d36",
+   "deck": "toeic",
+   "term": "is subject to approval",
+   "meaning": "승인 대상이니, 승인을 받아야 하는",
+   "examples": [
+    "The proposal is subject to approval by the shareholders",
+    "The plan is subject to her approval"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-944e47d621",
+   "deck": "toeic",
+   "term": "should be directed to",
+   "meaning": "~에게 문의하시기 바랍니다",
+   "examples": [
+    "Any questions should be directed to the guides in the building",
+    "All inquiries should be directed to the HR department"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-a6b21d8b22",
+   "deck": "toeic",
+   "term": "run into traffic",
+   "meaning": "교통체증을 겪다",
+   "examples": [
+    "We might be late if we run into traffic",
+    "I don't wanna run into traffic"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-344a3e9e19",
+   "deck": "toeic",
+   "term": "fill out the form",
+   "meaning": "양식을 작성하다",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-6c42188436",
+   "deck": "toeic",
+   "term": "come with",
+   "meaning": "딸려 있다",
+   "examples": [
+    "Does the printer come with a cable?",
+    "All main courses come with salad or vegetables"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-d73b452cef",
+   "deck": "toeic",
+   "term": "cutting it close",
+   "meaning": "시간이 촉박하다",
+   "examples": [
+    "We're cutting it close, Let's hurry"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-32c7fa51c7",
+   "deck": "toeic",
+   "term": "short-staffed",
+   "meaning": "인력이 부족한",
+   "examples": [
+    "We're very short-staffed"
+   ],
+   "type": "word",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-8d48411fdf",
+   "deck": "toeic",
+   "term": "behind schedule",
+   "meaning": "일정보다 늦은; 일정에 뒤처진",
+   "examples": [
+    "The manufacture fell behind schedule",
+    "The tunnel project has already fallen behind schedule",
+    "It's an hour behind schedule"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-f007305628",
+   "deck": "toeic",
+   "term": "incur",
+   "meaning": "비용을 물다",
+   "examples": [
+    "Contractors who fall behind schedule incur heavy financial penalties"
+   ],
+   "type": "word",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-19a8649f27",
+   "deck": "toeic",
+   "term": "hold accountable for",
+   "meaning": "~에게 책임을 지우다",
+   "examples": [
+    "I hold him accountable for it",
+    "Is it fair to hold her accountable for something she said so long ago?",
+    "Hold him accountable for his actions"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-8a5e8136ef",
+   "deck": "toeic",
+   "term": "reach out to",
+   "meaning": "연락하다",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-8f1dacae3f",
+   "deck": "toeic",
+   "term": "in the red",
+   "meaning": "적자를 내는",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-312f5bda8a",
+   "deck": "toeic",
+   "term": "well-received",
+   "meaning": "좋은 평가를 받는",
+   "examples": [
+    "The play was well received by the critics"
+   ],
+   "type": "word",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-5f2a960b25",
+   "deck": "toeic",
+   "term": "go hand in hand (with)",
+   "meaning": "밀접한 관련이 있는",
+   "examples": [
+    "Poverty and poor health often go hand in hand",
+    "Music always seems to go hand in hand with romance",
+    "Innovation goes hand in hand with risk"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-a283ad75f1",
+   "deck": "toeic",
+   "term": "make up for",
+   "meaning": "보상하다, 만회하다",
+   "examples": [
+    "Nothing can make up for the loss of a child",
+    "We were anxious to make up for lost time."
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-e1d5a303c5",
+   "deck": "toeic",
+   "term": "tailored to",
+   "meaning": "(어떤 프로그램이) ~에 맞춰진",
+   "examples": [
+    "Education programs specially tailored to these children"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-64da8a296c",
+   "deck": "toeic",
+   "term": "fall behind schedule",
+   "meaning": "일정에 뒤쳐지다",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-d9df395265",
+   "deck": "toeic",
+   "term": "undergo maintenance",
+   "meaning": "정비를 받다",
+   "examples": [
+    "The system will undergo maintenance this weekend"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-9b0b710bad",
+   "deck": "toeic",
+   "term": "keep posted",
+   "meaning": "계속 알려주다",
+   "examples": [
+    "He promised to Keep them posted on the shipment status"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-5d984300bb",
+   "deck": "toeic",
+   "term": "leave it up to",
+   "meaning": "~에게 맡기다",
+   "examples": [
+    "I'll leave it up to your judgment",
+    "We cannot leave it up to nations and industries to do the work for us"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-d401fad05c",
+   "deck": "toeic",
+   "term": "in line with",
+   "meaning": "일치한, 연관된, 조화를 이룬",
+   "examples": [
+    "Annual pay increases will be in line with inflation",
+    "The new policy is in line with our values"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-fa07d7beb8",
+   "deck": "toeic",
+   "term": "jump to a conclusion",
+   "meaning": "성급한 결론을 내리다",
+   "examples": [
+    "We must not jumpt to a conclusion",
+    "It's too early to jump to the conclusion that he is the criminal"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-cf8b631a4f",
+   "deck": "toeic",
+   "term": "on track",
+   "meaning": "순조롭게 진행되고 있는",
+   "examples": [
+    "The growth of the IT industry is on track"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "toeic-90f3f44744",
+   "deck": "toeic",
+   "term": "earlier",
+   "meaning": "아까 전에",
+   "examples": [
+    "I saw him earlier",
+    "What did you say earlier?"
+   ],
+   "type": "word",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "toeic-ac4d0b4e9d",
+   "deck": "toeic",
+   "term": "come up with",
+   "meaning": "해답을 내놓다 ; 마련하다",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "toeic-3a76aca282",
+   "deck": "toeic",
+   "term": "on(at) short notice",
+   "meaning": "예고없이, 갑작스런",
+   "examples": [
+    "Thank you for seeing me on such short notice"
+   ],
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "toeic-6186f7d4bd",
+   "deck": "toeic",
+   "term": "refreshments",
+   "meaning": "다과",
+   "type": "word",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "toeic-ebb485293d",
+   "deck": "toeic",
+   "term": "thereby",
+   "meaning": "그렇게 함으로써",
+   "examples": [
+    "Regular exercise strengthens the heart, thereby reducing the risk of heart attack"
+   ],
+   "type": "word",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "toeic-ad661f4af4",
+   "deck": "toeic",
+   "term": "increase one's presence",
+   "meaning": "존재감을 높이다, 입지를 강화하다",
+   "type": "phrase",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "toeic-da0ae0cb6e",
+   "deck": "toeic",
+   "term": "It is imperative that",
+   "meaning": "반드시 ~ 되어야 한다",
+   "examples": [
+    "It is absolutely imperative that we finish by next week",
+    "It is imperative to continue the treatment for at least two months"
+   ],
+   "type": "phrase",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "toeic-dd6cfc6199",
+   "deck": "toeic",
+   "term": "in accordance with",
+   "meaning": "~에 따라",
+   "examples": [
+    "in accordance with legal requirements",
+    "You should behave in accordance with common sense"
+   ],
+   "type": "phrase",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "toeic-eb3efd54d1",
+   "deck": "toeic",
+   "term": "delegation",
+   "meaning": "대표단 ; 위임",
+   "examples": [
+    "The Vaticanian delegation",
+    "delegation of authority"
+   ],
+   "type": "word",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "toeic-d241222acb",
+   "deck": "toeic",
+   "term": "upon receipt of payment",
+   "meaning": "입금되는 대로, 돈을 받는 대로",
+   "examples": [
+    "Goods will be delivered upon receipt of payment",
+    "We will ship upon receipt of your payment"
+   ],
+   "type": "phrase",
+   "date": "2025-06-05"
+  },
+  {
+   "id": "toeic-eabedc664e",
+   "deck": "toeic",
+   "term": "Stump",
+   "meaning": "그루터기",
+   "notes": [
+    "Stumps protude from the water 그루터기들이 물에서 튀어나와 있다"
+   ],
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-4d91c86caf",
+   "deck": "toeic",
+   "term": "protude",
+   "meaning": "튀어나오다, 돌출되다",
+   "examples": [
+    "He hung his coat on a nail protuding from the wall",
+    "He wanted me to protude my tongue"
+   ],
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-8d2b5d32a1",
+   "deck": "toeic",
+   "term": "coil",
+   "meaning": "말리다",
+   "examples": [
+    "ropes are coiled on the deck"
+   ],
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-155286e1ab",
+   "deck": "toeic",
+   "term": "stack",
+   "meaning": "더미",
+   "examples": [
+    "I have a stack of emails in my inbox"
+   ],
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-811ab3dccd",
+   "deck": "toeic",
+   "term": "inbox",
+   "meaning": "받은 편지함(메일 수신함)",
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-75387bbd02",
+   "deck": "toeic",
+   "term": "span",
+   "meaning": "걸쳐 이어지다, 가로지르다 ; 폭(너비)",
+   "examples": [
+    "His acting career spanned 55 years",
+    "Family photos spanning five generations were stolen",
+    "The operation, which spanned nine countries, resulted in 200 arrests",
+    "a series of bridges spanning the river",
+    "The kite has a span of 1.5 metres",
+    "I worked with him over a span of six years"
+   ],
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-d54b6896f8",
+   "deck": "toeic",
+   "term": "lead",
+   "meaning": "이어지다",
+   "examples": [
+    "Which door leads to the yard?",
+    "A trail leads to a campsite"
+   ],
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-e27fa491d0",
+   "deck": "toeic",
+   "term": "I know it's short notice",
+   "meaning": ", but I'm wondering if you can do me a favor 갑작스럽지만.. 부탁좀 드려도 될까요?",
+   "type": "sentence",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-008781813c",
+   "deck": "toeic",
+   "term": "cubicle",
+   "meaning": "사무실에 일하는 자리(칸막이로 만든)",
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-53f074b306",
+   "deck": "toeic",
+   "term": "revenue",
+   "meaning": "수익",
+   "notes": [
+    "daily revenue 하루 매출"
+   ],
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-71938e6599",
+   "deck": "toeic",
+   "term": "office safe",
+   "meaning": "사무실 금고",
+   "type": "phrase",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-c9c5aa9f53",
+   "deck": "toeic",
+   "term": "safe",
+   "meaning": "금고",
+   "examples": [
+    "The safe had been blown by the thieves",
+    "She locked her passport and money in the safe"
+   ],
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-cec0cc370c",
+   "deck": "toeic",
+   "term": "due",
+   "meaning": "내야할 돈(회비, 요금 등)",
+   "examples": [
+    "to pay your dues"
+   ],
+   "notes": [
+    "amout due 지불액"
+   ],
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-98dc75dfbe",
+   "deck": "toeic",
+   "term": "have the best of both worlds",
+   "meaning": "두가지 측면을 모두 충족하다, 두가지 장점이 있다, 일석이조다",
+   "examples": [
+    "You can have the best of both worlds with our new product"
+   ],
+   "type": "phrase",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-d000f2ab2a",
+   "deck": "toeic",
+   "term": "Over",
+   "meaning": "\"그 기간 전체에 걸쳐 지속(반복)\"하는 경우(전체 기간 동안)",
+   "examples": [
+    "It rained several times over the weekend",
+    "He gained a lot of experience over the past year",
+    "He had many meetings over the past few weeks",
+    "We'll be reviewing applications over the next week"
+   ],
+   "type": "word",
+   "date": "2025-06-11",
+   "topic": "기간을 나타내는 전치사들"
+  },
+  {
+   "id": "toeic-6fe3d4cc60",
+   "deck": "toeic",
+   "term": "by",
+   "meaning": "\"그 시점 이전에 완료될 것\"을 나타냄",
+   "examples": [
+    "I will finish this book by tomorrow",
+    "By the time he arrived, she had already left"
+   ],
+   "notes": [
+    "Please submit the report by Friday (금요일 이전이면 더 좋음)"
+   ],
+   "type": "word",
+   "date": "2025-06-11",
+   "topic": "기간을 나타내는 전치사들"
+  },
+  {
+   "id": "toeic-1fc811e00d",
+   "deck": "toeic",
+   "term": "until",
+   "meaning": "그 시점까지 계속되는 상태나 동작, 그 시점 이후에는 변화가 일어남",
+   "examples": [
+    "you can't enter until the gate opponents"
+   ],
+   "notes": [
+    "I stayed up until 2 a.m. (2시에 잠든 듯)",
+    "They lived there until 2010 (이후엔 안산다)"
+   ],
+   "type": "word",
+   "date": "2025-06-11",
+   "topic": "기간을 나타내는 전치사들"
+  },
+  {
+   "id": "toeic-419510eec0",
+   "deck": "toeic",
+   "term": "in",
+   "meaning": "그 안에 한 번 일어나는 일의 뉘앙스",
+   "examples": [
+    "I have a job interview in the next week",
+    "Something big will happen in the next week"
+   ],
+   "type": "word",
+   "date": "2025-06-11",
+   "topic": "기간을 나타내는 전치사들"
+  },
+  {
+   "id": "toeic-0cdd35bfee",
+   "deck": "toeic",
+   "term": "by the time VS until",
+   "meaning": "기간을 나타내는 전치사들",
+   "examples": [
+    "I'll wait until you arrive",
+    "They stayed at the cafe until it closed"
+   ],
+   "notes": [
+    "By the time 어떤 일이 완료되는 시점(뒤에 오는 사건은 이미 완료된 상태)",
+    "By the time you arrive, I'll have finished cooking 네가 도착할 무렵엔,, 난 이미 끝냈을걸",
+    "By the time we got there, the concert had ended 도착했을 무렵엔,, 이미 끝났었어",
+    "Until 특정 시점까지 어떤 상태/행동이 계속됨(보통 지속동사와 함께 사용)"
+   ],
+   "type": "phrase",
+   "date": "2025-06-11",
+   "topic": "기간을 나타내는 전치사들"
+  },
+  {
+   "id": "toeic-1f8131aac4",
+   "deck": "toeic",
+   "term": "on time",
+   "meaning": "예정된 시간에 딱 맞춰 늦지 않게 도착/이행하는 것",
+   "examples": [
+    "The train arrived on time",
+    "Please start the meeting on time",
+    "He always pays his bills on time"
+   ],
+   "type": "phrase",
+   "date": "2025-06-11",
+   "topic": "기간을 나타내는 전치사들"
+  },
+  {
+   "id": "toeic-28a72bc9f7",
+   "deck": "toeic",
+   "term": "in time",
+   "meaning": "너무 늦기 전에, 혹은 시간에 맞춰 겨우겨우, 간신히",
+   "examples": [
+    "I got to the airport just in time",
+    "Will we be in time for the movie?",
+    "She submitted her paper in time for the deadline"
+   ],
+   "notes": [
+    "You're just in time! 딱 맞춰 왔네"
+   ],
+   "type": "phrase",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-e14af35d1f",
+   "deck": "toeic",
+   "term": "just in time",
+   "meaning": "좀더 간신히 아슬아슬한 느낌",
+   "type": "phrase",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-9c8752d320",
+   "deck": "toeic",
+   "term": "in good time",
+   "meaning": "여유롭게, 넉넉하게(긴장감 없음)",
+   "examples": [
+    "We arrive at the airport in good time",
+    "She finished the assignment in good time"
+   ],
+   "type": "phrase",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-7b209e8e5f",
+   "deck": "toeic",
+   "term": "arround",
+   "meaning": "시간: 대략 그쯤",
+   "examples": [
+    "Let's meet arround 3 p.m.",
+    "The train arrives arround noon"
+   ],
+   "type": "word",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-132ae0a61a",
+   "deck": "toeic",
+   "term": "within VS in",
+   "meaning": "within 경계를 넘지 않는 게 중요할 때",
+   "examples": [
+    "You must submit the report within 24 hours",
+    "The police caught him within 48 hours",
+    "I'll be there in 10 minutes",
+    "The movie starts in 30 minutes"
+   ],
+   "notes": [
+    "in ~후에 일이 발생한다 (비격식)"
+   ],
+   "type": "phrase",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-b7041443d9",
+   "deck": "toeic",
+   "term": "hardly VS barely",
+   "meaning": "hardly: 부정 느낌이 강하고, 거의 못한 것 (건조한 뉘앙스)",
+   "examples": [
+    "I hardly know him",
+    "She hardly ate anything"
+   ],
+   "notes": [
+    "barely: 간신히 해내다 (힘들었다는 감정적 느낌)",
+    "She barely passed the exam 간신히 통과함",
+    "I barely made it to the train 간신히 막차 탐",
+    "She barely noticed me 나를 겨우 알아봤다 (알아보긴 했지만 힘들었음)"
+   ],
+   "type": "phrase",
+   "date": "2025-06-11"
+  },
+  {
+   "id": "toeic-3ca78669e3",
+   "deck": "toeic",
+   "term": "tentative",
+   "meaning": "잠정적인",
+   "examples": [
+    "The schedule is still tentative and may change",
+    "They reached a tentative agreement"
+   ],
+   "type": "word",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-5f047cecbe",
+   "deck": "toeic",
+   "term": "inherit",
+   "meaning": "상속받다, 물려받다",
+   "examples": [
+    "She inherited a fortune from her father",
+    "He has inherited his mother's paitience"
+   ],
+   "type": "word",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-dbed0c458a",
+   "deck": "toeic",
+   "term": "pertinent",
+   "meaning": "적절한, 딱 맞는",
+   "examples": [
+    "Please submit all pertinent documents",
+    "Her comments were pertinent to the discussion"
+   ],
+   "type": "word",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-d4c3a9f913",
+   "deck": "toeic",
+   "term": "implement",
+   "meaning": "실행하다, 시행하다",
+   "examples": [
+    "The new policy will be implemented next weekend",
+    "They tried to implmenet a new system"
+   ],
+   "type": "word",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-41facbcf49",
+   "deck": "toeic",
+   "term": "redundant",
+   "meaning": "불필요하게 중복된,",
+   "examples": [
+    "Some phrases in your report are redundant",
+    "He was made redundant due to company downsizing"
+   ],
+   "type": "word",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-4fbda98193",
+   "deck": "toeic",
+   "term": "be made redundant",
+   "meaning": "(영국) 정리해고 되다, 일자리를 잃다",
+   "type": "phrase",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-4dd3bf65de",
+   "deck": "toeic",
+   "term": "laid off",
+   "meaning": "(미국) 정리해고 되다",
+   "examples": [
+    "The company has laid off 150 workers in an effort to save money",
+    "Some laid-off workers visitied the labour lawyer"
+   ],
+   "type": "phrase",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-f2a30cdab3",
+   "deck": "toeic",
+   "term": "adverse",
+   "meaning": "부정적인, 불리한",
+   "examples": [
+    "The drug may have adverse side effects",
+    "The company faced adverse market conditions"
+   ],
+   "type": "word",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-16367f9b2f",
+   "deck": "toeic",
+   "term": "resume",
+   "meaning": "재개하다(뤼줌) / 이력서",
+   "examples": [
+    "She resumed her career after an interval of six years"
+   ],
+   "type": "word",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-3dbfd22418",
+   "deck": "toeic",
+   "term": "restructure",
+   "meaning": "구조조정하다",
+   "examples": [
+    "At what point did the company decide to restructure"
+   ],
+   "type": "word",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-e4405be051",
+   "deck": "toeic",
+   "term": "downsize",
+   "meaning": "구조조정하다",
+   "examples": [
+    "Rumor has it that the company is goint to downsize"
+   ],
+   "type": "word",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-0e547d0b2c",
+   "deck": "toeic",
+   "term": "Rumor has it that",
+   "meaning": "(관용어) ~라는 소문이 있다(비격식)",
+   "notes": [
+    "There's a rumor that (일반적) / It is rumored that(격식, 문어)"
+   ],
+   "type": "phrase",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-4ed4c18a1d",
+   "deck": "toeic",
+   "term": "contingent",
+   "meaning": "조건 하에서(upon) ; 대표단",
+   "examples": [
+    "The deal is contingent upon board approval",
+    "The submitted a contingent offer, depending on the home inspection",
+    "A large contingent of athletes came from Kenya"
+   ],
+   "type": "word",
+   "date": "2025-06-12",
+   "topic": "\"임시적인\" 단어들 뉘앙스 차이 정리"
+  },
+  {
+   "id": "toeic-c166213a32",
+   "deck": "toeic",
+   "term": "a military contingent",
+   "meaning": "파견 부대",
+   "type": "phrase",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-ed6f06dbe8",
+   "deck": "toeic",
+   "term": "touch base",
+   "meaning": "(with someone) 가볍게 연락하다, 의견을 나누다",
+   "examples": [
+    "Let's touch base next week about the project"
+   ],
+   "type": "phrase",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-87fe37025d",
+   "deck": "toeic",
+   "term": "circle back",
+   "meaning": "(격식) 나중에 다시 이야기하다 (계획적 느낌)",
+   "examples": [
+    "I'll circle back to you once I have the data",
+    "Let's circle back on the budget discussion after the clinet meeting"
+   ],
+   "type": "phrase",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-be42760a39",
+   "deck": "toeic",
+   "term": "get back to you",
+   "meaning": "(캐주얼) 나중에 다시 연락하다 (나중에 알려줄게)",
+   "examples": [
+    "I'm not sure right now. I'll get back to you this afternoon",
+    "Let me check with HR and get back to you"
+   ],
+   "type": "phrase",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-cee1b1698c",
+   "deck": "toeic",
+   "term": "once",
+   "meaning": "(업무에서) ~하면, ~하고나서, ~하자마자 (한번 하면의 뜻이 아님!)",
+   "examples": [
+    "Once the rain stops, let's go for a walk",
+    "Once we agree on the terms, we can proceed with the contract",
+    "Once I saw the ending, I cried"
+   ],
+   "type": "word",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-0d40b9deda",
+   "deck": "toeic",
+   "term": "on the same page",
+   "meaning": "의견이 일치하다",
+   "examples": [
+    "Let's make sure we're on the same page before moving forward"
+   ],
+   "type": "phrase",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-843bde5c05",
+   "deck": "toeic",
+   "term": "push back",
+   "meaning": "(on) 반대하다, 이의를 제기하다; 뒤로 미루다",
+   "examples": [
+    "They push back on the new policy due to concerns about cost",
+    "The meeting was pushed back to 5 p.m."
+   ],
+   "type": "phrase",
+   "date": "2025-06-12"
+  },
+  {
+   "id": "toeic-eb7eb4c936",
+   "deck": "toeic",
+   "term": "I have some concerns about",
+   "meaning": "정중하게",
+   "type": "sentence",
+   "date": "2025-06-12",
+   "topic": "이의제기 영어표현"
+  },
+  {
+   "id": "toeic-466d741c51",
+   "deck": "toeic",
+   "term": "I'm not sure I agree with that",
+   "meaning": "이의제기 영어표현",
+   "type": "sentence",
+   "date": "2025-06-12",
+   "topic": "이의제기 영어표현"
+  },
+  {
+   "id": "toeic-4bebdcebb1",
+   "deck": "toeic",
+   "term": "I'd like to push back on that",
+   "meaning": "좀더 강한 톤",
+   "type": "sentence",
+   "date": "2025-06-12",
+   "topic": "이의제기 영어표현"
+  },
+  {
+   "id": "toeic-1aa4fe84b4",
+   "deck": "toeic",
+   "term": "I see your point, but..",
+   "meaning": "공감 후 반론",
+   "type": "sentence",
+   "date": "2025-06-12",
+   "topic": "이의제기 영어표현"
+  },
+  {
+   "id": "toeic-412fd4c69c",
+   "deck": "toeic",
+   "term": "peer",
+   "meaning": "또래 ; 응시하다",
+   "examples": [
+    "Children are worreid about failing in front of their peers",
+    "We peered into the shadows",
+    "He peered closely at the photograph"
+   ],
+   "type": "word",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-7dfcb761a9",
+   "deck": "toeic",
+   "term": "valid",
+   "meaning": "유효한 ; 정당한",
+   "examples": [
+    "a valid passport",
+    "a buss pass valid for 1 month",
+    "They have a valid claim to compensation"
+   ],
+   "type": "word",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-58663c8d77",
+   "deck": "toeic",
+   "term": "ages",
+   "meaning": "한참",
+   "examples": [
+    "I waited for ages",
+    "It'll probably take ages to find a parking space"
+   ],
+   "type": "word",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-4b33b24dc0",
+   "deck": "toeic",
+   "term": "teleconference",
+   "meaning": "화상 회의",
+   "type": "word",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-0419ecded4",
+   "deck": "toeic",
+   "term": "every hour on the hour",
+   "meaning": "매 정시마다",
+   "examples": [
+    "The train leaves every hour on the hour"
+   ],
+   "type": "phrase",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-5aeb6705ce",
+   "deck": "toeic",
+   "term": "company retreat",
+   "meaning": "회사 야유회",
+   "type": "phrase",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-96516e5dde",
+   "deck": "toeic",
+   "term": "I don't mind ~ing (for you)",
+   "meaning": "당신을 위해 이렇게 해줄게요",
+   "examples": [
+    "I don't mind waiting for you",
+    "I don't mind watching it for you"
+   ],
+   "type": "sentence",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-7039fc8c15",
+   "deck": "toeic",
+   "term": "second opinion",
+   "meaning": "다른 사람의 견해(다른 전문가의 의견을 필요로 할 때)",
+   "examples": [
+    "The doctor said I need surgery, but I want to get a second opinion first"
+   ],
+   "type": "phrase",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-e2c7baf4e0",
+   "deck": "toeic",
+   "term": "run into",
+   "meaning": "우연히 만나다",
+   "examples": [
+    "I ran into Mr. Lee at the conference yesterday",
+    "I never thought I'd run into you again",
+    "We ran into each other at that old cafe"
+   ],
+   "type": "phrase",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-ea0151d433",
+   "deck": "toeic",
+   "term": "bump into",
+   "meaning": "(친근) 우연히 마주치다",
+   "type": "phrase",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-8cb9f58fec",
+   "deck": "toeic",
+   "term": "come across",
+   "meaning": "우연히 발견/마주치다(사람, 물건, 정보) ; (의미나 느낌이) 전해지다",
+   "examples": [
+    "I came across an old photo of us yesterday",
+    "She came across a rare book in the antique store",
+    "Your message didn't come across very clearly",
+    "I hope my sincerity came across"
+   ],
+   "type": "phrase",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-58dc5aa45c",
+   "deck": "toeic",
+   "term": "come across as",
+   "meaning": "~하게 느껴지다, ~한 인상을 주다",
+   "examples": [
+    "He comes across as confident but kind",
+    "She came across as a bit cold during the interview"
+   ],
+   "type": "phrase",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-c78993e190",
+   "deck": "toeic",
+   "term": "out of order",
+   "meaning": "고장난, 사용할 수 없는(일시적으로 완전히 사용 불가)",
+   "examples": [
+    "The vending machine is out of order"
+   ],
+   "type": "phrase",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-27c29fa1e4",
+   "deck": "toeic",
+   "term": "carton",
+   "meaning": "종이박스, 종이곽",
+   "examples": [
+    "a carton of books / a carton of milk",
+    "Several tartons were atacked near the truck",
+    "The cartons were wealed with tape"
+   ],
+   "type": "word",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-bbb7052cb2",
+   "deck": "toeic",
+   "term": "shipping container",
+   "meaning": "화물용 컨테이너",
+   "type": "phrase",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "toeic-3caebbaff2",
+   "deck": "toeic",
+   "term": "junction",
+   "meaning": "교차로",
+   "examples": [
+    "a car is waiting to turn at a junction"
+   ],
+   "type": "word",
+   "date": "2025-06-24"
+  },
+  {
+   "id": "toeic-ebc90d5f24",
+   "deck": "toeic",
+   "term": "sack",
+   "meaning": "자루",
+   "examples": [
+    "Some large sacks are piled up on a vehicle"
+   ],
+   "type": "word",
+   "date": "2025-06-24"
+  },
+  {
+   "id": "toeic-21d84404ff",
+   "deck": "toeic",
+   "term": "hand out",
+   "meaning": "건네주다",
+   "type": "phrase",
+   "date": "2025-06-24"
+  },
+  {
+   "id": "toeic-303f57c60a",
+   "deck": "toeic",
+   "term": "I'm returning the call",
+   "meaning": "부재중 전화 보고 전화드립니다",
+   "examples": [
+    "I'm returning the call you made to our office this morning"
+   ],
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-bf037dbe4c",
+   "deck": "toeic",
+   "term": "realtor",
+   "meaning": "부동산 중개인",
+   "type": "word",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-a93639264c",
+   "deck": "toeic",
+   "term": "custodian",
+   "meaning": "관리인",
+   "type": "word",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-0b0701de71",
+   "deck": "toeic",
+   "term": "we're ahead of schedule",
+   "meaning": "일정보다 앞서 있습니다",
+   "examples": [
+    "The construction is ahead of schedule"
+   ],
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-088167b180",
+   "deck": "toeic",
+   "term": "hiking trail",
+   "meaning": "등산로",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-6f71d1d7cc",
+   "deck": "toeic",
+   "term": "outdated map",
+   "meaning": "구버전 지도(정확하지 않은 뉘앙스)",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-6f6a42c2f0",
+   "deck": "toeic",
+   "term": "as",
+   "meaning": "(명사) 때문에",
+   "type": "word",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-c461aba76e",
+   "deck": "toeic",
+   "term": "lookout point",
+   "meaning": "전망대",
+   "examples": [
+    "The lookout point offers a great vidw of the valley",
+    "We stopped at a lookout point to take photos"
+   ],
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-1e956e8eef",
+   "deck": "toeic",
+   "term": "blocked off",
+   "meaning": "출입이 차단된(의도적, 관리상의 이유로) (closed off)",
+   "examples": [
+    "The police blocked off the street",
+    "The road was closed off due to a marathon"
+   ],
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-3c69fd7967",
+   "deck": "toeic",
+   "term": "cordoned off",
+   "meaning": "(주로 경찰) 출입 통제선을 치다",
+   "examples": [
+    "The police cordoned off the area",
+    "The crime scene was taped off"
+   ],
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-e77cf390fb",
+   "deck": "toeic",
+   "term": "off의 뉘앙스",
+   "meaning": "(상태 vs 의도)",
+   "notes": [
+    "The gas was off (그냥 상태)",
+    "The gas was shut off (누군가 끊음)",
+    "The alarm is off (알람이 꺼져있는 상태)",
+    "He switched off the alarm (알람을 일부러 껐다)"
+   ],
+   "type": "word",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-0d13e0cf20",
+   "deck": "toeic",
+   "term": "I moved from overseas",
+   "meaning": "해외에서 이사왔어요",
+   "examples": [
+    "I recently moved here from aborad",
+    "I came from overseas",
+    "I relocated from overseas for work"
+   ],
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-9e5e359cae",
+   "deck": "toeic",
+   "term": "Just take a right out of this door",
+   "meaning": "이 문을 나가자마자 오른쪽으로 가세요",
+   "examples": [
+    "Take a left out of the elevator",
+    "Just go straight out of the building",
+    "Make a right after you exit the room"
+   ],
+   "type": "sentence",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-a256ced95a",
+   "deck": "toeic",
+   "term": "screen",
+   "meaning": "선별하다",
+   "examples": [
+    "This is just their first step in screening people to work",
+    "We're still in the initial screening phase"
+   ],
+   "type": "word",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-d49650c4ab",
+   "deck": "toeic",
+   "term": "in-person interview",
+   "meaning": "대면 면접",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-fba8fa6d45",
+   "deck": "toeic",
+   "term": "virtual(remote, online) interview",
+   "meaning": "비대면 면접",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-6ce0a4c4a6",
+   "deck": "toeic",
+   "term": "television advert",
+   "meaning": "텔레비전 광고(=TV commercial)",
+   "examples": [
+    "Did you see that new television advert for the car brand?",
+    "The company spent millions on a Christmas TV advert"
+   ],
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-cbebb2bb6f",
+   "deck": "toeic",
+   "term": "limited-time offer",
+   "meaning": "한정기간 행사",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-67a401e61b",
+   "deck": "toeic",
+   "term": "complimentary gift",
+   "meaning": "무료 증정품",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-e7db1577fb",
+   "deck": "toeic",
+   "term": "exclusive deal for members",
+   "meaning": "회원 한정 혜택",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-0e430755e9",
+   "deck": "toeic",
+   "term": "under maintenance",
+   "meaning": "점검중",
+   "examples": [
+    "The website is temporarily under maintenance"
+   ],
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-dfa20ea1fa",
+   "deck": "toeic",
+   "term": "be subject to change",
+   "meaning": "변경될 수 있다",
+   "examples": [
+    "Schedules are subject to change without notice"
+   ],
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-7b3cebecf2",
+   "deck": "toeic",
+   "term": "back-ordered",
+   "meaning": "재고 부족으로 지연된",
+   "type": "word",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-22c5e81f0c",
+   "deck": "toeic",
+   "term": "expedited shipping",
+   "meaning": "빠른 배송",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-322e38635d",
+   "deck": "toeic",
+   "term": "shipping fee waived",
+   "meaning": "배송료 면제됨",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-182e013ac7",
+   "deck": "toeic",
+   "term": "As a reminder",
+   "meaning": ",, 공지나 반복안내 시작 시(please be adviced that)",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-ca7eda5275",
+   "deck": "toeic",
+   "term": "push back the deadline",
+   "meaning": "마감을 늦추다",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-6e07d499c5",
+   "deck": "toeic",
+   "term": "send out a reminder",
+   "meaning": "알림(메일)을 발송하다",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-7454642870",
+   "deck": "toeic",
+   "term": "run late",
+   "meaning": "늦어지다",
+   "examples": [
+    "Sorry, the meeting is running late"
+   ],
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-859268d9ee",
+   "deck": "toeic",
+   "term": "issue a refund",
+   "meaning": "환불해주다",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-fc53dc6707",
+   "deck": "toeic",
+   "term": "a mix-up with the order",
+   "meaning": "주문 착오",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-d0630fb14e",
+   "deck": "toeic",
+   "term": "I’ll put you through",
+   "meaning": ". 전화 바꿔드릴게요",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-52e4286076",
+   "deck": "toeic",
+   "term": "I‘ll connect you now",
+   "meaning": "/ I’ll patch you through.",
+   "type": "phrase",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-669c5487ba",
+   "deck": "toeic",
+   "term": "Please keep me in the loop",
+   "meaning": ". – 진행 상황을 계속 공유해주세요.",
+   "type": "sentence",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-2b626252ec",
+   "deck": "toeic",
+   "term": "Let me walk you through the report.",
+   "meaning": "보고서를 설명드릴게요.",
+   "type": "sentence",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "toeic-dda07aabc2",
+   "deck": "toeic",
+   "term": "call sb in (",
+   "meaning": "오라고) 부르다",
+   "examples": [
+    "I called you ain for a meeting",
+    "The manager called me in to discuss my performance",
+    "The doctor called me in for my appointment"
+   ],
+   "type": "phrase",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "toeic-60e31be80c",
+   "deck": "toeic",
+   "term": "call on (",
+   "meaning": "격식) 방문하다 ; 공식적으로 요청하다 (upon이면 더 격식) (누구에게 요청하느냐가 핵심) ; (지식, 기억, 능력 등을) 끌어내다",
+   "examples": [
+    "The teacher called on Tom to answer the question",
+    "We call upon all citizens to act now",
+    "I called on my grandmother yesterday",
+    "The doctor willl call on you this afternoon",
+    "She had to call on all her strength to finish the race",
+    "I had to call on my past experience during the negotiation"
+   ],
+   "type": "phrase",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "toeic-8596418209",
+   "deck": "toeic",
+   "term": "call for",
+   "meaning": "요청하다, 요구하다, 필요로 하다 (어떤 행위가 핵심)",
+   "examples": [
+    "This situation calls for immediate action",
+    "The union is calling for better working conditions",
+    "The situation calls for safety measures",
+    "The gas cylinder is damaged and therefore calls for disposal",
+    "This calls for an X-ray"
+   ],
+   "type": "phrase",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "toeic-fd756544b6",
+   "deck": "toeic",
+   "term": "call out (",
+   "meaning": "공개적으로) 비판하다, 소리쳐 부르다",
+   "examples": [
+    "She called out the company for unfair practices",
+    "He called out my name in the crowd"
+   ],
+   "type": "phrase",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "toeic-4031c3f7b7",
+   "deck": "toeic",
+   "term": "leading role",
+   "meaning": "주인공 역할",
+   "examples": [
+    "She played the leading role in the film",
+    "He's finally landed a leading role on Broadway"
+   ],
+   "type": "phrase",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "toeic-570bdc43d7",
+   "deck": "toeic",
+   "term": "land",
+   "meaning": "획득하다, 손에 넣다, 얻다 (어렵게 얻어낸 성과)",
+   "examples": [
+    "He landed a job at Google",
+    "She landed a big contract",
+    "He landed a leading role"
+   ],
+   "type": "word",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "toeic-ca6cbb3762",
+   "deck": "toeic",
+   "term": "star in",
+   "meaning": "중요한 배역으로 출연하다",
+   "examples": [
+    "Leonardo DiCaprio starred in Titanic",
+    "She's starring in a new Netfilx series this fall",
+    "Tom Hanks starred in many blockbuster films"
+   ],
+   "type": "phrase",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "toeic-396e727a52",
+   "deck": "toeic",
+   "term": "appear in",
+   "meaning": "출연하다 (조연 등 비중없는 배역도 가능)",
+   "examples": [
+    "He appeared in three episodes of the show",
+    "She appeared in a small role in \"The Matrix\"",
+    "Her story appeared in the newspaper yesterday"
+   ],
+   "type": "phrase",
+   "date": "2025-07-13"
+  },
+  {
+   "id": "toeic-5400241d73",
+   "deck": "toeic",
+   "term": "assert",
+   "meaning": "단언하다",
+   "type": "word",
+   "date": "2025-07-19"
+  },
+  {
+   "id": "toeic-b2a99f9c1c",
+   "deck": "toeic",
+   "term": "assume (",
+   "meaning": "섣불리) 단정하다 ; 책임,역할을 지다 ; ~인 척 하다",
+   "examples": [
+    "you just assumed I was angry without asking me",
+    "Don’t just assume things. Ask first",
+    "He assumed full responsibility for the failure",
+    "She will assume the role of team leader next week",
+    "He assumed an air of confidence",
+    "She assumed a look of innocence"
+   ],
+   "type": "word",
+   "date": "2025-07-19"
+  },
+  {
+   "id": "toeic-24286905fc",
+   "deck": "toeic",
+   "term": "presume",
+   "meaning": "추측하다(그럴 가능성이 높다고 여기다)",
+   "examples": [
+    "I presumed he knew about the meeting",
+    "I presume you're here for the meeting?"
+   ],
+   "type": "word",
+   "date": "2025-07-19"
+  },
+  {
+   "id": "toeic-1e44560cea",
+   "deck": "toeic",
+   "term": "I presume",
+   "meaning": "추정컨대",
+   "type": "phrase",
+   "date": "2025-07-19"
+  },
+  {
+   "id": "toeic-d87a853767",
+   "deck": "toeic",
+   "term": "display case",
+   "meaning": "진열장",
+   "type": "phrase",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-e248452468",
+   "deck": "toeic",
+   "term": "glitch",
+   "meaning": "작은 문제(결함)-> 주로 컴퓨터, 기계류",
+   "examples": [
+    "The system were down briefly in the middle of the night and there was a glitch in the computer"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-a8baebf761",
+   "deck": "toeic",
+   "term": "resolution",
+   "meaning": "문제 해결 ; 결단력 ; 해상도 ; 결의안",
+   "examples": [
+    "I've contacted IT for a resolution"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-7999362601",
+   "deck": "toeic",
+   "term": "A leading expert in ~",
+   "meaning": "분야의 권위자",
+   "type": "phrase",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-8be8a22c77",
+   "deck": "toeic",
+   "term": "engagement",
+   "meaning": "약혼, 약속 ; 업무 ; 교전 ; 참여, 관계; 약속 (공적인 행사성 약속- 강연, 만찬, 발표, 미팅 등)",
+   "examples": [
+    "Their engagement was announced in the local paper",
+    "It was her first official engagement",
+    "I had to refuse because of a prior engagement",
+    "The general tried to avoid an engagement with the enemy",
+    "The professor has a speaking engagement tomorrow"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-fcdb7eb8e5",
+   "deck": "toeic",
+   "term": "wristwatch",
+   "meaning": "손목시계",
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-18ae7ab794",
+   "deck": "toeic",
+   "term": "shared documents",
+   "meaning": "공유문서",
+   "type": "phrase",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-c33d89de32",
+   "deck": "toeic",
+   "term": "unreliable",
+   "meaning": "믿을(신뢰할) 수 없는",
+   "examples": [
+    "The trains are notoriously unreliable",
+    "He's totally unreliable as a source of information"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-b4c651868c",
+   "deck": "toeic",
+   "term": "notorious",
+   "meaning": "악명높은",
+   "examples": [
+    "A notorious criminal",
+    "The country is notorious for its appalling prison conditions",
+    "The bar become notorious as a meeting-place for drug dealers"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-8f6e290af3",
+   "deck": "toeic",
+   "term": "appalling",
+   "meaning": "끔찍한",
+   "examples": [
+    "To be blunt, your work is appalling",
+    "Appalling crimes committed against innocent children"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-d939e85727",
+   "deck": "toeic",
+   "term": "initiative",
+   "meaning": "계획",
+   "examples": [
+    "A government initiative to combat unemployment"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-e237342e3c",
+   "deck": "toeic",
+   "term": "combat",
+   "meaning": "전투, 싸움 ; 방지하다 (주로 정부가 하는 느낌)",
+   "examples": [
+    "measures to combat crime/inflation/unemployment/disease",
+    "The government is taking action to combat drug abuse"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-2310d67ac7",
+   "deck": "toeic",
+   "term": "though (",
+   "meaning": "문장 끝에 와서) 그렇지만",
+   "examples": [
+    "Our team lost. It was a good game though",
+    "We are still friends, though"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-335768985b",
+   "deck": "toeic",
+   "term": "demographic",
+   "meaning": "인구, 사람들(격식)",
+   "examples": [
+    "We expect it to reach a wider demographic"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-fdf346a9d4",
+   "deck": "toeic",
+   "term": "focus heavily on ~",
+   "meaning": "에 강하게 집중하다 (heavily 대신에 mainly, primarily, strongly)",
+   "examples": [
+    "The report focuses heavily on customer feedback",
+    "The study focuses heavily on the long-term effect of climate change on coastal regions",
+    "Our marketing strategy focuses heavily on social media engagement"
+   ],
+   "type": "phrase",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-03aad08323",
+   "deck": "toeic",
+   "term": "schedule a meeting",
+   "meaning": "회의를 열다",
+   "examples": [
+    "Good idea. I'll schedule a meeting for next Monday"
+   ],
+   "type": "phrase",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-0ecac021a4",
+   "deck": "toeic",
+   "term": "wonder",
+   "meaning": "궁금해하다 ; 경이로움",
+   "examples": [
+    "I wonder who she is",
+    "I was just beginning to wonder where you were",
+    "I wonder if she will come to the meeting",
+    "I wonder whether this medicine has any side effects",
+    "The Grand Canyon is a natural wonder",
+    "She looked at the newborn baby in wonder",
+    "I wonder at the beauty of the night sky",
+    "The performance filled the audience with wonder"
+   ],
+   "notes": [
+    "(정중한 부탁) I wonder if you could help me with this form",
+    "(정중한 제안) I was wondering if you had a moment to talk"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-a0634cfe8c",
+   "deck": "toeic",
+   "term": "I was just wondering",
+   "meaning": "그냥 궁금해서 그런건데요 (=Out of curiosity, I was wondering ...)",
+   "examples": [
+    "I was just wondering if you're free this weekend",
+    "Out of curiosity, I was wondering how you met each other"
+   ],
+   "type": "phrase",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-a22780e4ce",
+   "deck": "toeic",
+   "term": "Please be aware that",
+   "meaning": "유념해두세요, 참고하세요",
+   "examples": [
+    "Please be aware that the office will be closed next Monday"
+   ],
+   "notes": [
+    "비슷한 표현: Please note that, Please keep in mind that (격식) Kindly be advised that, It should be noted that"
+   ],
+   "type": "phrase",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-d74010d823",
+   "deck": "toeic",
+   "term": "last-minute change",
+   "meaning": "막바지 변경 (막판에 바꿨다는 뉘앙스)",
+   "examples": [
+    "However, Michelle wasn't originally planning to attend the premiere, only to have a last minute change of heart.",
+    "That was the original plan, but there was a last-minute change",
+    "She wasn't going to attend the wedding, but she had a last-minute change of heart"
+   ],
+   "type": "phrase",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-5277f8d431",
+   "deck": "toeic",
+   "term": "Only to (",
+   "meaning": "뜻밖의 결과로) 결국 ~하게 되다",
+   "examples": [
+    "He hurried to the station, only to miss the train",
+    "She invested all her savings, only to lose everything",
+    "He went to apologize, only to be warmly welcomed"
+   ],
+   "type": "phrase",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-0f805daa80",
+   "deck": "toeic",
+   "term": "Change of heart",
+   "meaning": "마음이 바뀜(감정 위주)",
+   "examples": [
+    "She had a change of heart and decided to give him another chance",
+    "A first he refused to adopt a pet, but he had a change of heart after visiting the shelter",
+    "He had a change of heart and apologized for his behavior"
+   ],
+   "type": "phrase",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-8fb73d3b33",
+   "deck": "toeic",
+   "term": "accordingly",
+   "meaning": "그에 맞춰",
+   "examples": [
+    "We have to discover his plans and act accordingly",
+    "The cost of materials rose sharply last year. Accordingly, we were forced to increase our price"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-72ba8fc7b0",
+   "deck": "toeic",
+   "term": "prop",
+   "meaning": "지주, 버팀목, 받침대 ; 받치다",
+   "examples": [
+    "He propped his bike against the wall",
+    "Don't prop your head up with your arm"
+   ],
+   "type": "word",
+   "date": "2025-08-23"
+  },
+  {
+   "id": "toeic-7b911f9f86",
+   "deck": "toeic",
+   "term": "go with",
+   "meaning": "잘 어울리다 ; 선택하다",
+   "examples": [
+    "Does this jacket go with this skirt?",
+    "I'll go with option B",
+    "Do you think we should go with the first design, or should we try another one?"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-e895345ad8",
+   "deck": "toeic",
+   "term": "stop",
+   "meaning": "들르는 장소, 방문지; 정거장(단순히 차량이 서는 지점)",
+   "examples": [
+    "Our first stop was Paris",
+    "This town is just a short stop on our road trip",
+    "The train will not make any stops between here and Boston",
+    "There are three stops left before we arrive",
+    "My house is two stops away",
+    "You should get off in four stops",
+    "How many stops are left until Central Station?",
+    "We'll reach your hotel in just two more stops"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-a3488b56d0",
+   "deck": "toeic",
+   "term": "make a stop",
+   "meaning": "잠시 들르다",
+   "examples": [
+    "We made a stop at the gas station before heading to the mountains",
+    "Let's make a quick stop for coffee"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-b32144e752",
+   "deck": "toeic",
+   "term": "~ minutes away ~",
+   "meaning": "분 거리에 있다 (수단을 명시할때는 소유격 's를 붙여야)",
+   "examples": [
+    "The station is just 5 minutes away",
+    "The beach is a 20 minutes' drive from the hotel",
+    "It's just a 5 minutes' walk to the subway station"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-323fc931c1",
+   "deck": "toeic",
+   "term": "stacked on top of each other",
+   "meaning": "차곡차곡 포개져 있는",
+   "examples": [
+    "The boxes were stacked on top of each other"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-3d5e018404",
+   "deck": "toeic",
+   "term": "heaped up",
+   "meaning": "수북히 쌓인",
+   "examples": [
+    "Snow was heaped up along the roadside"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-f266fbcd4d",
+   "deck": "toeic",
+   "term": "layered",
+   "meaning": "겹겹이 층진",
+   "examples": [
+    "The cake was layered with cream and fruit"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-7340d701dc",
+   "deck": "toeic",
+   "term": "I'm calling about ~",
+   "meaning": "때문에 전화 드렸습니다",
+   "examples": [
+    "I'm calling about the jop opening you posted online",
+    "I'm calling to ask about your services"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-adb1d4dfd7",
+   "deck": "toeic",
+   "term": "job opening",
+   "meaning": "채용공고",
+   "examples": [
+    "There are several job openings at our company right now",
+    "The job opening requires three years of experience in marketing"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-87805b2c82",
+   "deck": "toeic",
+   "term": "job opening, a vacancy, position available, open position, open role",
+   "meaning": "일자리가 비어있다는 의미의 다양한 표현들",
+   "examples": [
+    "We currently have several job openings in our IT department",
+    "There's a vacancy for a sales manager at the branch office",
+    "We have a position available in the marketing team",
+    "Our company is hiring new engineers",
+    "We are recruiting interns for the summer program"
+   ],
+   "notes": [
+    "There are several open positions in the HR department (open role도 ehla)"
+   ],
+   "type": "sentence",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-0cf73f4ffa",
+   "deck": "toeic",
+   "term": "short-staffed, understaffed, a staff shortage, a shortage of workers, lack of manpower, shorthanded",
+   "meaning": "인력이 부족하다는 다양한 표현들",
+   "examples": [
+    "We are short-staffed today because two people are on sick leave",
+    "The hospital has been understaffed for months"
+   ],
+   "type": "sentence",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-5fe32ab43b",
+   "deck": "toeic",
+   "term": "accommodate",
+   "meaning": "수용하다 ; 맞춰주다, 요구를 들어주다 ; 조정하다 ; 적응하다",
+   "examples": [
+    "This meeting room can't accommodate more than 20 people",
+    "We always try to accommodate our customers' needs",
+    "I can accomodate your shedule if you prefer an earlier meeting",
+    "The plan was adjusted to accommodate the new regulations",
+    "Our eyes gradually accomodated to the dark"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-d761edfc78",
+   "deck": "toeic",
+   "term": "shift",
+   "meaning": "근무조, 교대근무",
+   "examples": [
+    "I'm working the night shift this week",
+    "She just finished her morning shift at the hosplital",
+    "My shift is from 9 am to 6 pm",
+    "She works the day shift, which runs from 9 to 5"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-36e37e8d82",
+   "deck": "toeic",
+   "term": "allocate more of the budget",
+   "meaning": "뉘앙스 차이",
+   "notes": [
+    "allocate more budget 하면 예산 총액 자체를 더 늘리다",
+    "allocate more of the budget 하면 이미 있는 예산 안에서 더 많은 비중(몫)을 배정하다의 뉘앙스"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-a01be9bc41",
+   "deck": "toeic",
+   "term": "draft, prepare, write, draw up, put together, compile",
+   "meaning": "업무용 자료 작성의 표현들",
+   "examples": [
+    "They drew up a new employment contract"
+   ],
+   "notes": [
+    "draft 초안을 작성하다, draw up 형식적 문서 작성"
+   ],
+   "type": "sentence",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-508b77b3d9",
+   "deck": "toeic",
+   "term": "be awarded a contract",
+   "meaning": "계약을 수주하다 (= win a contract, secure a contract)",
+   "examples": [
+    "The company was awarded a contract by the Ministry of Defense"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-fc93168ad2",
+   "deck": "toeic",
+   "term": "miss a deadline",
+   "meaning": "기한을 놓치다 (fall behind schedule, not make the deadline, be overdue)",
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-f0f48900f7",
+   "deck": "toeic",
+   "term": "meet a dealine",
+   "meaning": "기한을 지키다 (make a deadline, finish on time, be on schedule, stay on schedule)",
+   "examples": [
+    "We managed to meet the deadline despite the delay"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-9272f637ba",
+   "deck": "toeic",
+   "term": "nearly not",
+   "meaning": "하마터면 못할뻔했다",
+   "examples": [
+    "He nearly didn't make it to the meeting"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-43f109aca7",
+   "deck": "toeic",
+   "term": "make it to",
+   "meaning": "어려움에도 불구하고 도착(참석)하다 ; 성공하다",
+   "examples": [
+    "I finally made it to the airport on time",
+    "Sorry, I couldn't make it to the party last night",
+    "He worked hard and finally made it to the top of his career"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-da3bbe361b",
+   "deck": "toeic",
+   "term": "ask for an extension",
+   "meaning": "기한 연장을 요청하다",
+   "examples": [
+    "He asked for an extension of the payment deadline"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-08fd889127",
+   "deck": "toeic",
+   "term": "comprehensive",
+   "meaning": "종합적인",
+   "examples": [
+    "We need a comprehensive plan for the project",
+    "The book provides a comprehensive guide to English grammar"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-cbaebdbfb7",
+   "deck": "toeic",
+   "term": "사물이 놓여있는 경우도 sit의 표현을 쓰기도 함",
+   "meaning": "",
+   "examples": [
+    "A small lanp sits on the desk"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-00fa3b416c",
+   "deck": "toeic",
+   "term": "offset",
+   "meaning": "상쇄하다(초과된 예산의 균형을 맞추다)",
+   "examples": [
+    "We need to find a way to offset the budget overrun",
+    "Additional revenue was used to offset the cost overruns"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-d64cadd550",
+   "deck": "toeic",
+   "term": "cost overrun",
+   "meaning": "초과 지출, 예산 초과",
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-2747527871",
+   "deck": "toeic",
+   "term": "visuals",
+   "meaning": "시각자료",
+   "examples": [
+    "The teacher used visuals to explain the concept"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-4f291ea6fa",
+   "deck": "toeic",
+   "term": "engaging",
+   "meaning": "호감이 가는, 매력적인",
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-a2f2182013",
+   "deck": "toeic",
+   "term": "any vs any of",
+   "meaning": "any는 막연히 전체를 의미, any of 는 이 중에서 어떤것도 라는 구체적 의미",
+   "notes": [
+    "Any student can join the club. (세상에 있는) 학생이라면 누구든 동아리에 가입할 수 있다.",
+    "Any of the students in this class can join the club. (이 반에 있는) 학생이라면 누구든 동아리에 가입할 수 있다.",
+    "You can eat any apple. 아무 사과나 먹어도 돼. (막연히 모든 사과 중 하나)",
+    "You can eat any of these apples. (내가 가리키는) 이 사과들 중 아무거나 먹어도 돼.",
+    "You can take any test available at the clinic. 병원에서 가능한 검사는 어떤 것이든 받을 수 있습니다.",
+    "You can take any of the tests listed here. 여기 나열된 검사들 중에서 아무거나 받을 수 있습니다."
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-d248d614ca",
+   "deck": "toeic",
+   "term": "halt",
+   "meaning": "멈추다, 정지하다 (사람,동물,교통수단,활동,기계 등 다양)",
+   "examples": [
+    "The train came to a halt",
+    "Production halted due to the strike",
+    "The soldiers halted at the border",
+    "The bus halted suddenly"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-15c4e79f4b",
+   "deck": "toeic",
+   "term": "malfunction",
+   "meaning": "기계나 시스템이 오작동",
+   "examples": [
+    "The computer is malfunctioning"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-45cc196a8a",
+   "deck": "toeic",
+   "term": "move up (",
+   "meaning": "일정, 시간, 순서를) 앞당기다",
+   "examples": [
+    "Can we move the meeting up to 2 p.m.?",
+    "The deadline has been moved up to next Friday."
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-5217d7b4af",
+   "deck": "toeic",
+   "term": "sharp",
+   "meaning": "정확히 (=on the dot)",
+   "examples": [
+    "The meeting starts at 9:00 sharp, so don't be late",
+    "Be there at 7:30 sharp.",
+    "The class starts at 10 o'clock on the dot",
+    "(exactly at 7 = promptly at 7 = at 7 sharp = at 7 on the dot)"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-03c45d36f3",
+   "deck": "toeic",
+   "term": "arrange",
+   "meaning": "준비하다",
+   "examples": [
+    "Everything has been arranged for the conference",
+    "We will arrange transportation for you"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-489e37a7c2",
+   "deck": "toeic",
+   "term": "call volume",
+   "meaning": "전화량",
+   "examples": [
+    "We are currently experiencing high call volumes",
+    "Call volumes usually increase during the holiday season",
+    "The report shows call volumes by department"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-fc4a83a06f",
+   "deck": "toeic",
+   "term": "lock in a date",
+   "meaning": "날짜를 확정하다",
+   "examples": [
+    "Can we lock in the date for the workshop?"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-7a293ac82c",
+   "deck": "toeic",
+   "term": "schedule conflict",
+   "meaning": "일정이 겹침",
+   "examples": [
+    "I have a schedule conflict and can't attend the meeting"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-ad9398adb5",
+   "deck": "toeic",
+   "term": "commitment",
+   "meaning": "약속 (단순 시간약속이 아닌 반드시 키져야 하는 중요한 일)",
+   "examples": [
+    "Sorry, I can't join. I have a prior commitment"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-d7b94feaa4",
+   "deck": "toeic",
+   "term": "appointment",
+   "meaning": "약속 (개인적이고 예약성의 시간, 장소가 정해진 약속 - 병원, 상담, 미용실 등)",
+   "examples": [
+    "I have a doctor's appointment at 3 p.m."
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-f13a95ad18",
+   "deck": "toeic",
+   "term": "put out / 불이 꺼지다: go out / 꺼진 상태: be out)",
+   "meaning": "be out 불(화재)이 꺼진 (불을 끄다",
+   "examples": [
+    "By the time we arrived at the site, the fire was out"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-5c060d2b0a",
+   "deck": "toeic",
+   "term": "water dispenser",
+   "meaning": "정수기",
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-0de1da18ac",
+   "deck": "toeic",
+   "term": "apply paint to",
+   "meaning": "페인트칠하다",
+   "examples": [
+    "The workers applied paint to the metal surface"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-8aaccbf609",
+   "deck": "toeic",
+   "term": "resurface the road, rapave the road",
+   "meaning": "도로 재포장 표현",
+   "examples": [
+    "The city plans to resurface the road next month",
+    "They repaved the main street last year"
+   ],
+   "type": "phrase",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-07a2ae87fc",
+   "deck": "toeic",
+   "term": "stock",
+   "meaning": "비축하다, 채워지다(be stocked)",
+   "examples": [
+    "The fridge is stocked with drinks",
+    "The library is well stocked with books"
+   ],
+   "type": "word",
+   "date": "2025-08-24"
+  },
+  {
+   "id": "toeic-8966ae7b97",
+   "deck": "toeic",
+   "term": "inclement",
+   "meaning": "날씨가 좋지 못한",
+   "examples": [
+    "Due to inclement weather, all flights have been cancelled for the next twenty-four hours"
+   ],
+   "type": "word",
+   "date": "2025-08-26"
+  },
+  {
+   "id": "toeic-15d4dcf146",
+   "deck": "toeic",
+   "term": "weather warnings",
+   "meaning": "기상 경보, 기상 특보",
+   "examples": [
+    "The Meteorological Office has issued weather warnings for heavy snowfall"
+   ],
+   "type": "phrase",
+   "date": "2025-08-26"
+  },
+  {
+   "id": "toeic-3f3e0f0510",
+   "deck": "toeic",
+   "term": "The Meteorological Office",
+   "meaning": "기상청",
+   "type": "phrase",
+   "date": "2025-08-26"
+  },
+  {
+   "id": "toeic-a0792860f1",
+   "deck": "toeic",
+   "term": "adverse weather",
+   "meaning": "좋지 않은 날씨",
+   "type": "phrase",
+   "date": "2025-08-26"
+  },
+  {
+   "id": "conversation-ae1474bfe5",
+   "deck": "conversation",
+   "term": "What's the catch?",
+   "meaning": "(너무 조건이 좋을 때) 꿍꿍이가 뭐야?",
+   "type": "sentence",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "conversation-c8aa8f4846",
+   "deck": "conversation",
+   "term": "blow one's mind",
+   "meaning": "흥분시키다, 어쩔 줄 모르게 하다",
+   "examples": [
+    "BTS concert belw my mind",
+    "The bridge of the song blows my mind"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "conversation-acf74643b1",
+   "deck": "conversation",
+   "term": "for now",
+   "meaning": "한동안은",
+   "examples": [
+    "It's not much, but it'll do for now",
+    "We decided to stay where we are for now"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "conversation-1367fcafa5",
+   "deck": "conversation",
+   "term": "in a mood",
+   "meaning": "기분이 좋지 않은",
+   "examples": [
+    "Ignore him - he's in a mood",
+    "He's been in a mood all day"
+   ],
+   "type": "phrase",
+   "date": "2025-05-04"
+  },
+  {
+   "id": "conversation-cbfa9104b4",
+   "deck": "conversation",
+   "term": "ask out",
+   "meaning": "데이트 신청하다",
+   "examples": [
+    "I'm thinking about asking her out",
+    "She asked me out to dinner"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-a5beec3f5c",
+   "deck": "conversation",
+   "term": "You nailed it",
+   "meaning": "너 정말 잘했어!",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-9065853dc8",
+   "deck": "conversation",
+   "term": "I'm in",
+   "meaning": "나도 끼워줘",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-0d10b71299",
+   "deck": "conversation",
+   "term": "Suit yourself",
+   "meaning": "너 마음대로 해",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-6bf4631616",
+   "deck": "conversation",
+   "term": "Long story short",
+   "meaning": "간단히 말해서",
+   "examples": [
+    "Long story short, we missed the flight"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-891cae90f2",
+   "deck": "conversation",
+   "term": "You've got to be kidding me",
+   "meaning": "설마 농담이지?",
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-94d7bd27d6",
+   "deck": "conversation",
+   "term": "It's not a big deal",
+   "meaning": "별일 아냐",
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-6e00d62d69",
+   "deck": "conversation",
+   "term": "Cut it out",
+   "meaning": "그만해",
+   "examples": [
+    "Cut it out!, you're being annoying"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-633490fa62",
+   "deck": "conversation",
+   "term": "Let's call it a day",
+   "meaning": "오늘은 이만 하자",
+   "examples": [
+    "It's getting late, Let's call it a day"
+   ],
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-d156c2d1c2",
+   "deck": "conversation",
+   "term": "I'm on it",
+   "meaning": "내가 처리할게",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-27d3198fe8",
+   "deck": "conversation",
+   "term": "You're telling me",
+   "meaning": "그러게 말야, 나도 알아, 동의해, 내말이..",
+   "examples": [
+    "It's been a rough week. - You're telling me"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-58deee233c",
+   "deck": "conversation",
+   "term": "count on",
+   "meaning": "믿다, 기대다, 의지하다",
+   "examples": [
+    "You can count on me",
+    "Can I count on your loyalty?",
+    "I'm sure he'll help - Don't count on it",
+    "Few people can count on having a job for life"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-abefc091a3",
+   "deck": "conversation",
+   "term": "I'm not buying it",
+   "meaning": "안믿어",
+   "examples": [
+    "He said he didn't do it, but I'm not buying it"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-9a99f82f57",
+   "deck": "conversation",
+   "term": "That's no-brainer",
+   "meaning": "너무 뻔한거지, 당연한 거지 (생각할 필요도 없는 쉬운 결정, 문제)",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-15ac1fe3dc",
+   "deck": "conversation",
+   "term": "You bet",
+   "meaning": "천만에요, 물론이지, 당연하지",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-1358592e18",
+   "deck": "conversation",
+   "term": "Not my thing",
+   "meaning": "내 취향은 아냐",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-5ef897235b",
+   "deck": "conversation",
+   "term": "Let me sleep on it",
+   "meaning": "하룻밤 생각해볼게",
+   "examples": [
+    "Can I give you my answer tomorrow? Let me sleep on it"
+   ],
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-211f210e67",
+   "deck": "conversation",
+   "term": "I'm all ears",
+   "meaning": "듣고 있어",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-d87c860730",
+   "deck": "conversation",
+   "term": "I can't help it",
+   "meaning": "어쩔수 없어",
+   "examples": [
+    "I know it's bad, but I can't help laughing"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-0cdc1e1928",
+   "deck": "conversation",
+   "term": "It's up to you",
+   "meaning": "너에게 달렸어",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-8db7f2b894",
+   "deck": "conversation",
+   "term": "I'm with you",
+   "meaning": "나도 같은 생각이야",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-7b3274cc20",
+   "deck": "conversation",
+   "term": "You asked for it",
+   "meaning": "자업자득이야, 너가 원한거잖아; 너가 자초한거야",
+   "examples": [
+    "He got punched? Well, he asked for it"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-1a949ae1c8",
+   "deck": "conversation",
+   "term": "For what it's worth",
+   "meaning": "별거 아니지만, 참고로 말하자면",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-5bb8460614",
+   "deck": "conversation",
+   "term": "I'm sick of it",
+   "meaning": "지긋지긋해",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-1c7047b21a",
+   "deck": "conversation",
+   "term": "You made it!",
+   "meaning": "해냈네!",
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-f0f1800e22",
+   "deck": "conversation",
+   "term": "I'm on my way",
+   "meaning": "지금 가는중이야",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-47d207b413",
+   "deck": "conversation",
+   "term": "That figures",
+   "meaning": "그럴 줄 알았어(예상한 일)",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-e4a84bddf7",
+   "deck": "conversation",
+   "term": "I'm broke",
+   "meaning": "나 완전 돈 없어",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-015e7f7048",
+   "deck": "conversation",
+   "term": "It's not worth it",
+   "meaning": "그럴 가치 없어",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-be259f064c",
+   "deck": "conversation",
+   "term": "I'll take your word for it",
+   "meaning": "네 말을 믿을게",
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-f99f1617b7",
+   "deck": "conversation",
+   "term": "Knock yourself out",
+   "meaning": "마음대로 해, 편하게 원하는대로 해봐",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-5fc7e8d3fc",
+   "deck": "conversation",
+   "term": "It's up in the air",
+   "meaning": "아직 미정이야",
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-e1dc74e363",
+   "deck": "conversation",
+   "term": "It's about time",
+   "meaning": "이제야, 드디어!",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-c5bf8888d1",
+   "deck": "conversation",
+   "term": "I can live with that",
+   "meaning": "받아들일 수 있어, 감수할 수 있어; 그정돈 괜찮아",
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-722a0a4b9f",
+   "deck": "conversation",
+   "term": "I wouldn't count on it",
+   "meaning": "기대하지마, 장담 못해",
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-b5da0d4bd6",
+   "deck": "conversation",
+   "term": "You're not gonna believe this",
+   "meaning": "믿기 어렵겠지만",
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-af671186ba",
+   "deck": "conversation",
+   "term": "It's a deal",
+   "meaning": "좋아, 그렇게 하자",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-0cdb4fd173",
+   "deck": "conversation",
+   "term": "Don't get me wrong",
+   "meaning": "오해하지마",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-db5624f436",
+   "deck": "conversation",
+   "term": "I'm working on it",
+   "meaning": "처리중이야, 노력중이야",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-79a50c53cc",
+   "deck": "conversation",
+   "term": "Tell me about it",
+   "meaning": "나도 알아, 맞아, 그러게말야",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-07513f3f70",
+   "deck": "conversation",
+   "term": "I'm good",
+   "meaning": "(거절의 뜻으로) 괜찮아",
+   "examples": [
+    "Nah, I'm good"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-dd84c1d337",
+   "deck": "conversation",
+   "term": "Don't sweat it",
+   "meaning": "걱정마, 신경쓰지마 (그 일로 땀 흘릴,, 걱정할 필요 없어)",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-607cd1ef9d",
+   "deck": "conversation",
+   "term": "Let me get this straight",
+   "meaning": "(정리하며) 다시 말해보자면",
+   "examples": [
+    "Let me get this straight, you quit your job and moved to Spain?"
+   ],
+   "type": "sentence",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-90d1e880a7",
+   "deck": "conversation",
+   "term": "I'm all set",
+   "meaning": "(준비, 상태) 다 됐어",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-71091740c7",
+   "deck": "conversation",
+   "term": "I'm losing it",
+   "meaning": "미칠 것 같아, 정신줄 놓을 것 같아",
+   "examples": [
+    "So much work, no sleep,,, I'm losin it!"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "conversation-8c606dca6c",
+   "deck": "conversation",
+   "term": "That came out wrong",
+   "meaning": "말실수였어(오해를 바로잡을 때)",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-ca482108e8",
+   "deck": "conversation",
+   "term": "You got me wrong",
+   "meaning": "오해야",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-9ad43b43f9",
+   "deck": "conversation",
+   "term": "Look through",
+   "meaning": "훑어보다; (목록이 있는 형태 등 여러 항목 있는 것에서 탐색의 목적으로) 찾다",
+   "examples": [
+    "I looked through all my emails, but I couldn't find it",
+    "She's looking through job listings online",
+    "I looked through the documents to find the file"
+   ],
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-1a88fccabd",
+   "deck": "conversation",
+   "term": "Favorite ~ of all time",
+   "meaning": "인생 ~",
+   "notes": [
+    "favorite movie of all time 인생영화"
+   ],
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-3b50d94985",
+   "deck": "conversation",
+   "term": "What do you feel like?",
+   "meaning": "뭐 먹을래?",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-1467ca5366",
+   "deck": "conversation",
+   "term": "binge-watch",
+   "meaning": "정주행하다, 몰아보다",
+   "type": "word",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-6c94d9e0d3",
+   "deck": "conversation",
+   "term": "and whatnot",
+   "meaning": "등등, 따위",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-629496f9e0",
+   "deck": "conversation",
+   "term": "take",
+   "meaning": "(on) 해석, 의견",
+   "examples": [
+    "Here's my take on the situation",
+    "That's an interesting take",
+    "I don't agree with his take on the movie",
+    "Here's my hot take: pineapple belongs on pizza",
+    "This is my personal take - I could be wrong",
+    "Let me offer another take on this problem"
+   ],
+   "notes": [
+    "What's your take on that? 너는 어떻게 생각해?",
+    "hot take 논란의 여지 있는 (튀는) 의견",
+    "personal take 개인적 해석",
+    "another take 또 다른 관점"
+   ],
+   "type": "word",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-d15203cee4",
+   "deck": "conversation",
+   "term": "I got a lot on my mind",
+   "meaning": "생각이 많아서 복잡해",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-471f8d8699",
+   "deck": "conversation",
+   "term": "Are you mad at me?",
+   "meaning": "나한테 화났어?",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-a77e351d68",
+   "deck": "conversation",
+   "term": "Hear me out",
+   "meaning": "내말 들어봐",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-f0815ffb0d",
+   "deck": "conversation",
+   "term": "Chill out",
+   "meaning": "긴장 풀어",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-256eb91496",
+   "deck": "conversation",
+   "term": "Don’t freak out",
+   "meaning": "겁먹지마, 쫄지마",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-57a5a4231e",
+   "deck": "conversation",
+   "term": "I’m torn",
+   "meaning": "고민돼",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-59c4921d82",
+   "deck": "conversation",
+   "term": "Tough call",
+   "meaning": "어려운 결정, 판단하기 힘든 선택",
+   "examples": [
+    "It's a tough call, but I think we should delay the launch",
+    "That's a tough call - both sides have a point"
+   ],
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-4732076b67",
+   "deck": "conversation",
+   "term": "Both are tempting",
+   "meaning": "둘다 끌려",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-5968c87ae4",
+   "deck": "conversation",
+   "term": "detrimental",
+   "meaning": "유해한",
+   "type": "word",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-0d87481040",
+   "deck": "conversation",
+   "term": "There is no doubt in my mind",
+   "meaning": "백프로 확신해",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-21fbdc75c9",
+   "deck": "conversation",
+   "term": "You won’t be sorry",
+   "meaning": "후회하지 않으실겁니다, 좋은 결과 있을거야",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-f2631ad743",
+   "deck": "conversation",
+   "term": "Don’t get your hopes up",
+   "meaning": "너무 기대하진마",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-43db071f66",
+   "deck": "conversation",
+   "term": "It’s not my cup of tea",
+   "meaning": "내 스타일은 아냐",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-a268b74bc1",
+   "deck": "conversation",
+   "term": "That’s the way the cookie crumbles",
+   "meaning": "인생이 원래 그래",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-53889279d1",
+   "deck": "conversation",
+   "term": "I’m on the fence",
+   "meaning": "결정을 못내리고 있어",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-74f88b9276",
+   "deck": "conversation",
+   "term": "Cut me some slack please",
+   "meaning": "좀 봐줘요",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-2a587d1ba2",
+   "deck": "conversation",
+   "term": "Can I be honest?",
+   "meaning": "솔직히 말해도 돼?",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-f4dc984234",
+   "deck": "conversation",
+   "term": "What do you mean?",
+   "meaning": "그게 무슨말이야?(설명요구)",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-5b41aaa7c3",
+   "deck": "conversation",
+   "term": "What are you saying?",
+   "meaning": "그게 무슨말이야?(충격, 당황)",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-8756b59d9c",
+   "deck": "conversation",
+   "term": "That was uncalled for",
+   "meaning": "그건 도가 지나쳤어",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-c0f282e8e2",
+   "deck": "conversation",
+   "term": "That’s a tough one",
+   "meaning": "그거 쉽지 않은데(질문이 답하기 어렵거나 애매함)",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-7ab1808884",
+   "deck": "conversation",
+   "term": "It’s still up in the air",
+   "meaning": "아직 미정이야",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-01699acfdd",
+   "deck": "conversation",
+   "term": "Hang on",
+   "meaning": "잠깐만(hold on은 주로 전화해서)",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-2984bbbe26",
+   "deck": "conversation",
+   "term": "I might be wrong",
+   "meaning": "내가 틀렸을 수 있어",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-c315ee5363",
+   "deck": "conversation",
+   "term": "It’s not set in stone",
+   "meaning": "아직 확정은 아니야",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-ca981ad60e",
+   "deck": "conversation",
+   "term": "I’m broke",
+   "meaning": "돈이 없어",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-abe45faaf3",
+   "deck": "conversation",
+   "term": "Give or take",
+   "meaning": "대략",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-b2ece5f67b",
+   "deck": "conversation",
+   "term": "I am up for it / I am down",
+   "meaning": "할게(수락의 표현)",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-7cf795bceb",
+   "deck": "conversation",
+   "term": "It’s a no-brainer",
+   "meaning": "당연한 결정이야",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-cece4c9f83",
+   "deck": "conversation",
+   "term": "It is what it is",
+   "meaning": "어쩔 수 없다(체념)",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-4249db942b",
+   "deck": "conversation",
+   "term": "I am gonna hit the sack",
+   "meaning": "이제 자러 갈거야(캐주얼)",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-18e109d2a5",
+   "deck": "conversation",
+   "term": "whatever works for you",
+   "meaning": "너 편한대로",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-7788ae6b07",
+   "deck": "conversation",
+   "term": "out of the blue",
+   "meaning": "느닷없이 갑자기",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-d6787f799b",
+   "deck": "conversation",
+   "term": "I didn’t get a chance to",
+   "meaning": "~할 틈이 없었어(기회, 시간)",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-ff7ba5f971",
+   "deck": "conversation",
+   "term": "It’s your call",
+   "meaning": "너가 결정할 일이야",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-10994ed1e7",
+   "deck": "conversation",
+   "term": "I totally spaced",
+   "meaning": "완전히 까먹었어",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-f7dadbed8b",
+   "deck": "conversation",
+   "term": "I’ve been swamped",
+   "meaning": "정신없이 바빴어",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-128284c9c8",
+   "deck": "conversation",
+   "term": "I lost track of time",
+   "meaning": "시간 가는줄 몰랐어",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-1292d58d75",
+   "deck": "conversation",
+   "term": "I wouldn’t say no",
+   "meaning": "거절할 이유가 없지",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-5735ebec14",
+   "deck": "conversation",
+   "term": "There’s something off",
+   "meaning": "뭔가 이상해",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-86a7554e1d",
+   "deck": "conversation",
+   "term": "I can’t put my finger on it",
+   "meaning": "딱 집어서 말하기 힘들어",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-61cea9b46b",
+   "deck": "conversation",
+   "term": "That makes two of us",
+   "meaning": "동감이야",
+   "type": "sentence",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-5244ed23ee",
+   "deck": "conversation",
+   "term": "That's beside the point",
+   "meaning": "그건 논점을 벗어났어",
+   "type": "phrase",
+   "date": "2025-05-07"
+  },
+  {
+   "id": "conversation-bc7559c730",
+   "deck": "conversation",
+   "term": "Can you watch my bag for a minute?",
+   "meaning": "가방 잠깐만 좀 맡아줄래?",
+   "notes": [
+    "watch: 잠깐(짧은 시간) 책임지고 지켜봐주다"
+   ],
+   "type": "sentence",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "conversation-682829adee",
+   "deck": "conversation",
+   "term": "I'm getting the hang of it",
+   "meaning": "이제 좀 익숙해지고 있어요",
+   "type": "sentence",
+   "date": "2025-06-27"
+  },
+  {
+   "id": "conversation-24dbaa58c3",
+   "deck": "conversation",
+   "term": "touch base",
+   "meaning": "간단히 연락하다 ; 상황을 확인하다",
+   "examples": [
+    "Let's touch base next week to discuss the updates"
+   ],
+   "type": "phrase",
+   "date": "2025-06-27"
+  },
+  {
+   "id": "conversation-d7d0473872",
+   "deck": "conversation",
+   "term": "locked out",
+   "meaning": "밖에 갇히다",
+   "examples": [
+    "I got locked out (of myself)",
+    "I was locked out (by someone)"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-24861b53ba",
+   "deck": "conversation",
+   "term": "locked in",
+   "meaning": "안에 갇히다",
+   "examples": [
+    "I got locked in",
+    "I was locked in by someone"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-9fabaa179f",
+   "deck": "conversation",
+   "term": "be stuck",
+   "meaning": "움직일 수 없는 상태(물리적, 심리적 모두 포함, 반드시 잠금 상태가 아닐 수 있음, 답답함, 통제불능, 시간지연 모두)",
+   "examples": [
+    "I'm stuck in traffic",
+    "We were stuck in the elevator for 30 minutes",
+    "I was stuck in the bathroom",
+    "I'm stuck between two options",
+    "I got stuck writing the introduction",
+    "He's stuck in a negative mindset",
+    "I'm stuck in a meeting that should've ended an hour ago",
+    "I got stuck trying to explain it in English"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-a0e4c95b19",
+   "deck": "conversation",
+   "term": "be trapped inside",
+   "meaning": "갇히다(심각하게, 위협적으로 갇힌 상황, 위험, 공포, 비상 뉘앙스, 물리, 심리 둘다 가능)",
+   "examples": [
+    "I was trapped inside the elevator",
+    "I felt trapped inside that relationship"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-4602afd8c7",
+   "deck": "conversation",
+   "term": "be caught up in",
+   "meaning": "무언가에 휘말려 다른 일을 못할 때(업무, 사건, 문제상황, 감정/생각)",
+   "examples": [
+    "I got caught up in work and completely lost track of time",
+    "Some innocent people was caught up in the protest",
+    "She was so caught up in her own thought, She didn'y hear me",
+    "Don't get too caught up in the drama - focus on yourself"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-07fcfa875e",
+   "deck": "conversation",
+   "term": "lost track of time",
+   "meaning": "시간 가는줄도 모르다",
+   "examples": [
+    "I was watching Netflix and totally lost track of time",
+    "I lost track of time while cooking"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-a64b184428",
+   "deck": "conversation",
+   "term": "lost time",
+   "meaning": "시간을 잃다(시간을 낭비하다)",
+   "examples": [
+    "We need to make up for lost time",
+    "We lost so much time because of the delays"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-63897e3251",
+   "deck": "conversation",
+   "term": "look at",
+   "meaning": "은 보다 / look into는 조사하다(문제해결, 조사 등 위해)",
+   "examples": [
+    "We will look into the issue right away",
+    "The police are looking into the case"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-5c99ac5e4b",
+   "deck": "conversation",
+   "term": "look over",
+   "meaning": "(전체적인 느낌) 가볍게 검토하다",
+   "examples": [
+    "Could you look over my report before I submit it?",
+    "I looked over the contract, and it seems fine"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-529c7f3a93",
+   "deck": "conversation",
+   "term": "job listings",
+   "meaning": "구인공고들",
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-260bb756c2",
+   "deck": "conversation",
+   "term": "remote position",
+   "meaning": "재택근무 가능한 자리",
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "conversation-6ffde2d100",
+   "deck": "conversation",
+   "term": "One noteworthy point in this video is that a typical fire extinguisher only discharges for about 10 to 15 seconds",
+   "meaning": "",
+   "examples": [
+    "What's important to note in this video is that most fire extinguishers only spray for 10 to 15 seconds.",
+    "Interestingly, most fire extinguishers only work for a very short time — just 10 to 15 seconds.",
+    "A key takeaway from this video is that regular fire extinguishers only last 10 to 15 seconds when used."
+   ],
+   "type": "sentence",
+   "date": "2025-07-07"
+  },
+  {
+   "id": "conversation-27139f7f17",
+   "deck": "conversation",
+   "term": "Fires that are no longer in the early stage should be extinguished using an indoor fire hydrant.",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-07-07"
+  },
+  {
+   "id": "conversation-952843f263",
+   "deck": "conversation",
+   "term": "no longer",
+   "meaning": "더이상 ~않은",
+   "examples": [
+    "She no longer works here",
+    "I no longer eat meat",
+    "He no longer lives in New York",
+    "This service is no longer available",
+    "I'm no longer interested in that project"
+   ],
+   "type": "phrase",
+   "date": "2025-07-07"
+  },
+  {
+   "id": "conversation-e2e2e92728",
+   "deck": "conversation",
+   "term": "be meant for",
+   "meaning": "~를 하기 위한 것이다(목적, 용도) (be suitable for)",
+   "examples": [
+    "These shoes are meant for hiking, not running",
+    "Fire extinguishers are meant for putting out small fires"
+   ],
+   "type": "phrase",
+   "date": "2025-07-19"
+  },
+  {
+   "id": "conversation-68a1e1897f",
+   "deck": "conversation",
+   "term": "won't be nearly enough",
+   "meaning": "턱없이 부족하다, 충분하지 않다",
+   "examples": [
+    "If the fire is bigger than this, one or two extinguishers won't be nearly enough",
+    "One blanket won't be nearly enough for this weather"
+   ],
+   "type": "phrase",
+   "date": "2025-07-19"
+  },
+  {
+   "id": "conversation-f0eb4769e5",
+   "deck": "conversation",
+   "term": "not even close to enough",
+   "meaning": "기대치에 한참 못미친다(=far from enough, hardly enough)",
+   "examples": [
+    "One extinguisher is not even close to enough",
+    "We have hardly enough food for everyone"
+   ],
+   "type": "phrase",
+   "date": "2025-07-19"
+  },
+  {
+   "id": "conversation-84c23c1a37",
+   "deck": "conversation",
+   "term": "barely enough",
+   "meaning": "간신히 충분함(부족함을 면함, 부족하지 않음)",
+   "examples": [
+    "We had barely enough time to finish"
+   ],
+   "type": "phrase",
+   "date": "2025-07-19"
+  },
+  {
+   "id": "conversation-c24966e3d1",
+   "deck": "conversation",
+   "term": "Hardly vs Barely",
+   "meaning": "(거의~않다, 간신히)",
+   "examples": [
+    "He barely passed the exam(O)"
+   ],
+   "notes": [
+    "I could hardly hear him 거의 안들렸다",
+    "I could barely hear him 간신히 들었다",
+    "He hardly passed the exam(X) hardly는 결과적으로 부정적이어야"
+   ],
+   "type": "phrase",
+   "date": "2025-07-19"
+  },
+  {
+   "id": "opic-af02ed080e",
+   "deck": "opic",
+   "term": "come to think of it",
+   "meaning": "그러고 보니",
+   "examples": [
+    "Come to think of it, I haven't seen her lately",
+    "Come to think of it, I left my phone at home"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-47ac7b4f4a",
+   "deck": "opic",
+   "term": "back in the day",
+   "meaning": "예전에는",
+   "examples": [
+    "I played the piano a lot back in the day"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-5e98420464",
+   "deck": "opic",
+   "term": "have a lot on my plate",
+   "meaning": "할 일이 많다",
+   "examples": [
+    "I have a lot on my plate these days at work"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-b3d92ad740",
+   "deck": "opic",
+   "term": "off the top of my head",
+   "meaning": "바로 생각나는건",
+   "examples": [
+    "Off the top of my head, I'd say Italian food"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-3abebbed27",
+   "deck": "opic",
+   "term": "I'd say",
+   "meaning": "~인 것 같아 (부드럽게 생각 말하기)",
+   "examples": [
+    "I'd say it's about a 20-minute walk from here",
+    "I'm not sure, but I'd say she's in her early 30s"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-7ab9e1e528",
+   "deck": "opic",
+   "term": "kill time",
+   "meaning": "시간을 때우다",
+   "examples": [
+    "I usually kill time at the cafe before class"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-07eb002417",
+   "deck": "opic",
+   "term": "once in a while",
+   "meaning": "가끔",
+   "examples": [
+    "I eat junk food once in a while"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-62276cc45b",
+   "deck": "opic",
+   "term": "better safe than sorry",
+   "meaning": "조심해서 나쁠건 없지",
+   "examples": [
+    "I double-checked the document, better safe than sorry"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-1890cd48e7",
+   "deck": "opic",
+   "term": "be into",
+   "meaning": "~에 빠져있다, 좋아하다",
+   "examples": [
+    "I'm really into cooking these days",
+    "He's into jazz music and photography"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-3c95cd33e5",
+   "deck": "opic",
+   "term": "feel under the weather",
+   "meaning": "몸 상태가 안좋다",
+   "examples": [
+    "I stayed home because I felt under the weather",
+    "She looked a bit under the weather yesterday"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-7388d221f6",
+   "deck": "opic",
+   "term": "cost an arm and a leg",
+   "meaning": "무척 비싸다",
+   "examples": [
+    "That smartphone costs an arm and a leg"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-2d2b3169ec",
+   "deck": "opic",
+   "term": "in the long run",
+   "meaning": "결국, 장기적으로는",
+   "examples": [
+    "It might be tough, but it's worth it in the long run"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-ff2056f6c6",
+   "deck": "opic",
+   "term": "burn the midnight oil",
+   "meaning": "밤 늦게까지 공부/일하다",
+   "examples": [
+    "I had to burn the midnight oil for the exam"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-d5e0551c37",
+   "deck": "opic",
+   "term": "stick to",
+   "meaning": "고수하다, 계속하다",
+   "examples": [
+    "I try to stick to a healthy diet"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-cd63265418",
+   "deck": "opic",
+   "term": "be all ears",
+   "meaning": "열심히 듣다",
+   "examples": [
+    "Tell me what happened, I'm all ears"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-a926e94ae2",
+   "deck": "opic",
+   "term": "get along with",
+   "meaning": "~와 잘 지내다",
+   "examples": [
+    "I get along well with my coworkers"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-dba3b36d96",
+   "deck": "opic",
+   "term": "a piece of cake",
+   "meaning": "아주 쉬운 일",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-72916efad8",
+   "deck": "opic",
+   "term": "blow off stream",
+   "meaning": "스트레스를 풀다",
+   "examples": [
+    "I go jogging to blow off stream",
+    "Hanging out with friends helps me blow off stream"
+   ],
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-7dc975236c",
+   "deck": "opic",
+   "term": "as far as I can tell",
+   "meaning": "내가 보기엔, 내가 파악한 바로는",
+   "type": "phrase",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "opic-31956b3fab",
+   "deck": "opic",
+   "term": "career stagnation",
+   "meaning": "인사적체",
+   "type": "phrase",
+   "date": "2025-06-27"
+  },
+  {
+   "id": "opic-d65260802c",
+   "deck": "opic",
+   "term": "internal competition",
+   "meaning": "내부 경쟁",
+   "examples": [
+    "Moderate internal competition helps motivate employees and enhance performance"
+   ],
+   "type": "phrase",
+   "date": "2025-06-27"
+  },
+  {
+   "id": "opic-28586911f7",
+   "deck": "opic",
+   "term": "cutthroat",
+   "meaning": "잔혹한 경쟁을 특징으로 하는, 지독히 경쟁적인",
+   "examples": [
+    "The retail industry is extremely cutthroat",
+    "It's a cutthroat environment where only the strongest survive."
+   ],
+   "type": "word",
+   "date": "2025-06-27"
+  },
+  {
+   "id": "opic-e82ceff8ec",
+   "deck": "opic",
+   "term": "People may think that... but in reality",
+   "meaning": "(직설, 흔함)",
+   "examples": [
+    "People may believe that what's the most important in international politics is a shared sense of human ethics, but in reality, it's a brutal struggle for survival"
+   ],
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "이상과 현실의 대비구조 말하기"
+  },
+  {
+   "id": "opic-94c6d18c94",
+   "deck": "opic",
+   "term": "Many believe that ... but in reality",
+   "meaning": ", / Some think ... but in many cases, (직설, 흔함)",
+   "examples": [
+    "Many believe that democracy is driven by the will of the people, but in reality, it often bens to the will of money and influence",
+    "Some think foreign aid is about altruism, but in many cases, it's a strategic investment with geopolitical strings attached."
+   ],
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "이상과 현실의 대비구조 말하기"
+  },
+  {
+   "id": "opic-30d46a1490",
+   "deck": "opic",
+   "term": "While it is often believed that... the truth is",
+   "meaning": "이상과 현실의 대비구조 말하기",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "이상과 현실의 대비구조 말하기"
+  },
+  {
+   "id": "opic-1c3f33007c",
+   "deck": "opic",
+   "term": "It is commonly assumed that... however",
+   "meaning": "이상과 현실의 대비구조 말하기",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "이상과 현실의 대비구조 말하기"
+  },
+  {
+   "id": "opic-2d23b1bd38",
+   "deck": "opic",
+   "term": "On the surface, it seems that... but beneath the surface",
+   "meaning": "이상과 현실의 대비구조 말하기",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "이상과 현실의 대비구조 말하기"
+  },
+  {
+   "id": "opic-6e36531855",
+   "deck": "opic",
+   "term": "There is a widespread belief that... yet",
+   "meaning": "이상과 현실의 대비구조 말하기",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "이상과 현실의 대비구조 말하기"
+  },
+  {
+   "id": "opic-99f1bbc5da",
+   "deck": "opic",
+   "term": "At first glance,,, but upon closer inspection",
+   "meaning": "이상과 현실의 대비구조 말하기",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "이상과 현실의 대비구조 말하기"
+  },
+  {
+   "id": "opic-719ab9df49",
+   "deck": "opic",
+   "term": "Some would argue that... but this view overlooks",
+   "meaning": "이상과 현실의 대비구조 말하기",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "이상과 현실의 대비구조 말하기"
+  },
+  {
+   "id": "opic-50b2851c3c",
+   "deck": "opic",
+   "term": "It's tempting to believe that ... yet",
+   "meaning": "이상과 현실의 대비구조 말하기",
+   "examples": [
+    "It's tempting to believe that humans are rational beings, yet we're largely driven by emotion"
+   ],
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "이상과 현실의 대비구조 말하기"
+  },
+  {
+   "id": "opic-daca2a7c7a",
+   "deck": "opic",
+   "term": "That may be true in general, but it's not always the case",
+   "meaning": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)"
+  },
+  {
+   "id": "opic-bbb5041fd9",
+   "deck": "opic",
+   "term": "As a general rule, yes - but there are plenty of nuances",
+   "meaning": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)"
+  },
+  {
+   "id": "opic-8397ac26eb",
+   "deck": "opic",
+   "term": "It works most of the time, but not all the time",
+   "meaning": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)"
+  },
+  {
+   "id": "opic-0bad8e4048",
+   "deck": "opic",
+   "term": "That's true, but not always",
+   "meaning": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)"
+  },
+  {
+   "id": "opic-1501eceb44",
+   "deck": "opic",
+   "term": "Don't apply it blindly",
+   "meaning": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)",
+   "type": "phrase",
+   "date": "2025-06-27",
+   "topic": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)"
+  },
+  {
+   "id": "opic-759069fbc6",
+   "deck": "opic",
+   "term": "It's a rule of thumb, not a law",
+   "meaning": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "맹신을 경계하는 반론(일반적으론 맞지만, 항상 그렇진 않다)"
+  },
+  {
+   "id": "opic-7cc36adc6d",
+   "deck": "opic",
+   "term": "So, it is important to use your judgment depending on the context",
+   "meaning": "상황에 따라 적절하게 판단해야 해",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "상황에 따라 적절하게 판단해야 해"
+  },
+  {
+   "id": "opic-ccb681690f",
+   "deck": "opic",
+   "term": "That's why you need to make case-by-case decisions",
+   "meaning": "상황에 따라 적절하게 판단해야 해",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "상황에 따라 적절하게 판단해야 해"
+  },
+  {
+   "id": "opic-e36c6a5753",
+   "deck": "opic",
+   "term": "It all depends on the specific situation",
+   "meaning": "상황에 따라 적절하게 판단해야 해",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "상황에 따라 적절하게 판단해야 해"
+  },
+  {
+   "id": "opic-217f0d6bcc",
+   "deck": "opic",
+   "term": "So, don't apply it blindly - assess based on the situation",
+   "meaning": "상황에 따라 적절하게 판단해야 해",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "상황에 따라 적절하게 판단해야 해"
+  },
+  {
+   "id": "opic-c1ddd0614f",
+   "deck": "opic",
+   "term": "Use discretion",
+   "meaning": "when applying it in different context",
+   "type": "phrase",
+   "date": "2025-06-27",
+   "topic": "상황에 따라 적절하게 판단해야 해"
+  },
+  {
+   "id": "opic-a78ea0a430",
+   "deck": "opic",
+   "term": "000\">discretion",
+   "meaning": "신중함, 자율적인 재량권",
+   "examples": [
+    "This matter must be handled with discretion",
+    "I trust you to use discretion when discussing this"
+   ],
+   "notes": [
+    "at one's discretion ~의 재량(판단)에 따라",
+    "exercise discretion (공식적으로) 재량권을 행사하다",
+    "use discretion 신중하게 판단하다",
+    "with discretion 신중하게",
+    "You may act at your own discretion 재량에 따라 행동하셔도 됩니다",
+    "Managers have the discretion to adjust schedules as needed 재량권이 있다"
+   ],
+   "type": "word",
+   "date": "2025-06-27",
+   "topic": "상황에 따라 적절하게 판단해야 해"
+  },
+  {
+   "id": "opic-1767c4fa48",
+   "deck": "opic",
+   "term": "One thing that people rarely consider",
+   "meaning": "is that things like that don't really happen in the real world.",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "그런 일은 현실에서 일어나지 않는다"
+  },
+  {
+   "id": "opic-f7dc1f0572",
+   "deck": "opic",
+   "term": "One thing people rarely think about",
+   "meaning": "is how unlikely such things are in the real world",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "그런 일은 현실에서 일어나지 않는다"
+  },
+  {
+   "id": "opic-f82e1faf99",
+   "deck": "opic",
+   "term": "These kinds of things only happen in movies - not in the real world",
+   "meaning": "그런 일은 현실에서 일어나지 않는다",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "그런 일은 현실에서 일어나지 않는다"
+  },
+  {
+   "id": "opic-847216a72b",
+   "deck": "opic",
+   "term": "How unlikely",
+   "meaning": "그런 일은 현실에서 일어나지 않는다",
+   "examples": [
+    "She had no idea how unlikely it was for her plan to succeed",
+    "You'd be surprised how unlikely that actually is",
+    "Considering how unlikely it is, I don't think we should rely on that"
+   ],
+   "type": "phrase",
+   "date": "2025-06-27",
+   "topic": "그런 일은 현실에서 일어나지 않는다"
+  },
+  {
+   "id": "opic-ce7664ae42",
+   "deck": "opic",
+   "term": "It might sound a bit extreme, (and maybe even like a conspiracy theory)",
+   "meaning": "극단적으로 들리겠지만",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "극단적으로 들리겠지만"
+  },
+  {
+   "id": "opic-e871ebd3cd",
+   "deck": "opic",
+   "term": "This may seem far-fetched",
+   "meaning": ", but,",
+   "type": "phrase",
+   "date": "2025-06-27",
+   "topic": "극단적으로 들리겠지만"
+  },
+  {
+   "id": "opic-13006a3fb3",
+   "deck": "opic",
+   "term": "I know it sounds dramatic, but",
+   "meaning": "극단적으로 들리겠지만",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "극단적으로 들리겠지만"
+  },
+  {
+   "id": "opic-863240338d",
+   "deck": "opic",
+   "term": "It's a bold claim, but",
+   "meaning": "극단적으로 들리겠지만",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "극단적으로 들리겠지만"
+  },
+  {
+   "id": "opic-0b179edb34",
+   "deck": "opic",
+   "term": "It might sound like a conspiracy theory, but",
+   "meaning": "극단적으로 들리겠지만",
+   "type": "sentence",
+   "date": "2025-06-27",
+   "topic": "극단적으로 들리겠지만"
+  },
+  {
+   "id": "opic-9fa500017a",
+   "deck": "opic",
+   "term": "far-fetched",
+   "meaning": "비현실적인, 비약의",
+   "examples": [
+    "The idea that aliens built the pyramids sounds a bit far-fetched"
+   ],
+   "type": "word",
+   "date": "2025-06-27",
+   "topic": "극단적으로 들리겠지만"
+  },
+  {
+   "id": "opic-1699b0a59f",
+   "deck": "opic",
+   "term": "I'm not sure how to put this, but",
+   "meaning": "뭐라고 해야할지 모르겠지만(조심스러움, 민감할 수 있는 내용, 기분 상하게 안하려고 노력)",
+   "examples": [
+    "I'm not sure how to put this, but I think your presentation needs a bit more structure",
+    "I'm not sure how to put this, but your tone in the meeting came off a little harsh"
+   ],
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-d1b5dc533c",
+   "deck": "opic",
+   "term": "To me, It seems like...",
+   "meaning": "내가보기엔 (주관적 시각)",
+   "examples": [
+    "To me, it seems like he's not really interested in the project"
+   ],
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-e27a035ef7",
+   "deck": "opic",
+   "term": "If you ask me",
+   "meaning": ", 내 개인적인 의견이라면 (자신있게)",
+   "examples": [
+    "If you ask me, we should've gone with other option"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-bdb0260c52",
+   "deck": "opic",
+   "term": "From my point of view",
+   "meaning": "내 관점에서는(논리적)",
+   "examples": [
+    "From my point of view, both sides made valid arguments"
+   ],
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-9024a3762d",
+   "deck": "opic",
+   "term": "I see what you're saying, but",
+   "meaning": "무슨말인지는 알겠는데,(존중+반박)",
+   "examples": [
+    "I see what you're saying, but I'm not sure it'll work in this case"
+   ],
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-9286664a9f",
+   "deck": "opic",
+   "term": "Like",
+   "meaning": "예를들면, 있잖아",
+   "type": "word",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-95e0388b94",
+   "deck": "opic",
+   "term": "So basically",
+   "meaning": "요약하자면,,",
+   "examples": [
+    "So basically, we just need to finish the report by Friday"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-9435a9a1e7",
+   "deck": "opic",
+   "term": "You've got to be kidding me",
+   "meaning": "농담이지?",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-8b07044148",
+   "deck": "opic",
+   "term": "Speaking of which",
+   "meaning": "그 얘기하니까 생각나는데,",
+   "examples": [
+    "Speaking of which, did you ever get your laptop fixed?",
+    "That movie was amazing. Speaking of which, did you hear they're making a sequel?"
+   ],
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-da3b2d55c4",
+   "deck": "opic",
+   "term": "There was this one time when",
+   "meaning": "~했던 적이 있어요",
+   "examples": [
+    "There was this one time when I got locked out of my apartment"
+   ],
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-f5e0be2de3",
+   "deck": "opic",
+   "term": "I remember one time when",
+   "meaning": "~했던 적이 있어요",
+   "examples": [
+    "I remember one time when I missed a flight because I overslept"
+   ],
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-cfea152fab",
+   "deck": "opic",
+   "term": "Let me tell you about a time when...",
+   "meaning": "~했던 적이 있어요",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-6e197cf304",
+   "deck": "opic",
+   "term": "Does Friday at 3 PM work for you?",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-a3130dac62",
+   "deck": "opic",
+   "term": "Are there any discounts or promotions available?",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-ef09ee0b72",
+   "deck": "opic",
+   "term": "What are your business hours?",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-23027205e6",
+   "deck": "opic",
+   "term": "Well, I haven’t really thought about that before",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-8ac9ef434b",
+   "deck": "opic",
+   "term": "But if I had to say something",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-e73c86cadd",
+   "deck": "opic",
+   "term": "Let me think for a second",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-e5eabbf780",
+   "deck": "opic",
+   "term": "It’s not easy to choose",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-6f07e88b02",
+   "deck": "opic",
+   "term": "From what I know",
+   "meaning": "",
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-764cc21cce",
+   "deck": "opic",
+   "term": "What I think is that",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-19239f31cb",
+   "deck": "opic",
+   "term": "If i remember correctly",
+   "meaning": "",
+   "type": "phrase",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-7357cb56f7",
+   "deck": "opic",
+   "term": "you have no idea how beautiful you are",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-af7abb0c1a",
+   "deck": "opic",
+   "term": "It was one of the most unforgettable experiences ever",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-e0db47053e",
+   "deck": "opic",
+   "term": "would",
+   "meaning": "반복적 행동에 대한 회상 톤",
+   "type": "word",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-c753b8a674",
+   "deck": "opic",
+   "term": "Every morning, I grab a cup of coffee on my way to work and head to the office",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-35f4deeecc",
+   "deck": "opic",
+   "term": "But at the same time, but still",
+   "meaning": "구어체 느낌 사는 “근데,,”(반전)",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "opic-f3e4db8bc6",
+   "deck": "opic",
+   "term": "My house is in a quiet neighborhood",
+   "meaning": "",
+   "type": "sentence",
+   "date": "2025-06-30"
+  },
+  {
+   "id": "speaking-24d1427d11",
+   "deck": "speaking",
+   "term": "carry a shoulder bag",
+   "meaning": "어깨 한쪽으로 가방 메다",
+   "examples": [
+    "She is carrying a shoulder bag",
+    "She is wearing a sling bag over one shoulder"
+   ],
+   "notes": [
+    "shoulder bag: 어깨에 걸친 명품백, 에코백",
+    "sling bag: 대각선으로 메는 작고 실용적인 가방"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-eba2eb8227",
+   "deck": "speaking",
+   "term": "Rest one's chin on one's arm",
+   "meaning": "턱을 괴다",
+   "examples": [
+    "She was sitting at the desk, resting her chin on her hand"
+   ],
+   "type": "sentence"
+  },
+  {
+   "id": "speaking-957878d793",
+   "deck": "speaking",
+   "term": "Rest one's arms on the table",
+   "meaning": "팔을 의탁하다",
+   "examples": [
+    "He leaned forward, resting his arms on the table"
+   ],
+   "type": "sentence"
+  },
+  {
+   "id": "speaking-dc8b0f5efc",
+   "deck": "speaking",
+   "term": "lean against the wall",
+   "meaning": "벽에 기대다",
+   "examples": [
+    "He was standing there, leaning against the wall"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-6bfa6daa77",
+   "deck": "speaking",
+   "term": "be sitting at a table",
+   "meaning": "테이블에 앉아있다",
+   "notes": [
+    "sit on a table 이라고 하면, 테이블 위에 올라가 있는 뉘앙스"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-50f71d7248",
+   "deck": "speaking",
+   "term": "sit on a chair",
+   "meaning": "의자에 앉아있다",
+   "notes": [
+    "sit in a chair: 몸을 감싸는 깊은 의자(안락의자 등)에 앉을 때"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-d5c7ec0f64",
+   "deck": "speaking",
+   "term": "in one's seat / take to one's seat",
+   "meaning": "좌석에 앉아있다",
+   "examples": [
+    "I was in my seat before the movie started",
+    "There's no seat left on the 7 PM flight",
+    "Please take your seats, the lecture is about to begin"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-e9857c995d",
+   "deck": "speaking",
+   "term": "be pointing toward",
+   "meaning": "멀리 방향만",
+   "type": "phrase",
+   "topic": "가리키다"
+  },
+  {
+   "id": "speaking-e4454a29fe",
+   "deck": "speaking",
+   "term": "be pointing at",
+   "meaning": "가까이 있는 대상",
+   "type": "phrase",
+   "topic": "가리키다"
+  },
+  {
+   "id": "speaking-8c51f6d774",
+   "deck": "speaking",
+   "term": "She pointed toward the exit with her umbrella",
+   "meaning": "가리키다",
+   "type": "sentence",
+   "topic": "가리키다"
+  },
+  {
+   "id": "speaking-71eb8ca216",
+   "deck": "speaking",
+   "term": "She pointed a the chart with a pen",
+   "meaning": "가리키다",
+   "type": "sentence",
+   "topic": "가리키다"
+  },
+  {
+   "id": "speaking-10f8d882a0",
+   "deck": "speaking",
+   "term": "use ~ as a pointer",
+   "meaning": "포인터로 사용하다",
+   "type": "phrase",
+   "topic": "가리키다"
+  },
+  {
+   "id": "speaking-ffcf2e2cb7",
+   "deck": "speaking",
+   "term": "be repotting",
+   "meaning": "식물을 화분에 옮겨담다",
+   "examples": [
+    "She is repotting a plant into a larger pot"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-c008159e34",
+   "deck": "speaking",
+   "term": "be crouching down",
+   "meaning": "몸을 낮추고 웅크리다",
+   "examples": [
+    "He is crouching down to examine the roots"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-117f25ff67",
+   "deck": "speaking",
+   "term": "kneel on one knee",
+   "meaning": "한쪽 무릎을 굽히다",
+   "examples": [
+    "A man is kneeling on one knee and handing flowers to a woman"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-62b20902d9",
+   "deck": "speaking",
+   "term": "stoop",
+   "meaning": "몸을 전체적으로 낮추다",
+   "examples": [
+    "A man is stooping to pass under a low ceiling"
+   ],
+   "type": "word"
+  },
+  {
+   "id": "speaking-07caca42d5",
+   "deck": "speaking",
+   "term": "crawl",
+   "meaning": "기어가다",
+   "examples": [
+    "A man is crawling on the floor toward his wheelchair"
+   ],
+   "type": "word"
+  },
+  {
+   "id": "speaking-07220ddcbd",
+   "deck": "speaking",
+   "term": "a wheelbarrow, a wagon",
+   "meaning": "손수레 (바퀴 1개, 바퀴 4개)",
+   "notes": [
+    "보통 wheelbarrow는 push, wagon은 pull"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-f86dfda729",
+   "deck": "speaking",
+   "term": "chop wood",
+   "meaning": "장작을 패다",
+   "examples": [
+    "He is chopping wood in the backyard"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-b04feb49d1",
+   "deck": "speaking",
+   "term": "wood",
+   "meaning": "불가산(uncountable) 명사",
+   "examples": [
+    "The table is made of wood",
+    "There are three pieces of wood",
+    "They went for a walk in a wood"
+   ],
+   "notes": [
+    "a wood: 작은 숲(=small forest), the woods: 숲속"
+   ],
+   "type": "word"
+  },
+  {
+   "id": "speaking-9b2e0006d7",
+   "deck": "speaking",
+   "term": "a log",
+   "meaning": "가산명사",
+   "examples": [
+    "He is chopping logs for the fireplace"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-172ac4f9e3",
+   "deck": "speaking",
+   "term": "a shed",
+   "meaning": "시골에 있는 작은 창고",
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-62c2252af7",
+   "deck": "speaking",
+   "term": "a barn",
+   "meaning": "시골에 있는 큰 곡식 창고",
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-9c0cca73c9",
+   "deck": "speaking",
+   "term": "warehouse",
+   "meaning": "산업현장의 대형 창고",
+   "type": "word"
+  },
+  {
+   "id": "speaking-7839640203",
+   "deck": "speaking",
+   "term": "countryside",
+   "meaning": "시골",
+   "examples": [
+    "It looks line we're in the countryside"
+   ],
+   "type": "word"
+  },
+  {
+   "id": "speaking-2cc9c53e0f",
+   "deck": "speaking",
+   "term": "rural",
+   "meaning": "시골의",
+   "examples": [
+    "It feels like a rural area"
+   ],
+   "type": "word"
+  },
+  {
+   "id": "speaking-edb2c6cdf0",
+   "deck": "speaking",
+   "term": "stump",
+   "meaning": "나무 밑둥 그루터기 남은거",
+   "type": "word"
+  },
+  {
+   "id": "speaking-514551b488",
+   "deck": "speaking",
+   "term": "being displayed",
+   "meaning": "판매를 위한 진열",
+   "examples": [
+    "Fruits and vegetables are displayed at the market"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-7d9b2c5b61",
+   "deck": "speaking",
+   "term": "He looks like an outgoing person",
+   "meaning": "그는 외향적인 사람처럼 보인다",
+   "type": "sentence",
+   "topic": "그는 외향적인 사람처럼 보인다"
+  },
+  {
+   "id": "speaking-e954be2028",
+   "deck": "speaking",
+   "term": "He seems (to be) outgoing",
+   "meaning": "그는 외향적인 사람처럼 보인다; ~같다고 느끼다",
+   "type": "sentence",
+   "topic": "그는 외향적인 사람처럼 보인다"
+  },
+  {
+   "id": "speaking-2e721d660a",
+   "deck": "speaking",
+   "term": "He appears to be very outgoing",
+   "meaning": "그는 외향적인 사람처럼 보인다",
+   "type": "sentence",
+   "topic": "그는 외향적인 사람처럼 보인다"
+  },
+  {
+   "id": "speaking-fe3130f379",
+   "deck": "speaking",
+   "term": "feel like",
+   "meaning": "원하다 / ~같다고 느끼다",
+   "examples": [
+    "I feel like going out",
+    "I feel like he's outgoing"
+   ],
+   "type": "phrase",
+   "topic": "그는 외향적인 사람처럼 보인다"
+  },
+  {
+   "id": "speaking-3872427cf3",
+   "deck": "speaking",
+   "term": "It seems (to me) that he's outgoing",
+   "meaning": "~같다고 느끼다",
+   "type": "sentence",
+   "topic": "~같다고 느끼다"
+  },
+  {
+   "id": "speaking-79d0887f8e",
+   "deck": "speaking",
+   "term": "It looks like he's outgoing",
+   "meaning": "~같다고 느끼다",
+   "type": "sentence",
+   "topic": "~같다고 느끼다"
+  },
+  {
+   "id": "speaking-89edb4e12d",
+   "deck": "speaking",
+   "term": "He looks outgoing",
+   "meaning": "~같다고 느끼다",
+   "type": "phrase",
+   "topic": "~같다고 느끼다"
+  },
+  {
+   "id": "speaking-cd90fa9832",
+   "deck": "speaking",
+   "term": "I feel like he's outgoing",
+   "meaning": "~같다고 느끼다",
+   "type": "sentence",
+   "topic": "~같다고 느끼다"
+  },
+  {
+   "id": "speaking-a02e3be8ad",
+   "deck": "speaking",
+   "term": "I think / I guess",
+   "meaning": "~같다고 느끼다",
+   "type": "phrase",
+   "topic": "~같다고 느끼다"
+  },
+  {
+   "id": "speaking-51ebbfddcd",
+   "deck": "speaking",
+   "term": "It appears that he's outgoing",
+   "meaning": "~같다고 느끼다",
+   "type": "sentence",
+   "topic": "~같다고 느끼다"
+  },
+  {
+   "id": "speaking-ace9a5e00f",
+   "deck": "speaking",
+   "term": "look around",
+   "meaning": "가게를 둘러보다",
+   "examples": [
+    "He's looking aroung the store"
+   ],
+   "type": "phrase",
+   "topic": "~같다고 느끼다"
+  },
+  {
+   "id": "speaking-138d5df7ae",
+   "deck": "speaking",
+   "term": "check out",
+   "meaning": "조금 더 유심히 살펴보다",
+   "examples": [
+    "He's checking out a new blender"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-8fb6e42f5c",
+   "deck": "speaking",
+   "term": "collect samples",
+   "meaning": "채취하다",
+   "examples": [
+    "We collected samples for analysis"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-e4f4df0ef6",
+   "deck": "speaking",
+   "term": "greet customers, welcome customers",
+   "meaning": "손님을 맞이하다",
+   "examples": [
+    "The staff is trained to greet customers warmly"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-9fdcd7bb24",
+   "deck": "speaking",
+   "term": "approach",
+   "meaning": "다가가다 (전치사 없음)",
+   "examples": [
+    "An employee approached a customer to offer help"
+   ],
+   "type": "word"
+  },
+  {
+   "id": "speaking-bcc4100c13",
+   "deck": "speaking",
+   "term": "a lot of / lots of",
+   "meaning": "모두 가산/불가산에 사용 가능",
+   "notes": [
+    "lots of 가 좀더 구어체, 캐주얼",
+    "의미 차이는 없음"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-4656e5bccc",
+   "deck": "speaking",
+   "term": "be short of time",
+   "meaning": "시간이 부족하다",
+   "examples": [
+    "we are short of time to finish the project"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-bacb470962",
+   "deck": "speaking",
+   "term": "be short of money(budget)",
+   "meaning": "예산이 부족하다",
+   "examples": [
+    "The team is short of budget for marketing",
+    "The budget is tight",
+    "Due to budget constraints, we can only go up to $1000"
+   ],
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-61e13ca2c7",
+   "deck": "speaking",
+   "term": "whereas, however, in contrast",
+   "meaning": "둘을 비교할 때 전환",
+   "type": "phrase"
+  },
+  {
+   "id": "speaking-988b3eb541",
+   "deck": "speaking",
+   "term": "drawback",
+   "meaning": "장점 속에 섞인 단점 한가지",
+   "type": "word",
+   "topic": "장단점 표현"
+  },
+  {
+   "id": "speaking-7b3a7c0147",
+   "deck": "speaking",
+   "term": "downside",
+   "meaning": "부정적인 면",
+   "type": "word",
+   "topic": "장단점 표현"
+  },
+  {
+   "id": "speaking-9793580114",
+   "deck": "speaking",
+   "term": "shortcoming",
+   "meaning": "능력/품질의 부족,결함",
+   "type": "word",
+   "topic": "장단점 표현"
+  },
+  {
+   "id": "speaking-e589aab094",
+   "deck": "speaking",
+   "term": "limitation",
+   "meaning": "제약, 한계",
+   "type": "word",
+   "topic": "장단점 표현"
+  },
+  {
+   "id": "speaking-d13b6c8815",
+   "deck": "speaking",
+   "term": "trade-off",
+   "meaning": "상충관계",
+   "type": "word",
+   "topic": "장단점 표현"
+  },
+  {
+   "id": "speaking-7c25f72aaa",
+   "deck": "speaking",
+   "term": "caveat",
+   "meaning": "경고, 주의사항",
+   "type": "word",
+   "topic": "장단점 표현"
+  },
+  {
+   "id": "speaking-9d6b2ca03c",
+   "deck": "speaking",
+   "term": "However, one drawback is that It requires a large initial budget",
+   "meaning": "장단점 표현",
+   "type": "sentence",
+   "topic": "장단점 표현"
+  },
+  {
+   "id": "speaking-4e107a3f8a",
+   "deck": "speaking",
+   "term": "But its major downside is that it often increases congestion",
+   "meaning": "장단점 표현",
+   "type": "sentence",
+   "topic": "장단점 표현"
+  },
+  {
+   "id": "speaking-8d3a84c14b",
+   "deck": "speaking",
+   "term": "It comes with certain limitations such as high mantenance costs",
+   "meaning": "장단점 표현",
+   "type": "sentence",
+   "topic": "장단점 표현"
+  },
+  {
+   "id": "speaking-7b14b8e3e9",
+   "deck": "speaking",
+   "term": "but a critical shortcoming is that",
+   "meaning": "장단점 표현",
+   "type": "phrase",
+   "topic": "장단점 표현"
+  },
+  {
+   "id": "business-8d878e3867",
+   "deck": "business",
+   "term": "prime contractor",
+   "meaning": "발주자와 직접 계약한 원청업체 (공공계약, 법률적 맥락에서 사용)",
+   "examples": [
+    "The government awarded the project to a prime contractor."
+   ],
+   "type": "phrase",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-1f8d3bb315",
+   "deck": "business",
+   "term": "general contractor",
+   "meaning": "시공 전체를 총괄하는 원청업체 (미국 건설현장 실무용어)",
+   "examples": [
+    "The general contractor hired several subcontractors."
+   ],
+   "type": "phrase",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-9441544074",
+   "deck": "business",
+   "term": "main contractor",
+   "meaning": "원청업체 (영국식 표현, 국제 계약서에 자주 등장)",
+   "examples": [
+    "The main contractor is responsible for safety on site."
+   ],
+   "type": "phrase",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-28724f930a",
+   "deck": "business",
+   "term": "subcontractor",
+   "meaning": "하청업체",
+   "examples": [
+    "The subcontractor installed the electrical systems."
+   ],
+   "type": "word",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-014f5da1b1",
+   "deck": "business",
+   "term": "sub-subcontractor",
+   "meaning": "재하청업체 (하청이 다시 준 계약)",
+   "examples": [
+    "A sub-subcontractor handled the painting work."
+   ],
+   "type": "word",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-3770dad2da",
+   "deck": "business",
+   "term": "second-tier subcontracting",
+   "meaning": "재하도급 (법적·계약서적 표현)",
+   "examples": [
+    "Second-tier subcontracting is not allowed under this contract."
+   ],
+   "type": "phrase",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-8c96effcfc",
+   "deck": "business",
+   "term": "lower-tier subcontractor",
+   "meaning": "하위 단계 하청업체 (재하청 포함)",
+   "examples": [
+    "The lower-tier subcontractor must follow the same safety standards."
+   ],
+   "type": "phrase",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-3d7adf4aea",
+   "deck": "business",
+   "term": "invoice",
+   "meaning": "청구서, 계산서 (일상적 대금청구)",
+   "examples": [
+    "We sent an invoice to the contractor for last month's work."
+   ],
+   "type": "word",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-fc5d14f910",
+   "deck": "business",
+   "term": "claim (a payment)",
+   "meaning": "(정당한 권리로서) 대금을 청구하다",
+   "examples": [
+    "The supplier claimed compensation for late payment."
+   ],
+   "type": "phrase",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-451d7e6bf2",
+   "deck": "business",
+   "term": "demand (payment)",
+   "meaning": "강하게 요구하다, (지체된) 대금을 강력히 청구하다",
+   "examples": [
+    "The subcontractor demanded overdue payment."
+   ],
+   "type": "phrase",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-7f76be081e",
+   "deck": "business",
+   "term": "assert (a claim)",
+   "meaning": "권리를 주장하다 (격식, 법률적)",
+   "examples": [
+    "The contractor asserted its right to full payment."
+   ],
+   "type": "phrase",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-d365c2e1f0",
+   "deck": "business",
+   "term": "file a claim",
+   "meaning": "(법적으로) 청구를 제기하다",
+   "examples": [
+    "The company filed a claim for unpaid work."
+   ],
+   "type": "phrase",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-a01a8b1aca",
+   "deck": "business",
+   "term": "initiate legal proceedings",
+   "meaning": "법적 절차를 시작하다",
+   "examples": [
+    "They initiated legal proceedings against the contractor."
+   ],
+   "type": "phrase",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-00f010cd83",
+   "deck": "business",
+   "term": "prohibit",
+   "meaning": "금지하다",
+   "examples": [
+    "The agreement prohibits second-tier subcontracting."
+   ],
+   "type": "word",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-3a3fb8ef52",
+   "deck": "business",
+   "term": "overdue",
+   "meaning": "(지불이) 연체된, 기한이 지난",
+   "examples": [
+    "The payment is overdue by 30 days."
+   ],
+   "type": "word",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-4a207ce596",
+   "deck": "business",
+   "term": "Did the sub-subcontractor follow safety protocols?",
+   "meaning": "재하도급 업체가 안전 절차를 제대로 지켰나요?",
+   "type": "sentence",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-507e2f9c14",
+   "deck": "business",
+   "term": "We’re still checking. Also, be aware that the client prohibits second-tier subcontracting unless explicitly approved.",
+   "meaning": "아직 확인 중입니다. 그리고 발주처에서는 명시적인 승인 없이 재하도급을 금지하고 있다는 점을 유념해 주세요.",
+   "type": "sentence",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-8009844782",
+   "deck": "business",
+   "term": "Understood. But if payment is delayed again, we’ll have no choice but to assert our claim formally.",
+   "meaning": "알겠습니다. 하지만 대금 지급이 또 지연된다면, 저희도 공식적으로 청구권을 행사할 수밖에 없습니다.",
+   "type": "sentence",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-3894e8fa34",
+   "deck": "business",
+   "term": "The subcontractor claimed payment.",
+   "meaning": "하청업체가 대금을 청구했다.",
+   "type": "sentence",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-8ef2f3e874",
+   "deck": "business",
+   "term": "Sub-subcontracting is prohibited under the contract.",
+   "meaning": "재하도급은 계약상 금지되어 있다.",
+   "type": "sentence",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-14b434d3cc",
+   "deck": "business",
+   "term": "Our company initiated legal proceedings for the overdue amount.",
+   "meaning": "우리 회사는 연체된 금액에 대해 법적 절차를 시작했다.",
+   "type": "sentence",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-5646292130",
+   "deck": "business",
+   "term": "The prime contractor must approve all subcontract agreements.",
+   "meaning": "원청은 모든 하청 계약을 승인해야 한다.",
+   "type": "sentence",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-4671ddb4b6",
+   "deck": "business",
+   "term": "We issued an invoice on May 1.",
+   "meaning": "청구서를 5월 1일에 발행했다.",
+   "type": "sentence",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-8eb0eac718",
+   "deck": "business",
+   "term": "We have not yet received payment from the main contractor for the subcontracted work.",
+   "meaning": "우리는 원청으로부터 하도급 공사대금을 아직 받지 못했다.",
+   "type": "sentence",
+   "topic": "하도급 대금 관련"
+  },
+  {
+   "id": "business-2169650138",
+   "deck": "business",
+   "term": "presentation notes",
+   "meaning": "",
+   "type": "phrase",
+   "topic": "발표자료 관련 표현"
+  },
+  {
+   "id": "business-7774fa058a",
+   "deck": "business",
+   "term": "deck",
+   "meaning": "발표용 ppt 파일",
+   "examples": [
+    "Send me your PPT deck",
+    "Each person in charge of the presentation from each site, please send me your PPT deck by tomorrow afternoon. We need to compile them in to one file and send it for booklet printing"
+   ],
+   "type": "word",
+   "topic": "발표자료 관련 표현"
+  },
+  {
+   "id": "business-9804bf989f",
+   "deck": "business",
+   "term": "booklet printing",
+   "meaning": "책자 인쇄",
+   "type": "phrase",
+   "topic": "발표자료 관련 표현"
+  },
+  {
+   "id": "business-a7da55fd52",
+   "deck": "business",
+   "term": "compile into one file",
+   "meaning": "하나로 묶다",
+   "type": "phrase",
+   "topic": "발표자료 관련 표현"
+  }
+ ]
+}

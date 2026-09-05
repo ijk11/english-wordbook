@@ -1,0 +1,961 @@
+
+<p>
+
+#### 2025-04-27
+- <font color="#000000"><span style="background:#d2cbff">**expressway**</span></font> 고속도로
+- <font color="#000000"><span style="background:#d2cbff">**congested**</span></font> 혼잡한
+	- Which expressway is less congested in the morning?
+- <span style="background:#d2cbff"><font color="#000000">**demonstration**</font></span> 시연회, 시범설명
+- <span style="background:#d2cbff"><font color="#000000">**a check**</font></span> 수표
+	- He will accept a check
+- <span style="background:#d2cbff"><font color="#000000">**take over**</font></span> (자리를) 넘겨받다, 인계받다 
+	- He will take over for the branch manager
+- <span style="background:#d2cbff"><font color="#000000">**Set the record**</font></span> 기록을 세우다
+	- They set the record for sales
+	- He set the record for total number of saves in baseball history
+- <span style="background:#d2cbff"><font color="#000000">**Please be advised that**</font></span> ~을 알려드립니다 (안내멘트)
+	- Please be advised that we have had to cancel your order because of a difficulty with our shipping agent
+- <span style="background:#d2cbff"><font color="#000000">**ongoing**</font></span> 진행중인
+	- ongoiong discussion
+- <span style="background:#d2cbff"><font color="#000000">**on shedule** </font></span>예정대로
+	- Materials did not arrive on schedule
+- <span style="background:#d2cbff"><font color="#000000">**cooking utensile**</font></span> 조리도구
+- <span style="background:#d2cbff"><font color="#000000">**awards banquet** </font></span>시상식 연회
+- <span style="background:#d2cbff"><font color="#000000">**forward**</font></span> (물건, 정보를) 보내다
+	- We will be forwarding our new cacalogue to you next week
+	- I'll forward you the e-mail that I got from the committee
+- <span style="background:#d2cbff"><font color="#000000">**grab a (quick) bite**</font></span> 간단히 식사하다
+	- Let's grab a quick bite to eat before the movie
+- <span style="background:#d2cbff"><font color="#000000">**catch up**</font></span> 서로의 근황에 대해 대화하다
+	- I need to catch up with my old friends
+- <span style="background:#d2cbff"><font color="#000000">**mail**</font></span> 우편 (e-mail 과 구분 주의)
+	- Should I submit my complaint by mail or e-mail?
+- <span style="background:#d2cbff"><font color="#000000">**complaint** </font></span>불만사항
+- <span style="background:#d2cbff"><font color="#000000">**duplicate**</font></span> 복사하다, 복사본 (발음주의: 두플리켓)
+- <span style="background:#d2cbff"><font color="#000000">**place an ad**</font></span> 광고를 내다
+	- We should place an ad for the new position
+	- Do you think it is effective to place an ad in the paper?
+
+
+#### 2025-04-28
+- **<span style="background:#d2cbff"><font color="#000000">compile a list</font></span>** 목록을 정리하다
+	- compile a list of clients
+	- compile a list of suitable people for the job
+- **<span style="background:#d2cbff"><font color="#000000"> refer</font></span>** 참고하다 ; 언급하다
+	- Refer to the TM for details
+	- I promised not refer to the matter
+- **<span style="background:#d2cbff"><font color="#000000">admire</font></span>** 감상하다
+	- admire the trees
+- **<span style="background:#d2cbff"><font color="#000000">attend to</font></span>** 보살피다, 처리하다
+	- I have some urgent business to attend to
+	- attend to the plants
+- **<span style="background:#d2cbff"><font color="#000000">back up</font></span>** 차를 후진시키다
+	- you can back up another two feet or so
+- **<span style="background:#d2cbff"><font color="#000000"> be in the middle of </font></span>**한창 ~ 하는 중이다
+- **<span style="background:#d2cbff"><font color="#000000">How is (somthing) coming along?</font></span>** ~는 어떻게 되가?
+	- How is your research coming along?
+-  **<span style="background:#d2cbff"><font color="#000000">gathering</font></span>** 모임
+	- social gathering
+	- It's just an informal gathering
+- **<span style="background:#d2cbff"><font color="#000000">make it</font></span>** 시간 맞춰 가다, (모임 등) 참석하다 ; 성공하다, 버텨내다
+	- I'm sorry I won't be able to make it on Saturday
+	- Did you make it to the reception party last Wednesday?
+	- The doctors think he's going to make it
+- **<span style="background:#d2cbff"><font color="#000000">or so</font></span>** 쯤 (정도)
+	- I've been here for five months or so
+- **<span style="background:#d2cbff"><font color="#000000"> on sale</font></span>** 판매 중인 ; 할인 중인
+- **<span style="background:#d2cbff"><font color="#000000">defective</font></span>** 결함있는
+	- defective product
+- **<span style="background:#d2cbff"><font color="#000000">at no extra charge</font></span>** 추가 비용 없이
+- **<span style="background:#d2cbff"><font color="#000000">That's good to hear</font></span>** 그거 반가운 소식이네요
+
+
+
+#### 2025-05-04
+- **<span style="background:#d2cbff"><font color="#000000">fulfill</font></span>** (의무,약속,직무 등을) 다하다, 완료하다
+	- fulfill a request 요청을 들어주다
+	- fulfill one's duties
+- **<span style="background:#d2cbff"><font color="#000000">quota</font></span>** 할당량, 몫
+	- meet a sales quota 판매 할당량을 채우다
+	- I'm going home now - I've done my quota of work for the day
+- **<span style="background:#d2cbff"><font color="#000000">billing address</font></span>** 청구서 발송지
+- **<span style="background:#d2cbff"><font color="#000000">expedite</font></span>** 더 신속히 처리하다(=speed up)
+	- expedite an order
+	- We have developed rapid order processing to expedite deliveries to customers
+- **<span style="background:#d2cbff"><font color="#000000">reassurance</font></span>** 안심시키기
+	- give/offer reassurance 안심 시켜주다
+	- We have been given reassurances that the water is safe to drink
+- **<span style="background:#d2cbff"><font color="#000000">sample</font></span>** 맛보다(시식하다) ; 시도해보다
+	- I sampled the delights of Greek cooking for the first time
+	- sample various foods
+- **<span style="background:#d2cbff"><font color="#000000">appraise</font></span>** (업무를) 평가하다
+	- Managers must appraise all staff
+- **<span style="background:#d2cbff"><font color="#000000">assume</font></span>** 추정하다 ; (책임을) 맡다 ; ~척 하다
+	- It is reasonable to assume that ~
+	- Rebel forces have assumed control of the capital
+	- assume responsibility 업무를 맡다
+	- He assumed an air of concern
+- **<span style="background:#d2cbff"><font color="#000000">an air of</font></span>** ~한 태도(느낌)
+	- an air of superiority
+	- an air of dignity
+	- The room had an air of luxury
+- **<span style="background:#d2cbff"><font color="#000000">plummet</font></span>** 곤두박질치다, 급락하다
+	- Share prices plummeted to an all-time low
+	- Her spirits pummeted at the thought of meeting him again
+- **<span style="background:#d2cbff"><font color="#000000">spirits</font></span>** 기분, 마음
+	- be in high/low spirits
+	- You must try and keep your spirits up
+- **<span style="background:#d2cbff"><font color="#000000">proceeds</font></span>** 수익금
+	- The proceeds of the concert will go to charity
+	- donate the proceeds
+- **<span style="background:#d2cbff"><font color="#000000">sunscreen</font></span>** 자외선차단제
+	- apply some sun screen 자외선 차단제를 바르다
+- **<span style="background:#d2cbff"><font color="#000000">land at the nearby airport</font></span>** 가까운 공항에 착륙하다
+- **<span style="background:#d2cbff"><font color="#000000">be involved in a discussion</font></span>** 토론에 참여하다
+- **<span style="background:#d2cbff"><font color="#000000">the edge of the stream</font></span>** 개울가
+- **<span style="background:#d2cbff"><font color="#000000">board up the doorway</font></span>** 출입구를 판자쳐서 막다
+- **<span style="background:#d2cbff"><font color="#000000">parcel</font></span>** 짐, 소포(꾸러미)
+- **<span style="background:#d2cbff"><font color="#000000">consult</font></span>** 상담하다 ; 참고하다
+	- If the pain continue, consult your doctor
+	- He consulted the manual (refer to)
+- **<span style="background:#d2cbff"><font color="#000000">staircase</font></span>** 계단
+- **<span style="background:#d2cbff"><font color="#000000">dine with friends</font></span>** 친구와 식사하다
+- **<span style="background:#d2cbff"><font color="#000000">direct traffic</font></span>** (경찰관이) 교통정리하다
+- **<span style="background:#d2cbff"><font color="#000000">dish out</font></span>** 음식을 담아주다
+- **<span style="background:#d2cbff"><font color="#000000">dispose of</font></span>** 없애다
+	- the difficulties of disposing of nuclear waste
+	- disposing of litter
+- **<span style="background:#d2cbff"><font color="#000000">flyers</font></span>** 전단지
+- **<span style="background:#d2cbff"><font color="#000000">passerby</font></span>** 지나가던 사람
+- **<span style="background:#d2cbff"><font color="#000000">draw the curtains</font></span>** 커튼을 모두 치다(쳐서 어둡게 하다)
+- **<span style="background:#d2cbff"><font color="#000000">draw up</font></span>** (세심한 생각, 계획) 만들다(작성하다)
+	- draw up a contract
+	- draw up a list
+- **<span style="background:#d2cbff"><font color="#000000">examine(see) a patient</font></span>** 환자를 진찰하다
+- **<span style="background:#d2cbff"><font color="#000000">file</font></span>** (문서) 보관하다, 정리하다 ; (소송 등) 제기하다
+	- The forms should be filed alphabetically
+	- Please file it in my 'Research' file.
+	- file for divorce
+	- file a complaint
+- **<span style="background:#d2cbff"><font color="#000000">inflate</font></span>** (공기, 가스로)부풀리다, (가격이) 오르다
+	- inflate your life jacket by pulling sharply on the cord
+	- The life jacket failed to inflate
+	- The principal effect of the demand for new houses was to inflate prices
+- **<span style="background:#d2cbff"><font color="#000000">tablecloth</font></span>** 식탁보
+- **<span style="background:#d2cbff"><font color="#000000">scenery</font></span>** 풍경, 경치 (발음 : 시너리)
+- **<span style="background:#d2cbff"><font color="#000000">get an injection</font></span>** 주사를 맞다
+- **<span style="background:#d2cbff"><font color="#000000">give out notices</font></span>** 공지사항을 발표하다
+	- We gave out the notice an hour ago
+- **<span style="background:#d2cbff"><font color="#000000">groom</font></span>** (동물을) 손질하다
+	- groom a horse / dog / cat
+- **<span style="background:#d2cbff"><font color="#000000">change</font></span>** 거스름돈, 동전, 잔돈
+- **<span style="background:#d2cbff"><font color="#000000">hold a conversation</font></span>** 대화하다
+- **<span style="background:#d2cbff"><font color="#000000">involve in a discussion</font></span>** 토론하다
+- **<span style="background:#d2cbff"><font color="#000000">knit</font></span>** 뜨개질하다
+- **<span style="background:#d2cbff"><font color="#000000">make a point</font></span>** 요점을 밝히다
+- **<span style="background:#d2cbff"><font color="#000000">pottery</font></span>** 도자기
+- **<span style="background:#d2cbff"><font color="#000000">make the bed</font></span>** 잠자리를 정리하다
+- **<span style="background:#d2cbff"><font color="#000000">hillside</font></span>** 산허리
+- **<span style="background:#d2cbff"><font color="#000000">officiate</font></span>** 사회를 보다
+	- officiate one's wedding 주례를 보다
+	- officiate at a company function
+- **<span style="background:#d2cbff"><font color="#000000">function</font></span>** 행사, 의식
+	- company function 회사 행사
+	- The hall provided a venue for weddings and other functions
+- **<span style="background:#d2cbff"><font color="#000000">cash register</font></span>** (가게 계산대에 있는) 현금출납기
+- **<span style="background:#d2cbff"><font color="#000000">A piece of equipment(machinery)</font></span>** 장비 하나
+- <span style="background:#d2cbff"><font color="#000000">sewing machine</font></span> 재봉틀
+- **<span style="background:#d2cbff"><font color="#000000">farm machinery</font></span>** 농기계
+- **<span style="background:#d2cbff"><font color="#000000">pack up</font></span>** (직장을) 그만두다
+	- What made you pack up a good job like that?
+- **<span style="background:#d2cbff"><font color="#000000">peer into</font></span>** 자세히 들여다보다
+	- peer into a microscope
+	- peer through a telescope
+- **<span style="background:#d2cbff"><font color="#000000">orchard</font></span>** 과수원
+- **<span style="background:#d2cbff"><font color="#000000">plough</font></span>** 쟁기, 쟁기로 갈다
+- **<span style="background:#d2cbff"><font color="#000000">wagon</font></span>** 마차
+- **<span style="background:#d2cbff"><font color="#000000">merchandise</font></span>** 상품
+	- a wide selection of merchandise
+- **<span style="background:#d2cbff"><font color="#000000">push up the sleeves</font></span>** 소매를 걷다
+- **<span style="background:#d2cbff"><font color="#000000">bulletin board</font></span>** 게시판
+- **<span style="background:#d2cbff"><font color="#000000">put out the fire</font></span>** 불을 끄다
+	- It took two hours to put out the fire
+	- Fire is put out by fire
+- **<span style="background:#d2cbff"><font color="#000000">sail</font></span>** 항해하다 ; 돛
+	- As the boat moved down the river the wind began to fill the sails
+	- a ship under sails
+	- She moved away like a ship in full sail.
+- **<span style="background:#d2cbff"><font color="#000000">rake the leaves</font></span>** 나뭇잎을 갈퀴로 긁어모으다
+- **<span style="background:#d2cbff"><font color="#000000">sheet music , a sheet of music</font></span>** 악보
+- **<span style="background:#d2cbff"><font color="#000000">lawn</font></span>** 잔디
+- **<span style="background:#d2cbff"><font color="#000000">roof tiles</font></span>** 지붕 기와
+- **<span style="background:#d2cbff"><font color="#000000">porch</font></span>** 베란다
+- **<span style="background:#d2cbff"><font color="#000000">rinse</font></span>** (비누를 쓰지 않고 물에) 씻다, 헹구다
+	- Rinse the cooked pasta with boiling water
+- **<span style="background:#d2cbff"><font color="#000000">run out of</font></span>** 다 써버리다, 소진하다
+	- They've run out of gas
+	- I have run out of paitience with her
+	- We've nearly run out of paper
+- **<span style="background:#d2cbff"><font color="#000000">water's edge</font></span>** 물가
+	- We walked down to the water's edge
+	- Sheep waddle along the water's edge
+- **<span style="background:#d2cbff"><font color="#000000">waddle</font></span>** 뒤뚱뒤뚱 걷다
+	- The fat person walked with a waddle
+- **<span style="background:#d2cbff"><font color="#000000">salute</font></span>** 경례하다 ; 경의의 표시
+	- salute the flag
+	- They all raised their glasses in salute
+- **<span style="background:#d2cbff"><font color="#000000">gravel</font></span>** 자갈
+	- scatter gravel on the path
+	- I crunched across the gravel to the front door
+- **<span style="background:#d2cbff"><font color="#000000">crunch</font></span>** 저벅저벅 소리를 내며 가다
+	- the crunch of feet on snow
+	- can you hear the crunch?
+- **<span style="background:#d2cbff"><font color="#000000">purse</font></span>** 지갑
+	- I took a coin out of my purse and gave it to the child
+- **<span style="background:#d2cbff"><font color="#000000">baked goods</font></span>** 오븐에 구운 제품, 제과류
+- **<span style="background:#d2cbff"><font color="#000000">refreshment</font></span>** 가벼운 식사, 다과
+	- Light refreshments will be served during the break
+	- We had a short stop for refreshment.
+- **<span style="background:#d2cbff"><font color="#000000">sew</font></span>** 바느질하다, 꿰매다
+	- Can you sew a button on for me?
+	- Surgeons were able to sew the finger back on
+- **<span style="background:#d2cbff"><font color="#000000">garment</font></span>** 의복, 옷
+- **<span style="background:#d2cbff"><font color="#000000">choir</font></span>** 합창단
+- **<span style="background:#d2cbff"><font color="#000000">sit across from (each other)</font></span>** 마주보고 앉다
+	- Two opponents sit across from each other and put their elbows on a table.
+- **<span style="background:#d2cbff"><font color="#000000">crate</font></span>** (물품 운송용 나무) 상자
+	- a crate of bananas
+- **<span style="background:#d2cbff"><font color="#000000">shallow water</font></span>** 얕은 물
+	- These fish are found in shallow waters arount the coast
+- **<span style="background:#d2cbff"><font color="#000000">archway</font></span>** 아치형 입구
+
+#### 2025-05-05
+- **<span style="background:#d2cbff"><font color="#000000">be subject to</font></span>** (나쁜 영향을 받아) ~될 수 있는
+	- Prices are subject to change without notice
+	- Flights are subject to delay because of the fog
+	- But that is subject to change 바뀔 수도 있어요
+- **<span style="background:#d2cbff"><font color="#000000">be eligible for</font></span>** 자격(권한)이 있는
+	- You are eligible for a refund within 30 days
+	- When are you eligible to vote in your country?
+- **<span style="background:#d2cbff"><font color="#000000">as a token of my appreciatio</font></span>**n 감사의 표시로
+- **<span style="background:#d2cbff"><font color="#000000">in a timely manner</font></span>** 제 시간에, 제 때에
+	- Student should finish their assignment in a timely manner
+- **<span style="background:#d2cbff"><font color="#000000">committed to</font></span>** 몰두하다, 전념하다
+	- The government is committed to housing the refugees
+	- We are fully committed to this policy
+- **<span style="background:#d2cbff"><font color="#000000">under consideration</font></span>** 검토중인
+	- The proposals are currently under consideration
+	- He's under consideration of taking a class
+- **<span style="background:#d2cbff"><font color="#000000">on a first come, first served basis</font></span>** 선착순으로
+	- Tickets are available on a first come, first served basis
+- **<span style="background:#d2cbff"><font color="#000000">admit</font></span>** 인정하다, 자백하다 ; 입장(가입)을 허락하다
+	- She admits to being strict with her children
+	- She admitted to having stolen the car.
+	- Each ticket admits one adult
+	- You will not be admitted to the theatre after the performance has started
+	- The society admits all US citizens over 21
+- **<span style="background:#d2cbff"><font color="#000000">consensus</font></span>** 합의, 의견일치
+	- There is growing consensus of opinoin on the issue
+	- an attempt to reach a consensus
+- **<span style="background:#d2cbff"><font color="#000000">account for</font></span>** 설명하다 ; 비율을 차지하다
+	- How do you account for the show's success?
+	- Imports account for 40% of total sales
+- **<span style="background:#d2cbff"><font color="#000000">be equipped with</font></span>** 갖춰져 있는
+	- The room is equipped with projectors and sound systems
+	- the most well-equipped hostpial in London
+- **<span style="background:#d2cbff"><font color="#000000">on order</font></span>** 주문중인 (주문된 것이 아직 안옴)
+	- The machine parts are still on order
+- **<span style="background:#d2cbff"><font color="#000000">at your earliest convenience</font></span>** 가급적이면 빨리
+- **<span style="background:#d2cbff"><font color="#000000">run short of</font></span>** 다 떨어진
+	- We've run short of milk
+	- He has run short of money
+- **<span style="background:#d2cbff"><font color="#000000">go into effect</font></span>** 실시되다, 적용되다
+	- If the bill is passed , it will go into effect in 2011
+	- When will the price increase go into effect?
+- **<span style="background:#d2cbff"><font color="#000000">bill</font></span>** 법안
+- **<span style="background:#d2cbff"><font color="#000000">allocate</font></span>** 할당하다
+	- I allocate tasks and projects to individuals who I feel will provide best value
+	- The government will allocate 12 million dollars for developing the software
+- **<span style="background:#d2cbff"><font color="#000000">pose risk/threat</font></span>** 위험을 야기하다
+	- The chmicals pose little risk to human health
+	- Fish oil supplements may pose a risk to some patients
+- **<span style="background:#d2cbff"><font color="#000000">step down</font></span>** 사임하다
+	- The citizens demanded the president step down
+- **<span style="background:#d2cbff"><font color="#000000">go over budget</font></span>** 예산을 초과하다
+	- Did we go over budget?
+- **<span style="background:#d2cbff"><font color="#000000">opt for</font></span>** 선택하다
+	- Many South Korean couples opt for a Western-style wedding
+- **<span style="background:#d2cbff"><font color="#000000">be tied up</font></span>** 무척 바쁜
+	- I am so tied up these days
+	- I'm tied up with work until next Wednesday
+- **<span style="background:#d2cbff"><font color="#000000">back out</font></span>** 손떼다, 물러서다
+	- It's too late to back out not
+- **<span style="background:#d2cbff"><font color="#000000">ramp up</font></span>** 늘리다
+	- France plans to ramp up its nuclear power production
+- **<span style="background:#d2cbff"><font color="#000000">please be advised that</font></span>** ~에 유의하시기 바랍니다
+- **<span style="background:#d2cbff"><font color="#000000">in light of</font></span>** ~을 고려하여
+- **<span style="background:#d2cbff"><font color="#000000">be sure to</font></span>** 반드시 ~ 하십시오(지시, 권고 표현)
+- **<span style="background:#d2cbff"><font color="#000000">in observance of</font></span>** ~을 기념하여 (공휴일 등)
+	- In observance of the holiday, the bank will be closed next Monday
+- **<span style="background:#d2cbff"><font color="#000000">is subject to approval</font></span>** 승인 대상이니, 승인을 받아야 하는
+	- The proposal is subject to approval by the shareholders
+	- The plan is subject to her approval
+- **<span style="background:#d2cbff"><font color="#000000">should be directed to</font></span>** ~에게 문의하시기 바랍니다
+	- Any questions should be directed to the guides in the building
+	- All inquiries should be directed to the HR department
+- **<span style="background:#d2cbff"><font color="#000000">run into traffic</font></span>** 교통체증을 겪다
+	- We might be late if we run into traffic
+	- I don't wanna run into traffic
+- **<span style="background:#d2cbff"><font color="#000000">fill out the form</font></span>** 양식을 작성하다
+- **<span style="background:#d2cbff"><font color="#000000">come with</font></span>** 딸려 있다
+	- Does the printer come with a cable?
+	- All main courses come with salad or vegetables
+- **<span style="background:#d2cbff"><font color="#000000">cutting it close</font></span>** 시간이 촉박하다
+	- We're cutting it close, Let's hurry
+- **<span style="background:#d2cbff"><font color="#000000">short-staffed</font></span>** 인력이 부족한
+	- We're very short-staffed
+- **<span style="background:#d2cbff"><font color="#000000">behind schedule</font></span>** 일정보다 늦은
+	- The manufacture fell behind schedule
+	- The tunnel project has already fallen behind schedule
+	- It's an hour behind schedule
+- **<span style="background:#d2cbff"><font color="#000000">incur</font></span>** 비용을 물다
+	- Contractors who fall behind schedule incur heavy financial penalties
+- **<font color="#000000"><span style="background:#d2cbff">hold accountable for</span></font>** ~에게 책임을 지우다
+	- I hold him accountable for it
+	- Is it fair to hold her accountable for something she said so long ago?
+	- Hold him accountable for his actions
+- 
+**<span style="background:#d2cbff"><font color="#000000"> put together</font></span>** 합치다 ; 준비하다
+- **<span style="background:#d2cbff"><font color="#000000">reach out to</font></span>** 연락하다
+- **<span style="background:#d2cbff"><font color="#000000">in the red</font></span>** 적자를 내는
+- **<span style="background:#d2cbff"><font color="#000000">well-received</font></span>** 좋은 평가를 받는
+	- The play was well received by the critics
+- **<span style="background:#d2cbff"><font color="#000000">go hand in hand (with)</font></span>** 밀접한 관련이 있는
+	- Poverty and poor health often go hand in hand
+	- Music always seems to go hand in hand with romance
+	- Innovation goes hand in hand with risk
+- **<span style="background:#d2cbff"><font color="#000000">make up for</font></span>** 보상하다, 만회하다
+	- Nothing can make up for the loss of a child
+	- We were anxious to make up for lost time.
+- **<span style="background:#d2cbff"><font color="#000000">tailored to</font></span>** (어떤 프로그램이) ~에 맞춰진
+	- Education programs specially tailored to these children
+- **<span style="background:#d2cbff"><font color="#000000">fall behind schedule</font></span>** 일정에 뒤쳐지다
+- **<span style="background:#d2cbff"><font color="#000000">undergo maintenance</font></span>** 정비를 받다
+	- The system will undergo maintenance this weekend
+- **<span style="background:#d2cbff"><font color="#000000">keep posted</font></span>** 계속 알려주다
+	- He promised to Keep them posted on the shipment status
+- **<span style="background:#d2cbff"><font color="#000000">leave it up to</font></span>** ~에게 맡기다
+	- I'll leave it up to your judgment
+	- We cannot leave it up to nations and industries to do the work for us
+- **<span style="background:#d2cbff"><font color="#000000">in line with</font></span>** 일치한, 연관된, 조화를 이룬
+	- Annual pay increases will be in line with inflation
+	- The new policy is in line with our values
+- **<span style="background:#d2cbff"><font color="#000000">jump to a conclusion</font></span>** 성급한 결론을 내리다
+	- We must not jumpt to a conclusion
+	- It's too early to jump to the conclusion that he is the criminal
+- **<span style="background:#d2cbff"><font color="#000000">on track</font></span>** 순조롭게 진행되고 있는
+	- The growth of the IT industry is on track
+
+#### 2025-05-07
+- **<font color="#000000"><span style="background:#d2cbff">earlier</span></font>** 아까 전에
+	- I saw him earlier
+	- What did you say earlier?
+- **<font color="#000000"><span style="background:#d2cbff">come up with</span></font>** 해답을 내놓다 ; 마련하다
+- **<font color="#000000"><span style="background:#d2cbff">on(at) short notice</span></font>** 예고없이, 갑작스런
+	- Thank you for seeing me on such short notice
+- **<font color="#000000"><span style="background:#d2cbff">refreshments</span></font>** 다과
+
+
+
+#### 2025-06-05
+- **<font color="#000000"><span style="background:#d2cbff">thereby</span></font>** 그렇게 함으로써
+	- Regular exercise strengthens the heart, thereby reducing the risk of heart attack
+- **<font color="#000000"><span style="background:#d2cbff">increase one's presence</span></font>** 존재감을 높이다, 입지를 강화하다
+- **<font color="#000000"><span style="background:#d2cbff">It is imperative that</span></font>** 반드시 ~ 되어야 한다
+	- It is absolutely imperative that we finish by next week
+	- It is imperative to continue the treatment for at least two months
+- **<font color="#000000"><span style="background:#d2cbff">in accordance with</span></font>** ~에 따라
+	- in accordance with legal requirements
+	- You should behave in accordance with common sense
+- **<font color="#000000"><span style="background:#d2cbff">delegation</span></font>** 대표단 ; 위임
+	- The Vaticanian delegation
+	- delegation of authority
+- **<font color="#000000"><span style="background:#d2cbff">upon receipt of payment</span></font>** 입금되는 대로, 돈을 받는 대로
+	- Goods will be delivered upon receipt of payment
+	- We will ship upon receipt of your payment
+
+#### 2025-06-11
+- **<font color="#000000"><span style="background:#d2cbff">Stump</span></font>** 그루터기
+	- Stumps protude from the water 그루터기들이 물에서 튀어나와 있다
+- **<font color="#000000"><span style="background:#d2cbff">protude</span></font>** 튀어나오다, 돌출되다
+	- He hung his coat on a nail protuding from the wall
+	- He wanted me to protude my tongue
+- **<font color="#000000"><span style="background:#d2cbff">coil</span></font>** 말리다
+	- ropes are coiled on the deck
+- **<font color="#000000"><span style="background:#d2cbff">stack</span></font>** 더미
+	- I have a stack of emails in my inbox
+- **<font color="#000000"><span style="background:#d2cbff">inbox</span></font>** 받은 편지함(메일 수신함)
+- **<font color="#000000"><span style="background:#d2cbff">span</span></font>** 걸쳐 이어지다, 가로지르다 ; 폭(너비)
+	- His acting career spanned 55 years
+	- Family photos spanning five generations were stolen
+	- The operation, which spanned nine countries, resulted in 200 arrests
+	- a series of bridges spanning the river
+	- The kite has a span of 1.5 metres
+	- I worked with him over a span of six years
+- **<font color="#000000"><span style="background:#d2cbff">lead</span></font>** 이어지다
+	- Which door leads to the yard?
+	- A trail leads to a campsite
+- **<font color="#000000"><span style="background:#d2cbff">I know it's short notice</span></font>**,**<font color="#000000"><span style="background:#d2cbff"> but I'm wondering if you can do me a favor</span></font>** 갑작스럽지만.. 부탁좀 드려도 될까요?
+- ****<font color="#000000"><span style="background:#d2cbff"><font color="#000000"**>cubicle</font></span></font>**  사무실에 일하는 자리(칸막이로 만든)
+- **<font color="#000000"><span style="background:#d2cbff">revenue</span></font>** 수익
+	- daily revenue 하루 매출
+- **<font color="#000000"><span style="background:#d2cbff">office safe</span></font>** 사무실 금고
+- **<font color="#000000"><span style="background:#d2cbff">safe</span></font>** 금고
+	- The safe had been blown by the thieves
+	- She locked her passport and money in the safe
+- **<font color="#000000"><span style="background:#d2cbff">due</span></font>** 내야할 돈(회비, 요금 등)
+	- to pay your dues
+	- amout due 지불액
+- **<font color="#000000"><span style="background:#d2cbff">have the best of both worlds</span></font>** 두가지 측면을 모두 충족하다, 두가지 장점이 있다, 일석이조다
+	- You can have the best of both worlds with our new product
+- 기간을 나타내는 전치사들
+	- **<font color="#000000"><span style="background:#d2cbff">Over</span></font>**: "그 기간 전체에 걸쳐 지속(반복)"하는 경우(전체 기간 동안)
+		- It rained several times over the weekend
+		- He gained a lot of experience over the past year
+		- He had many meetings over the past few weeks
+		- We'll be reviewing applications over the next week
+	- **<font color="#000000"><span style="background:#d2cbff">by</span></font>**: "그 시점 이전에 완료될 것"을 나타냄
+		- Please submit the report by Friday (금요일 이전이면 더 좋음)
+		- I will finish this book by tomorrow
+		- By the time he arrived, she had already left
+	- **<font color="#000000"><span style="background:#d2cbff">until</span></font>**: 그 시점까지 계속되는 상태나 동작, 그 시점 이후에는 변화가 일어남
+		- I stayed up until 2 a.m. (2시에 잠든 듯)
+		- you can't enter until the gate opponents
+		- They lived there until 2010 (이후엔 안산다)
+	- **<font color="#000000"><span style="background:#d2cbff">in</span></font>** 그 안에 한 번 일어나는 일의 뉘앙스
+		- I have a job interview in the next week
+		- Something big will happen in the next week
+- by the time VS until
+	- **<font color="#000000"><span style="background:#d2cbff">By the time</span></font>** 어떤 일이 완료되는 시점(뒤에 오는 사건은 이미 완료된 상태)
+		- By the time you arrive, I'll have finished cooking 네가 도착할 무렵엔,, 난 이미 끝냈을걸
+		- By the time we got there, the concert had ended 도착했을 무렵엔,, 이미 끝났었어
+	- **<font color="#000000"><span style="background:#d2cbff">Until</span></font>** 특정 시점까지 어떤 상태/행동이 계속됨(보통 지속동사와 함께 사용)
+		- I'll wait until you arrive
+		- They stayed at the cafe until it closed
+- **<font color="#000000"><span style="background:#d2cbff">on time</span></font>** 예정된 시간에 딱 맞춰 늦지 않게 도착/이행하는 것
+	- The  train arrived on time
+	- Please start the meeting on time
+	- He always pays his bills on time
+- **<font color="#000000"><span style="background:#d2cbff">in time</span></font>** 너무 늦기 전에, 혹은 시간에 맞춰 겨우겨우, 간신히
+	- I got to the airport just in time
+	- Will we be in time for the movie?
+	- She submitted her paper in time for the deadline
+	- You're just in time! 딱 맞춰 왔네
+- **<font color="#000000"><span style="background:#d2cbff">just in time</span></font>** 좀더 간신히 아슬아슬한 느낌
+- <font color="#000000"><span style="background:#d2cbff">**in good time**</span></font> 여유롭게, 넉넉하게(긴장감 없음)
+	- We arrive at the airport in good time
+	- She finished the assignment in good time
+- **<span style="background:#d2cbff"><font color="#000000">arround</font></span>** 시간: 대략 그쯤
+	- Let's meet arround 3 p.m.
+	- The train arrives arround noon
+- within VS in
+	- **<span style="background:#d2cbff"><font color="#000000">within</font></span>** 경계를 넘지 않는 게 중요할 때
+		- You must submit the report within 24 hours
+		- The police caught him within 48 hours
+	- **<span style="background:#d2cbff"><font color="#000000">in</font></span>** ~후에 일이 발생한다 (비격식)
+		- I'll be there in 10 minutes
+		- The movie starts in 30 minutes
+- hardly VS barely
+	- **<span style="background:#d2cbff"><font color="#000000">hardly</font></span>**: 부정 느낌이 강하고, 거의 못한 것 (건조한 뉘앙스)
+		- I hardly know him
+		- She hardly ate anything
+	- **<span style="background:#d2cbff"><font color="#000000">barely</font></span>**: 간신히 해내다 (힘들었다는 감정적 느낌)
+		- She barely passed the exam 간신히 통과함
+		- I barely made it to the train 간신히 막차 탐
+		- She barely noticed me 나를 겨우 알아봤다 (알아보긴 했지만 힘들었음)
+
+#### 2025-06-12
+- **<span style="background:#d2cbff"><font color="#000000">tentative</font></span>** 잠정적인
+	- The schedule is still tentative and may change
+	- They reached a tentative agreement
+- **<span style="background:#d2cbff"><font color="#000000">inherit</font></span>** 상속받다, 물려받다
+	- She inherited a fortune from her father
+	- He has inherited his mother's paitience
+- **<span style="background:#d2cbff"><font color="#000000">pertinent</font></span>** 적절한, 딱 맞는
+	- Please submit all pertinent documents
+	- Her comments were pertinent to the discussion
+- **<span style="background:#d2cbff"><font color="#000000">implement</font></span>** 실행하다, 시행하다
+	- The new policy will be implemented next weekend
+- **<span style="background:#d2cbff"><font color="#000000">redundant</font></span>** 불필요하게 중복된,
+	- Some phrases in your report are redundant
+	- He was made redundant due to company downsizing
+- **<span style="background:#d2cbff"><font color="#000000">be made redundant</font></span>** (영국) 정리해고 되다, 일자리를 잃다
+- **<span style="background:#d2cbff"><font color="#000000">laid off</font></span>** (미국) 정리해고 되다
+	- The company has laid off 150 workers in an effort to save money
+	- Some laid-off workers visitied the labour lawyer
+- **<span style="background:#d2cbff"><font color="#000000">adverse</font></span>** 부정적인, 불리한
+	- The drug may have adverse side effects
+	- The company faced adverse market conditions
+- **<span style="background:#d2cbff"><font color="#000000">resume</font></span>** 재개하다(뤼줌) / 이력서
+	- She resumed her career after an interval of six years
+- **<span style="background:#d2cbff"><font color="#000000">restructure</font></span>** 구조조정하다
+	- At what point did the company decide to restructure
+- **<span style="background:#d2cbff"><font color="#000000">downsize</font></span>** 구조조정하다
+	- Rumor has it that the company is goint to downsize
+- **<span style="background:#d2cbff"><font color="#000000">Rumor has it that</font></span>** (관용어) ~라는 소문이 있다(비격식)
+	- There's a rumor that (일반적) / It is rumored that(격식, 문어)
+- "임시적인" 단어들 뉘앙스 차이 정리
+	- 시간적 임시
+		- **<span style="background:#d2cbff"><font color="#000000">temporary</font></span>** 짧은 기간에만 유효
+			- temporary job 단기 작업
+		- **<span style="background:#d2cbff"><font color="#000000">interim</font></span>** "과도기적" 임시 직책, 임시로 체계 유지
+			- interim manager 정식 인선 전까지 중간관리자
+	- 정책, 계약상 임시
+		- **<span style="background:#d2cbff"><font color="#000000">provisional</font></span>**
+			- provisional license 임시 면허
+			- provisional measure
+		- **<span style="background:#d2cbff"><font color="#000000">acting</font></span>** 대행의, 임시 직책의, 권한자 부재중(권한자가 자리를 비웠을 때), 정식 임명이 아닌 "직무대행" 강조
+			- acting manager 임시 관리자
+			- acting CEO
+	- 시험적, 조심스러움
+		- **<span style="background:#d2cbff"><font color="#000000">tentative</font></span>** (미확정, 바뀔 수 있음)
+			- a tentative schedule
+		- trial
+		- pilot
+	- 사전적 준비
+		- **<span style="background:#d2cbff"><font color="#000000">preliminary</font></span>** 본 작업 전 예비(준비)
+			- The preliminary results are encouraging
+			- We had a preliminary discussion before the main meeting
+		- **<span style="background:#d2cbff"><font color="#000000">draft</font></span>** 초안
+- **<span style="background:#d2cbff"><font color="#000000">contingent</font></span>** 조건 하에서(upon) ; 대표단
+	- The deal is contingent upon board approval
+	- The submitted a contingent offer, depending on the home inspection
+	- A large contingent of athletes came from Kenya
+- **<span style="background:#d2cbff"><font color="#000000">a military contingent</font></span>** 파견 부대
+- **<span style="background:#d2cbff"><font color="#000000">touch base</font></span>** (with someone) 가볍게 연락하다, 의견을 나누다
+	- Let's touch base next week about the project
+- **<span style="background:#d2cbff"><font color="#000000">circle back</font></span>** (격식) 나중에 다시 이야기하다 (계획적 느낌)
+	- I'll circle back to you once I have the data
+	- Let's circle back on the budget discussion after the clinet meeting
+- **<span style="background:#d2cbff"><font color="#000000">get back to you</font></span>** (캐주얼) 나중에 다시 연락하다 (나중에 알려줄게)
+	- I'm not sure right now. I'll get back to you this afternoon
+	- Let me check with HR and get back to you
+- **<span style="background:#d2cbff"><font color="#000000">once</font></span>** (업무에서) ~하면, ~하고나서, ~하자마자  (한번 하면의 뜻이 아님!)
+	- Once the rain stops, let's go for a walk
+	- Once we agree on the terms, we can proceed with the contract
+	- Once I saw the ending, I cried 
+- **<span style="background:#d2cbff"><font color="#000000">on the same page</font></span>** 의견이 일치하다
+	- Let's make sure we're on the same page before moving forward
+- **<span style="background:#d2cbff"><font color="#000000">push back</font></span>** (on) 반대하다, 이의를 제기하다
+	- They push back on the new policy due to concerns about cost
+- 이의제기 영어표현
+	- I have some concerns about : 정중하게
+	- I'm not sure I agree with that
+	- I'd like to push back on that 좀더 강한 톤
+	- I see your point, but.. 공감 후 반론
+
+#### 2025-06-23
+- **<span style="background:#d2cbff"><font color="#000000">peer</font></span>** 또래 ; 응시하다
+	- Children are worreid about failing in front of their peers
+	- We peered into the shadows
+	- He peered closely at the photograph
+- **<span style="background:#d2cbff"><font color="#000000">valid</font></span>** 유효한 ; 정당한
+	- a valid passport
+	- a buss pass valid for 1 month
+	- They have a valid claim to compensation
+- **<span style="background:#d2cbff"><font color="#000000">ages</font></span>** 한참
+	- I waited for ages
+	- It'll probably take ages to find a parking space
+- **<span style="background:#d2cbff"><font color="#000000">teleconference</font></span>** 화상 회의
+- **<span style="background:#d2cbff"><font color="#000000">every hour on the hour</font></span>** 매 정시마다
+	- The train leaves every hour on the hour
+- **<span style="background:#d2cbff"><font color="#000000">company retreat</font></span>** 회사 야유회
+- **<span style="background:#d2cbff"><font color="#000000">I don't mind ~ing (for you)</font></span>** 당신을 위해 이렇게 해줄게요
+	- I don't mind waiting for you
+	- I don't mind watching it for you
+- **<span style="background:#d2cbff"><font color="#000000">second opinion</font></span>** 다른 사람의 견해(다른 전문가의 의견을 필요로 할 때)
+	- The doctor said I need surgery, but I want to get a second opinion first
+- **<span style="background:#d2cbff"><font color="#000000">be tied up</font></span>** 일정 등으로 바쁘다
+	- I'm tied up with meetings all morning
+- **<span style="background:#d2cbff"><font color="#000000">run into</font></span>** 우연히 만나다
+	- I ran into Mr. Lee at the conference yesterday
+	- I never thought I'd run into you again
+	- We ran into each other at that old cafe
+- **<span style="background:#d2cbff"><font color="#000000">bump into</font></span>** (친근) 우연히 마주치다
+- **<span style="background:#d2cbff"><font color="#000000">come across</font></span>** 우연히 발견/마주치다(사람, 물건, 정보)  ; (의미나 느낌이) 전해지다
+	- I came across an old photo of us yesterday
+	- She came across a rare book in the antique store
+	- Your message didn't come across very clearly
+	- I hope my sincerity came across
+- **<span style="background:#d2cbff"><font color="#000000">come across as</font></span>** ~하게 느껴지다, ~한 인상을 주다
+	- He comes across as confident but kind
+	- She came across as a bit cold during the interview
+- **<span style="background:#d2cbff"><font color="#000000">out of order</font></span>** 고장난
+- **<span style="background:#d2cbff"><font color="#000000">behind schedule</font></span>** 일정에 뒤처진
+- **<span style="background:#d2cbff"><font color="#000000">carton</font></span>** 종이박스, 종이곽
+	- a carton of books / a carton of milk
+	- Several tartons were atacked near the truck
+	- The cartons were wealed with tape
+- **<span style="background:#d2cbff"><font color="#000000">crate</font></span>** 나무상자(단단한거)
+	- a crate of apples
+	- a crate of beer
+- **<font color="#000000"><span style="background:#d2cbff">shipping container</span></font>** 화물용 컨테이너
+
+
+#### 2025-06-24
+- **<span style="background:#d2cbff"><font color="#000000">junction</font></span>** 교차로
+	- a car is waiting to turn at a junction
+- **<span style="background:#d2cbff"><font color="#000000">sack</font></span>** 자루
+	- Some large sacks are piled up on a vehicle
+- **<span style="background:#d2cbff"><font color="#000000">hand out</font></span>** 건네주다
+
+#### 2025-06-28
+- **<span style="background:#d2cbff"><font color="#000000">I'm returning the call</font></span>** 부재중 전화 보고 전화드립니다
+	- I'm returning the call you made to our office this morning
+- **<span style="background:#d2cbff"><font color="#000000">realtor</font></span>** 부동산 중개인
+- **<span style="background:#d2cbff"><font color="#000000">custodian</font></span>** 관리인
+- **<span style="background:#d2cbff"><font color="#000000">we're ahead of schedule</font></span>** 일정보다 앞서 있습니다
+	- The construction is ahead of schedule
+- **<span style="background:#d2cbff"><font color="#000000">hiking trail</font></span>** 등산로
+- **<span style="background:#d2cbff"><font color="#000000">outdated map</font></span>** 구버전 지도(정확하지 않은 뉘앙스)
+- **<span style="background:#d2cbff"><font color="#000000">as</font></span>** (명사) 때문에
+- **<span style="background:#d2cbff"><font color="#000000">lookout point</font></span>** 전망대
+	- The lookout point offers a great vidw of the valley
+	- We stopped at a lookout point to take photos 
+- **<span style="background:#d2cbff"><font color="#000000">blocked off</font></span>** 출입이 차단된(의도적, 관리상의 이유로) (closed off)
+	- The police blocked off the street 
+	- The road was closed off due to a marathon
+- **<span style="background:#d2cbff"><font color="#000000">cordoned off</font></span>** (주로 경찰) 출입 통제선을 치다
+	- The police cordoned off the area
+	- The crime scene was taped off
+
+- **<span style="background:#d2cbff"><font color="#000000">off의 뉘앙스</font></span>**(상태 vs 의도)
+	- The gas was off (그냥 상태)
+	- The gas was shut off (누군가 끊음)
+	- The alarm is off (알람이 꺼져있는 상태)
+	- He switched off the alarm (알람을 일부러 껐다)
+- **<span style="background:#d2cbff"><font color="#000000">I moved from overseas</font></span>** 해외에서 이사왔어요
+	- I recently moved here from aborad
+	- I came from overseas
+	- I relocated from overseas for work
+- **<span style="background:#d2cbff"><font color="#000000">Just take a right out of this door</font></span>** 이 문을 나가자마자 오른쪽으로 가세요
+	- Take a left out of the elevator
+	- Just go straight out of the building
+	- Make a right after you exit the room
+- **<span style="background:#d2cbff"><font color="#000000">screen</font></span>** 선별하다
+	- This is just their first step in screening people to work
+	- We're still in the initial screening phase
+- **<span style="background:#d2cbff"><font color="#000000">in-person interview</font></span>** 대면 면접
+- **<span style="background:#d2cbff"><font color="#000000">virtual(remote, online) interview</font></span>** 비대면 면접
+- (발음) risen (뤼즌) 오른  (롸이즌 아님)
+- **<span style="background:#d2cbff"><font color="#000000">television advert</font></span>** 텔레비전 광고(=TV commercial)
+	- Did you see that new television advert for the car brand?
+	- The company spent millions on a Christmas TV advert
+- **<span style="background:#d2cbff"><font color="#000000">limited-time offer</font></span>** 한정기간 행사
+- **<span style="background:#d2cbff"><font color="#000000">complimentary gift</font></span>** 무료 증정품
+- **<span style="background:#d2cbff"><font color="#000000">exclusive deal for members</font></span>** 회원 한정 혜택
+- **<span style="background:#d2cbff"><font color="#000000">under maintenance</font></span>** 점검중
+	- The website is temporarily under maintenance
+- **<span style="background:#d2cbff"><font color="#000000">be subject to</font></span>** : ~될 수 있다 ; ~의 영향을 받다 ; ~에 따라야 한다
+	- Prices are subject to change
+	- All reservations are subject to availability
+	- The offer is subject to approval
+	- Outdoor events are subject to weather conditions
+	- Employees are subject to company rules
+	- The final approval is subject to management review
+- **<span style="background:#d2cbff"><font color="#000000">be subject to change</font></span>** 변경될 수 있다
+	- Schedules are subject to change without notice
+- **<span style="background:#d2cbff"><font color="#000000">back-ordered</font></span>** 재고 부족으로 지연된
+- **<span style="background:#d2cbff"><font color="#000000">expedited shipping</font></span>** 빠른 배송
+- **<span style="background:#d2cbff"><font color="#000000">shipping fee waived</font></span>** 배송료 면제됨
+- **<span style="background:#d2cbff"><font color="#000000">As a reminder</font></span>**,, 공지나 반복안내 시작 시(please be adviced that)
+- **<span style="background:#d2cbff"><font color="#000000">push back the deadline</font></span>** 마감을 늦추다
+- **<span style="background:#d2cbff"><font color="#000000">send out a reminder</font></span>** 알림(메일)을 발송하다
+- **<span style="background:#d2cbff"><font color="#000000">run late</font></span>** 늦어지다
+	- Sorry, the meeting is running late
+- **<span style="background:#d2cbff"><font color="#000000">issue a refund</font></span>** 환불해주다
+- **<span style="background:#d2cbff"><font color="#000000">a mix-up with the order</font></span>** 주문 착오
+- **<span style="background:#d2cbff"><font color="#000000">I’ll put you through</font></span>**. 전화 바꿔드릴게요
+-  **<span style="background:#d2cbff"><font color="#000000">I‘ll connect you now</font></span>** / **<span style="background:#d2cbff"><font color="#000000">I’ll patch you through.</font></span>**
+- **<span style="background:#d2cbff"><font color="#000000">Please keep me in the loop</font></span>**. – 진행 상황을 계속 공유해주세요.
+- **<span style="background:#d2cbff"><font color="#000000">Let me walk you through the report.</font></span>** – 보고서를 설명드릴게요.
+
+#### 2025-07-13
+- call sb in (오라고) 부르다
+	- I called you ain for a meeting 
+	- The manager called me in to discuss my performance
+	- The doctor called me in for my appointment
+- call on (격식) 방문하다 ; 공식적으로 요청하다 (upon이면 더 격식) (누구에게 요청하느냐가 핵심) ; (지식, 기억, 능력 등을) 끌어내다
+	- The teacher called on Tom to answer the question
+	- We call upon all citizens to act now
+	- I called on my grandmother yesterday
+	- The doctor willl call on you this afternoon
+	- She had to call on all her strength to finish the race
+	- I had to call on my past experience during the negotiation
+- call for 요청하다, 요구하다, 필요로 하다 (어떤 행위가 핵심)
+	- This situation calls for immediate action
+	- The union is calling for better working conditions
+	- The situation calls for safety measures
+	- The gas cylinder is damaged and therefore calls for disposal
+	- This calls for an X-ray
+- call out (공개적으로) 비판하다, 소리쳐 부르다
+	- She called out the company for unfair practices
+	- He called out my name in the crowd
+- leading role 주인공 역할
+	- She played the leading role in the film
+	- He's finally landed a leading role on Broadway
+- land 획득하다, 손에 넣다, 얻다 (어렵게 얻어낸 성과)
+	- He landed a job at Google
+	- She landed a big contract
+	- He landed a leading role
+- star in 중요한 배역으로 출연하다
+	- Leonardo DiCaprio starred in Titanic
+	- She's starring in a new Netfilx series this fall
+	- Tom Hanks starred in many blockbuster films
+- appear in 출연하다 (조연 등 비중없는 배역도 가능)
+	- He appeared in three episodes of the show
+	- She appeared in a small role in "The Matrix"
+	- Her story appeared in the newspaper yesterday
+
+#### 2025-07-19
+- assert 단언하다
+- assume (섣불리) 단정하다 ; 책임,역할을 지다 ; ~인 척 하다
+   - you just assumed I was angry without asking me
+   - Don’t just assume things. Ask first
+   - He assumed full responsibility for the failure
+   - She will assume the role of team leader next week
+   - He assumed an air of confidence
+   - She assumed a look of innocence
+- presume 추측하다(그럴 가능성이 높다고 여기다)
+   - I presumed he knew about the meeting
+   - I presume you're here for the meeting?
+- I presume, 추정컨대
+
+#### 2025-08-23
+- display case 진열장
+- glitch 작은 문제(결함)-> 주로 컴퓨터, 기계류
+	- The system were down briefly in the middle of the night and there was a glitch in the computer
+- resolution 문제 해결 ; 결단력 ; 해상도 ; 결의안
+	- I've contacted IT for a resolution
+- A leading expert in ~ 분야의 권위자
+- engagement 약혼, 약속 ;  업무 ; 교전 ; 참여, 관계
+	- Their engagement was announced in the local paper
+	- It was her first official engagement
+	- I had to refuse because of a prior engagement
+	- The general tried to avoid an engagement with the enemy
+- wristwatch 손목시계
+- archway 아치형 입구
+- shared documents 공유문서
+- unreliable 믿을(신뢰할) 수 없는
+	- The trains are notoriously unreliable
+	- He's totally unreliable as a source of information
+- notorious 악명높은
+	- A notorious criminal
+	- The country is notorious for its appalling prison conditions
+	- The bar become notorious as a meeting-place for drug dealers
+- appalling 끔찍한
+	- To be blunt, your work is appalling
+	- Appalling crimes committed against innocent children
+- initiative 계획
+	- A government initiative to combat unemployment
+- combat 전투, 싸움 ; 방지하다 (주로 정부가 하는 느낌)
+	- measures to combat crime/inflation/unemployment/disease
+	- The government is taking action to combat drug abuse
+- though (문장 끝에 와서) 그렇지만
+	- Our team lost. It was a good game though
+	- We are still friends, though
+- demographic 인구, 사람들(격식)
+	- We expect it to reach a wider demographic
+- focus heavily on ~에 강하게 집중하다 (heavily 대신에 mainly, primarily, strongly)
+	- The report focuses heavily on customer feedback
+	- The study focuses heavily on the long-term effect of climate change on coastal regions
+	- Our marketing strategy focuses heavily on social media engagement
+- schedule a meeting 회의를 열다
+	- Good idea. I'll schedule a meeting for next Monday
+- wonder 궁금해하다 ; 경이로움
+	- I wonder who she is
+	- I was just beginning to wonder where you were
+	- I wonder if she will come to the meeting
+	- I wonder whether this medicine has any side effects
+	- (정중한 부탁) I wonder if you could help me with this form
+	- (정중한 제안) I was wondering if you had a moment to talk
+	- The Grand Canyon is a natural wonder
+	- She looked at the newborn baby in wonder
+	- I wonder at the beauty of the night sky
+	- The performance filled the audience with wonder
+- I was just wondering 그냥 궁금해서 그런건데요 (=Out of curiosity, I was wondering ...)
+	- I was just wondering if you're free this weekend
+	- Out of curiosity, I was wondering how you met each other
+- Please be aware that 유념해두세요, 참고하세요
+	- Please be aware that the office will be closed next Monday
+	- 비슷한 표현: Please note that, Please keep in mind that (격식) Kindly be advised that, It should be noted that
+- last-minute change 막바지 변경 (막판에 바꿨다는 뉘앙스)
+	- However, Michelle wasn't originally planning to attend the premiere, only to have a last minute change of heart.
+	- That was the original plan, but there was a last-minute change
+	- She wasn't going to attend the wedding, but she had a last-minute change of heart
+- Only to (뜻밖의 결과로) 결국 ~하게 되다
+	- He hurried to the station, only to miss the train
+	- She invested all her savings, only to lose everything
+	- He went to apologize, only to be warmly welcomed
+- Change of heart 마음이 바뀜(감정 위주)
+	- She had a change of heart and decided to give him another chance
+	- A first he refused to adopt a pet, but he had a change of heart after visiting the shelter
+	- He had a change of heart and apologized for his behavior
+- accordingly 그에 맞춰
+	- We have to discover his plans and act accordingly
+	- The cost of materials rose sharply last year. Accordingly, we were forced to increase our price
+- prop 지주, 버팀목, 받침대 ; 받치다
+	- He propped his bike against the wall
+	- Don't prop your head up with your arm
+#### 2025-08-24
+- go with 잘 어울리다 ; 선택하다
+	- Does this jacket go with this skirt?
+	- I'll go with option B
+	- Do you think we should go with the first design, or should we try another one?
+- implement 실행하다
+	- They tried to implmenet a new system
+- stop 들르는 장소, 방문지
+	- Our first stop was Paris
+	- This town is just a short stop on our road trip
+- make a stop 잠시 들르다
+	- We made a stop at the gas station before heading to the mountains
+	- Let's make a quick stop for coffee
+- ~ minutes away ~분 거리에 있다 (수단을 명시할때는 소유격 's를 붙여야)
+	- The station is just 5 minutes away
+	- The beach is a 20 minutes' drive from the hotel
+	- It's just a 5 minutes' walk to the subway station
+- stacked on top of each other 차곡차곡 포개져 있는
+	- The boxes were stacked on top of each other
+- heaped up 수북히 쌓인
+	- Snow was heaped up along the roadside
+- layered 겹겹이 층진
+	- The cake was layered with cream and fruit
+- I'm calling about ~때문에 전화 드렸습니다
+	- I'm calling about the jop opening you posted online
+	- I'm calling to ask about your services
+- job opening 채용공고
+	- There are several job openings at our company right now
+	- The job opening requires three years of experience in marketing
+- 일자리가 비어있다는 의미의 다양한 표현들: job opening, a vacancy, position available, open position, open role
+	- We currently have several job openings in our IT department
+	- There's a vacancy for a sales manager at the branch office
+	- We have a position available in the marketing team
+	- Our company is hiring new engineers
+	- We are recruiting interns for the summer program
+	- There are several open positions in the HR department (open role도 ehla)
+- 인력이 부족하다는 다양한 표현들: short-staffed, understaffed, a staff shortage, a shortage of workers, lack of manpower, shorthanded
+	- We are short-staffed today because two people are on sick leave
+	- The hospital has been understaffed for months
+- accommodate 수용하다 ; 맞춰주다, 요구를 들어주다 ; 조정하다 ; 적응하다
+	- This meeting room can't accommodate more than 20 people
+	- We always try to accommodate our customers' needs
+	- I can accomodate your shedule if you prefer an earlier meeting
+	- The plan was adjusted to accommodate the new regulations
+	- Our eyes gradually accomodated to the dark
+- shift 근무조, 교대근무
+	- I'm working the night shift this week
+	- She just finished her morning shift at the hosplital
+	- My shift is from 9 am to 6 pm
+	- She works the day shift, which runs from 9 to 5
+- allocate more of the budget 뉘앙스 차이
+	- allocate more budget 하면 예산 총액 자체를 더 늘리다
+	- allocate more of the budget 하면 이미 있는 예산 안에서 더 많은 비중(몫)을 배정하다의 뉘앙스
+- 업무용 자료 작성의 표현들: draft, prepare, write, draw up, put together, compile
+	- draft 초안을 작성하다, draw up 형식적 문서 작성
+	- They drew up a new employment contract
+- be awarded a contract 계약을 수주하다 (= win a contract, secure a contract)
+	- The company was awarded a contract by the Ministry of Defense
+- miss a deadline 기한을 놓치다 (fall behind schedule, not make the deadline, be overdue)
+- meet a dealine 기한을 지키다 (make a deadline, finish on time, be on schedule, stay on schedule)
+	- We managed to meet the deadline despite the delay
+- nearly not 하마터면 못할뻔했다
+	- He nearly didn't make it to the meeting
+- make it to 어려움에도 불구하고 도착(참석)하다 ; 성공하다
+	- I finally made it to the airport on time
+	- Sorry, I couldn't make it to the party last night
+	- He worked hard and finally made it to the top of his career
+- ask for an extension 기한 연장을 요청하다
+	- He asked for an extension of the payment deadline
+- comprehensive 종합적인
+	- We need a comprehensive plan for the project
+	- The book provides a comprehensive guide to English grammar
+- 사물이 놓여있는 경우도 sit의 표현을 쓰기도 함
+	- A small lanp sits on the desk
+- go over budget 예산을 초과하다 (be over budget)
+	- The project went over budget by $2 million
+	- The campaign is already over budget
+- offset 상쇄하다(초과된 예산의 균형을 맞추다)
+	- We need to find a way to offset the budget overrun
+	- Additional revenue was used to offset the cost overruns
+- cost overrun 초과 지출, 예산 초과
+- visuals 시각자료
+	- The teacher used visuals to explain the concept
+- engaging 호감이 가는, 매력적인
+- any vs any of : any는 막연히 전체를 의미, any of 는 이 중에서 어떤것도 라는 구체적 의미
+	- Any student can join the club. (세상에 있는) 학생이라면 누구든 동아리에 가입할 수 있다.
+	-  Any of the students in this class can join the club. (이 반에 있는) 학생이라면 누구든 동아리에 가입할 수 있다.
+	-  You can eat any apple. 아무 사과나 먹어도 돼. (막연히 모든 사과 중 하나)
+	- You can eat any of these apples. (내가 가리키는) 이 사과들 중 아무거나 먹어도 돼.
+	-  You can take any test available at the clinic. 병원에서 가능한 검사는 어떤 것이든 받을 수 있습니다.
+	- You can take any of the tests listed here. 여기 나열된 검사들 중에서 아무거나 받을 수 있습니다.
+- halt 멈추다, 정지하다 (사람,동물,교통수단,활동,기계 등 다양)
+	- The train came to a halt
+	- Production halted due to the strike
+	- The soldiers halted at the border
+	- The bus halted suddenly
+- malfunction 기계나 시스템이 오작동
+	- The computer is malfunctioning
+- Out of order 고장난, 사용할 수 없는(일시적으로 완전히 사용 불가)
+	- The vending machine is out of order
+- move up (일정, 시간, 순서를) 앞당기다
+	- Can we move the meeting up to 2 p.m.?
+	- The deadline has been moved up to next Friday.
+- push back 뒤로 미루다
+	- The meeting was pushed back to 5 p.m.
+- sharp 정확히 (=on the dot)
+	- The meeting starts at 9:00 sharp, so don't be late
+	- Be there at 7:30 sharp.
+	- The class starts at 10 o'clock on the dot
+	- (exactly at 7 = promptly at 7 = at 7 sharp = at 7 on the dot)
+- stop 정거장(단순히 차량이 서는 지점)
+	- The train will not make any stops between here and Boston
+	- There are three stops left before we arrive
+	- My house is two stops away
+	- You should get off in four stops
+	- How many stops are left until Central Station?
+	- We'll reach your hotel in just two more stops
+- arrange 준비하다
+	- Everything has been arranged for the conference
+	- We will arrange transportation for you
+- call volume 전화량
+	- We are currently experiencing high call volumes
+	- Call volumes usually increase during the holiday season
+	- The report shows call volumes by department
+- lock in a date 날짜를 확정하다
+	- Can we lock in the date for the workshop?
+- schedule conflict 일정이 겹침
+	- I have a schedule conflict and can't attend the meeting
+- commitment 약속 (단순 시간약속이 아닌 반드시 키져야 하는 중요한 일)
+	- Sorry, I can't join. I have a prior commitment
+- engagement 약속 (공적인 행사성 약속- 강연, 만찬, 발표, 미팅 등)
+	- The professor has a speaking engagement tomorrow
+- appointment 약속 (개인적이고 예약성의 시간, 장소가 정해진 약속 - 병원, 상담, 미용실 등)
+	- I have a doctor's appointment at 3 p.m.
+- be out 불(화재)이 꺼진 (불을 끄다: put out / 불이 꺼지다: go out / 꺼진 상태: be out)
+	- By the time we arrived at the site, the fire was out
+- water dispenser 정수기
+- apply paint to 페인트칠하다
+	- The workers applied paint to the metal surface
+- 도로 재포장 표현: resurface the road, rapave the road
+	- The city plans to resurface the road next month
+	- They repaved the main street last year
+- stock 비축하다, 채워지다(be stocked)
+	- The fridge is stocked with drinks
+	- The library is well stocked with books
+#### 2025-08-26
+- inclement 날씨가 좋지 못한
+	- Due to inclement weather, all flights have been cancelled for the next twenty-four hours
+- weather warnings 기상 경보, 기상 특보
+	- The Meteorological Office has issued weather warnings for heavy snowfall
+- The Meteorological Office 기상청
+- adverse weather 좋지 않은 날씨

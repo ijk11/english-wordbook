@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<title>영어 단어장</title>
+<meta name="description" content="Obsidian 영어 공부 노트로 만든 개인용 단어장 PWA">
+<meta name="theme-color" content="#101426">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="단어장">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div id="boot" class="boot"><div class="spinner"></div><p>단어장 불러오는 중…</p></div>
+
+<main id="app" hidden>
+
+  <!-- ───────────────────────── 홈 ───────────────────────── -->
+  <section class="view" id="view-home">
+    <header class="topbar">
+      <div>
+        <p class="topbar-sub" id="home-date"></p>
+        <h1 class="topbar-title">영어 단어장</h1>
+      </div>
+      <button class="icon-btn" id="theme-toggle" title="테마 전환" aria-label="테마 전환">◐</button>
+    </header>
+
+    <div class="hero card">
+      <div class="hero-ring">
+        <svg viewBox="0 0 120 120" aria-hidden="true">
+          <circle class="ring-bg" cx="60" cy="60" r="52"></circle>
+          <circle class="ring-fg" cx="60" cy="60" r="52" id="ring"></circle>
+        </svg>
+        <div class="hero-ring-label">
+          <strong id="hero-pct">0%</strong>
+          <span>암기율</span>
+        </div>
+      </div>
+      <div class="hero-info">
+        <div class="hero-line"><span>오늘 복습</span><b id="stat-due">0</b></div>
+        <div class="hero-line"><span>새 카드</span><b id="stat-new">0</b></div>
+        <div class="hero-line"><span>연속 학습</span><b id="stat-streak">0일</b></div>
+        <button class="btn primary block" id="btn-start">오늘 학습 시작</button>
+      </div>
+    </div>
+
+    <h2 class="section-title">덱</h2>
+    <div id="deck-list" class="deck-list"></div>
+
+    <h2 class="section-title">최근 12주</h2>
+    <div class="card heatmap-card">
+      <div id="heatmap" class="heatmap"></div>
+      <p class="hint" id="heatmap-hint"></p>
+    </div>
+  </section>
+
+  <!-- ───────────────────────── 학습 ───────────────────────── -->
+  <section class="view" id="view-study" hidden>
+    <header class="topbar slim">
+      <button class="icon-btn" id="study-back" aria-label="뒤로">←</button>
+      <div class="progress"><div class="progress-fill" id="study-progress"></div></div>
+      <span class="counter" id="study-count">0 / 0</span>
+    </header>
+
+    <div id="study-body">
+      <div class="flash" id="flash">
+        <div class="flash-meta">
+          <span class="chip" id="flash-deck"></span>
+          <span class="chip ghost" id="flash-type"></span>
+          <button class="icon-btn star" id="flash-star" aria-label="즐겨찾기">☆</button>
+        </div>
+
+        <div class="flash-front">
+          <p class="flash-term" id="flash-front"></p>
+          <button class="icon-btn speak" id="flash-speak" aria-label="발음 듣기">🔊</button>
+        </div>
+
+        <div class="flash-back" id="flash-back" hidden>
+          <p class="flash-meaning" id="flash-meaning"></p>
+          <ul class="ex-list" id="flash-examples"></ul>
+          <ul class="note-list" id="flash-notes"></ul>
+        </div>
+
+        <p class="tap-hint" id="tap-hint">탭해서 뜻 보기</p>
+      </div>
+
+      <div class="grade-row" id="grade-row" hidden>
+        <button class="btn grade again" data-g="0"><b>다시</b><small id="lbl-0"></small></button>
+        <button class="btn grade hard"  data-g="1"><b>어려움</b><small id="lbl-1"></small></button>
+        <button class="btn grade good"  data-g="2"><b>알맞음</b><small id="lbl-2"></small></button>
+        <button class="btn grade easy"  data-g="3"><b>쉬움</b><small id="lbl-3"></small></button>
+      </div>
+    </div>
+
+    <div id="study-done" class="empty" hidden>
+      <div class="empty-icon">🎉</div>
+      <h2>오늘 학습 완료</h2>
+      <p id="done-summary"></p>
+      <button class="btn primary" id="done-more">더 학습하기</button>
+      <button class="btn ghost" id="done-home">홈으로</button>
+    </div>
+  </section>
+
+  <!-- ───────────────────────── 찾기 ───────────────────────── -->
+  <section class="view" id="view-browse" hidden>
+    <header class="topbar">
+      <h1 class="topbar-title">찾기</h1>
+      <span class="counter" id="browse-count"></span>
+    </header>
+
+    <div class="search-wrap">
+      <input type="search" id="search" placeholder="영어 또는 한글로 검색" autocomplete="off" enterkeyhint="search">
+    </div>
+
+    <div class="filter-scroll"><div class="filters" id="filter-deck"></div></div>
+    <div class="filter-scroll"><div class="filters" id="filter-misc"></div></div>
+
+    <div id="browse-list" class="entry-list"></div>
+    <button class="btn ghost block" id="browse-more" hidden>더 보기</button>
+  </section>
+
+  <!-- ───────────────────────── 퀴즈 ───────────────────────── -->
+  <section class="view" id="view-quiz" hidden>
+    <header class="topbar">
+      <h1 class="topbar-title">퀴즈</h1>
+      <span class="counter" id="quiz-count"></span>
+    </header>
+
+    <div id="quiz-setup">
+      <div class="card">
+        <h2 class="card-title">문제 범위</h2>
+        <div class="filters" id="quiz-deck"></div>
+        <h2 class="card-title">방향</h2>
+        <div class="filters" id="quiz-dir"></div>
+        <h2 class="card-title">문항 수</h2>
+        <div class="filters" id="quiz-len"></div>
+        <button class="btn primary block" id="quiz-start">시작</button>
+        <p class="hint" id="quiz-pool"></p>
+      </div>
+    </div>
+
+    <div id="quiz-play" hidden>
+      <div class="progress"><div class="progress-fill" id="quiz-progress"></div></div>
+      <div class="card quiz-card">
+        <p class="quiz-prompt" id="quiz-prompt"></p>
+        <button class="icon-btn speak" id="quiz-speak" aria-label="발음 듣기">🔊</button>
+      </div>
+      <div id="quiz-choices" class="choices"></div>
+      <button class="btn ghost block" id="quiz-next" hidden>다음</button>
+    </div>
+
+    <div id="quiz-result" class="empty" hidden>
+      <div class="empty-icon" id="quiz-emoji">✅</div>
+      <h2 id="quiz-score"></h2>
+      <div id="quiz-wrong" class="entry-list"></div>
+      <button class="btn primary" id="quiz-again">다시 풀기</button>
+      <button class="btn ghost" id="quiz-back">범위 다시 고르기</button>
+    </div>
+  </section>
+
+  <!-- ───────────────────────── 설정 ───────────────────────── -->
+  <section class="view" id="view-settings" hidden>
+    <header class="topbar"><h1 class="topbar-title">설정</h1></header>
+
+    <div class="card">
+      <h2 class="card-title">학습</h2>
+      <label class="row">
+        <span>하루 새 카드<small>매일 새로 꺼내올 카드 수</small></span>
+        <input type="number" id="set-new" min="0" max="200" step="5">
+      </label>
+      <label class="row">
+        <span>기본 방향<small>플래시카드 앞면</small></span>
+        <select id="set-dir">
+          <option value="en2ko">영어 → 한글</option>
+          <option value="ko2en">한글 → 영어</option>
+          <option value="mix">섞기</option>
+        </select>
+      </label>
+      <label class="row">
+        <span>자동 발음<small>카드가 나오면 바로 읽어줌</small></span>
+        <input type="checkbox" id="set-autotts">
+      </label>
+      <label class="row">
+        <span>발음 속도</span>
+        <input type="range" id="set-rate" min="0.6" max="1.2" step="0.05">
+      </label>
+    </div>
+
+    <div class="card">
+      <h2 class="card-title">데이터</h2>
+      <p class="hint" id="set-info"></p>
+      <div class="btn-row">
+        <button class="btn ghost" id="set-export">진도 내보내기</button>
+        <button class="btn ghost" id="set-import">진도 가져오기</button>
+      </div>
+      <button class="btn danger block" id="set-reset">진도 전체 초기화</button>
+      <input type="file" id="import-file" accept="application/json" hidden>
+    </div>
+
+    <p class="footer-note">
+      Obsidian <code>영어공부</code> 노트에서 생성 ·
+      <span id="set-version"></span>
+    </p>
+  </section>
+
+  <nav class="tabbar">
+    <button data-view="home"><span>🏠</span>홈</button>
+    <button data-view="study"><span>🃏</span>학습</button>
+    <button data-view="browse"><span>🔍</span>찾기</button>
+    <button data-view="quiz"><span>🎯</span>퀴즈</button>
+    <button data-view="settings"><span>⚙️</span>설정</button>
+  </nav>
+</main>
+
+<div id="toast" class="toast" hidden></div>
+
+<script src="app.js"></script>
+</body>
+</html>
