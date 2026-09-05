@@ -1,6 +1,6 @@
 /* 오프라인용 서비스워커.
    앱 껍데기는 캐시 우선, 단어 데이터는 네트워크 우선(있으면 최신, 없으면 캐시). */
-const CACHE = 'wordbook-v1';
+const CACHE = 'wordbook-v2';
 const SHELL = [
   './',
   './index.html',

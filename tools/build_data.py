@@ -67,6 +67,8 @@ HANGUL = re.compile(r"[\uac00-\ud7a3\u3131-\u318e]")
 DATE_HEADING = re.compile(r"^#{1,6}\s*(\d{4})[-.](\d{1,2})[-.](\d{1,2})\s*$")
 ANY_HEADING = re.compile(r"^(#{1,6})\s*(.+?)\s*$")
 HTML_TAG = re.compile(r"<[^>]+>")
+CLOSE_TAG = re.compile(r"</[A-Za-z][^<>]*>")
+OPEN_TAG = re.compile(r"<[A-Za-z][^<>]*>")
 BOLD_LEAD = re.compile(r"^\*\*(.+?)\*\*\s*(.*)$", re.S)
 BULLET = re.compile(r"^(\s*)[-*+]\s+(.*)$")
 TABLE_SEP = re.compile(r"^\|?[\s:\-|]+\|[\s:\-|]*$")
@@ -105,6 +107,10 @@ def pull_korean_parens(term: str, meaning: str):
 
 def clean(s: str) -> str:
     """HTML 하이라이트 태그와 옵시디언 문법을 걷어내고 공백을 정리한다."""
+    # 원문에 <font color="#000</span>000"> 처럼 깨진 태그가 있어서
+    # 닫는 태그를 먼저 걷어낸 뒤 여는 태그를 지운다.
+    s = CLOSE_TAG.sub("", s)
+    s = OPEN_TAG.sub("", s)
     s = HTML_TAG.sub("", s)
     s = s.replace("&nbsp;", " ").replace("&amp;", "&").replace("&gt;", ">").replace("&lt;", "<")
     s = s.replace("==", "")
@@ -164,7 +170,11 @@ def split_entry(line: str):
         idx = HANGUL.search(stripped).start()
         if idx > 0:
             # "expressway 고속도로" — 첫 한글 앞까지가 표제어.
-            return pull_korean_parens(tidy_term(stripped[:idx]), tidy_meaning(stripped[idx:]))
+            term, meaning = tidy_term(stripped[:idx]), tidy_meaning(stripped[idx:])
+            # "~ minutes away ~분 거리" 의 물결표는 뜻 쪽에 붙는다.
+            if term.endswith("~") and not meaning.startswith("~"):
+                term, meaning = term[:-1].strip(), "~" + meaning
+            return pull_korean_parens(term, meaning)
         m = ASCII_WORD.search(stripped)
         if m:
             # "다가가다 approach (전치사 없음)" — 뒤쪽이 순수 영어일 때만 뒤집는다.

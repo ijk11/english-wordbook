@@ -106,10 +106,10 @@
     </div>
   </section>
 
-  <!-- ───────────────────────── 찾기 ───────────────────────── -->
+  <!-- ───────────────────────── 목록 ───────────────────────── -->
   <section class="view" id="view-browse" hidden>
     <header class="topbar">
-      <h1 class="topbar-title">찾기</h1>
+      <h1 class="topbar-title">목록</h1>
       <span class="counter" id="browse-count"></span>
     </header>
 
@@ -120,8 +120,21 @@
     <div class="filter-scroll"><div class="filters" id="filter-deck"></div></div>
     <div class="filter-scroll"><div class="filters" id="filter-misc"></div></div>
 
+    <div class="listbar">
+      <select id="sort-by" aria-label="정렬">
+        <option value="default">노트 순서</option>
+        <option value="alpha">알파벳순</option>
+        <option value="date-desc">최근 공부한 순</option>
+        <option value="date-asc">오래된 순</option>
+        <option value="deck">덱별</option>
+      </select>
+      <button class="pill" id="toggle-dense">빽빽하게</button>
+      <button class="pill" id="toggle-mask">가리기</button>
+    </div>
+
     <div id="browse-list" class="entry-list"></div>
-    <button class="btn ghost block" id="browse-more" hidden>더 보기</button>
+    <div id="browse-sentinel" aria-hidden="true"></div>
+    <p class="hint center" id="browse-end" hidden>— 끝 —</p>
   </section>
 
   <!-- ───────────────────────── 퀴즈 ───────────────────────── -->
@@ -211,7 +224,7 @@
   <nav class="tabbar">
     <button data-view="home"><span>🏠</span>홈</button>
     <button data-view="study"><span>🃏</span>학습</button>
-    <button data-view="browse"><span>🔍</span>찾기</button>
+    <button data-view="browse"><span>📖</span>목록</button>
     <button data-view="quiz"><span>🎯</span>퀴즈</button>
     <button data-view="settings"><span>⚙️</span>설정</button>
   </nav>

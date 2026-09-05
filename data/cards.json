@@ -1,6 +1,6 @@
 {
- "version": "202609050644",
- "generatedAt": "2026-09-05T06:44:59+00:00",
+ "version": "202609050706",
+ "generatedAt": "2026-09-05T07:06:41+00:00",
  "decks": [
   {
    "id": "toeic",
@@ -3172,10 +3172,10 @@
    "date": "2025-08-23"
   },
   {
-   "id": "toeic-7999362601",
+   "id": "toeic-3c7ec9eb2d",
    "deck": "toeic",
-   "term": "A leading expert in ~",
-   "meaning": "분야의 권위자",
+   "term": "A leading expert in",
+   "meaning": "~분야의 권위자",
    "type": "phrase",
    "date": "2025-08-23"
   },
@@ -3294,10 +3294,10 @@
    "date": "2025-08-23"
   },
   {
-   "id": "toeic-fdf346a9d4",
+   "id": "toeic-cd5015b51e",
    "deck": "toeic",
-   "term": "focus heavily on ~",
-   "meaning": "에 강하게 집중하다 (heavily 대신에 mainly, primarily, strongly)",
+   "term": "focus heavily on",
+   "meaning": "~에 강하게 집중하다 (heavily 대신에 mainly, primarily, strongly)",
    "examples": [
     "The report focuses heavily on customer feedback",
     "The study focuses heavily on the long-term effect of climate change on coastal regions",
@@ -3472,10 +3472,10 @@
    "date": "2025-08-24"
   },
   {
-   "id": "toeic-b32144e752",
+   "id": "toeic-13d14feff0",
    "deck": "toeic",
-   "term": "~ minutes away ~",
-   "meaning": "분 거리에 있다 (수단을 명시할때는 소유격 's를 붙여야)",
+   "term": "~ minutes away",
+   "meaning": "~분 거리에 있다 (수단을 명시할때는 소유격 's를 붙여야)",
    "examples": [
     "The station is just 5 minutes away",
     "The beach is a 20 minutes' drive from the hotel",
@@ -3518,10 +3518,10 @@
    "date": "2025-08-24"
   },
   {
-   "id": "toeic-7340d701dc",
+   "id": "toeic-200b6f6dce",
    "deck": "toeic",
-   "term": "I'm calling about ~",
-   "meaning": "때문에 전화 드렸습니다",
+   "term": "I'm calling about",
+   "meaning": "~때문에 전화 드렸습니다",
    "examples": [
     "I'm calling about the jop opening you posted online",
     "I'm calling to ask about your services"
@@ -5553,9 +5553,9 @@
    "topic": "상황에 따라 적절하게 판단해야 해"
   },
   {
-   "id": "opic-a78ea0a430",
+   "id": "opic-b5eac66682",
    "deck": "opic",
-   "term": "000\">discretion",
+   "term": "discretion",
    "meaning": "신중함, 자율적인 재량권",
    "examples": [
     "This matter must be handled with discretion",

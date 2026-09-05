@@ -385,8 +385,13 @@ function showDone() {
   $('#study-progress').style.width = '100%';
 }
 
-/* ── 찾기 ──────────────────────────────────────────── */
-const browse = { q: '', deck: null, type: null, flag: null, limit: 60 };
+/* ── 목록 ──────────────────────────────────────────── */
+const CHUNK = 80;
+const browse = {
+  q: '', deck: null, type: null, flag: null,
+  sort: 'default', dense: false, mask: false,
+  hits: [], groupCounts: new Map(), rendered: 0,
+};
 
 function renderFilters() {
   const dk = $('#filter-deck'); dk.innerHTML = '';
@@ -435,18 +440,86 @@ function matches(c) {
   return true;
 }
 
+/** 정렬 기준별 그룹 이름. null 이면 구분 머리글을 넣지 않는다. */
+function groupOf(c) {
+  if (browse.sort === 'deck') return S.deckMap.get(c.deck)?.name || c.deck;
+  if (browse.sort.startsWith('date')) return c.date || '날짜 없음';
+  return null;
+}
+
+function collectHits() {
+  const hits = S.cards.filter(matches);
+  const s = browse.sort;
+
+  if (s === 'alpha') {
+    // 앞에 붙은 ~, a/an, 따옴표 따위는 정렬에서 무시한다.
+    const key = c => c.term.toLowerCase().replace(/^[^a-z0-9가-힣]+/, '');
+    hits.sort((a, b) => key(a).localeCompare(key(b), 'en'));
+  } else if (s === 'deck') {
+    const rank = new Map(S.decks.map((d, i) => [d.id, i]));
+    hits.sort((a, b) => (rank.get(a.deck) ?? 99) - (rank.get(b.deck) ?? 99));
+  } else if (s.startsWith('date')) {
+    const dir = s === 'date-desc' ? -1 : 1;
+    hits.sort((a, b) => {
+      const x = a.date, y = b.date;
+      if (!x && !y) return 0;
+      if (!x) return 1;                     // 날짜 없는 카드는 늘 맨 뒤
+      if (!y) return -1;
+      return x < y ? -dir : x > y ? dir : 0;
+    });
+  }
+
+  browse.hits = hits;
+  browse.groupCounts = new Map();
+  for (const c of hits) {
+    const g = groupOf(c);
+    if (g) browse.groupCounts.set(g, (browse.groupCounts.get(g) || 0) + 1);
+  }
+}
+
+/** 빽빽하게·가리기는 이미 그려진 목록에 클래스만 갈아끼운다. */
+function applyListStyle() {
+  const list = $('#browse-list');
+  list.classList.toggle('dense', browse.dense);
+  list.classList.toggle('mask', browse.mask);
+  $('#toggle-dense').classList.toggle('on', browse.dense);
+  $('#toggle-mask').classList.toggle('on', browse.mask);
+}
+
+/** 검색어·필터·정렬이 바뀌면 처음부터 다시 그린다. */
 function renderBrowse() {
   renderFilters();
-  const hits = S.cards.filter(matches);
-  $('#browse-count').textContent = `${hits.length}장`;
+  applyListStyle();
+  $('#sort-by').value = browse.sort;
 
+  collectHits();
+  browse.rendered = 0;
+  $('#browse-list').innerHTML = '';
+  $('#browse-count').textContent = `${browse.hits.length}장`;
+  appendChunk();
+}
+
+function appendChunk() {
   const list = $('#browse-list');
-  list.innerHTML = '';
-  for (const c of hits.slice(0, browse.limit)) list.appendChild(entryEl(c));
+  const slice = browse.hits.slice(browse.rendered, browse.rendered + CHUNK);
+  let last = browse.rendered ? groupOf(browse.hits[browse.rendered - 1]) : null;
 
-  const more = $('#browse-more');
-  more.hidden = hits.length <= browse.limit;
-  more.textContent = `더 보기 (${Math.max(0, hits.length - browse.limit)}장 남음)`;
+  const frag = document.createDocumentFragment();
+  for (const c of slice) {
+    const g = groupOf(c);
+    if (g && g !== last) {
+      const h = document.createElement('div');
+      h.className = 'group-head';
+      h.innerHTML = `<b>${esc(g)}</b><span>${browse.groupCounts.get(g)}장</span>`;
+      frag.appendChild(h);
+      last = g;
+    }
+    frag.appendChild(entryEl(c));
+  }
+  list.appendChild(frag);
+  browse.rendered += slice.length;
+
+  $('#browse-end').hidden = !browse.hits.length || browse.rendered < browse.hits.length;
 }
 
 function entryEl(c) {
@@ -456,12 +529,17 @@ function entryEl(c) {
   el.innerHTML = `
     <div class="entry-head">
       <span class="entry-dot" style="background:${deck ? deck.color : 'var(--muted)'}"></span>
+      ${S.starred.has(c.id) ? '<span class="entry-star">★</span>' : ''}
       <span class="entry-term">${hl(c.term)}</span>
-      ${S.starred.has(c.id) ? '<span class="icon-btn star on">★</span>' : ''}
-    </div>
-    <div class="entry-meaning">${c.meaning ? hl(c.meaning) : '<i>뜻 없음</i>'}</div>`;
+      <span class="entry-meaning">${c.meaning ? hl(c.meaning) : '<i>뜻 없음</i>'}</span>
+    </div>`;
 
   el.onclick = () => {
+    // 가리기 모드에선 첫 탭이 뜻을 열고, 그 다음 탭부터 상세가 펼쳐진다.
+    if (browse.mask && el.closest('#browse-list') && !el.classList.contains('revealed')) {
+      el.classList.add('revealed');
+      return;
+    }
     const open = el.querySelector('.entry-detail');
     if (open) { open.remove(); return; }
     const d = document.createElement('div');
@@ -484,7 +562,20 @@ function entryEl(c) {
       if (!a) return;
       e.stopPropagation();
       if (a === 'speak') speak(c.term);
-      if (a === 'star') { toggleStar(c.id); renderBrowse(); }
+      if (a === 'star') {
+        toggleStar(c.id);
+        const on = S.starred.has(c.id);
+        e.target.classList.toggle('on', on);
+        e.target.textContent = on ? '★' : '☆';
+        // 목록 줄의 ★ 표시도 같이 맞춰준다 (전체 재렌더 없이).
+        const head = el.querySelector('.entry-head');
+        const mark = head.querySelector('.entry-star');
+        if (on && !mark) {
+          const s = document.createElement('span');
+          s.className = 'entry-star'; s.textContent = '★';
+          head.insertBefore(s, head.querySelector('.entry-term'));
+        } else if (!on && mark) mark.remove();
+      }
     };
     el.appendChild(d);
   };
@@ -747,10 +838,29 @@ function bind() {
 
   $('#search').oninput = debounce(e => {
     browse.q = e.target.value.trim();
-    browse.limit = 60;
     renderBrowse();
   }, 180);
-  $('#browse-more').onclick = () => { browse.limit += 100; renderBrowse(); };
+  $('#sort-by').onchange = e => { browse.sort = e.target.value; renderBrowse(); };
+  $('#toggle-dense').onclick = () => { browse.dense = !browse.dense; applyListStyle(); };
+  $('#toggle-mask').onclick = () => {
+    browse.mask = !browse.mask;
+    $$('#browse-list .revealed').forEach(el => el.classList.remove('revealed'));
+    applyListStyle();
+  };
+
+  // 바닥에 닿으면 다음 묶음을 이어붙인다 (쭉 내리면 끝까지).
+  const sentinel = $('#browse-sentinel');
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(entries => {
+      if (entries[0].isIntersecting && S.view === 'browse'
+          && browse.rendered < browse.hits.length) appendChunk();
+    }, { rootMargin: '600px' }).observe(sentinel);
+  } else {
+    window.addEventListener('scroll', () => {
+      if (S.view !== 'browse' || browse.rendered >= browse.hits.length) return;
+      if (sentinel.getBoundingClientRect().top < innerHeight + 600) appendChunk();
+    }, { passive: true });
+  }
 
   $('#quiz-start').onclick = startQuiz;
   $('#quiz-next').onclick = nextQuestion;
